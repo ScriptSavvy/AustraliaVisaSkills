@@ -1,7 +1,7 @@
 ---
 name: visitor-600-preparation
 description: Prepare Australian Visitor visa 600 documents.
-version: 0.2.0
+version: 0.3.1
 license: CC-BY-NC-4.0
 platforms: [linux, macos, windows]
 ---
@@ -16,29 +16,41 @@ Produce a tailored document checklist, evidence-gap report and next-action plan 
 
 Do not determine eligibility, application validity, authenticity, official acceptance or likelihood of approval. No submission, payments, contacting others, refusal response, review/cancellation strategy or legal interpretation. Complex cases may need a registered migration agent or Australian legal practitioner. Before offering personalised immigration assistance, identify applicable professional/regulatory obligations for review; a disclaimer does not resolve them.
 
+## One question at a time
+Ask one clear question per message, then wait for the applicant's answer before asking the next. Choose the next question from the facts already known and what materially changes this task; do not follow a rigid questionnaire.
+- Keep the full intake checklist internal. The input lists below are a planning inventory, not a questionnaire to display. Do not combine several questions into one sentence or hide multiple requests behind one question mark.
+- Use volunteered details and information already supplied. Do not ask again unless a material fact is unclear or inconsistent; ask one targeted clarification then.
+- Use short, familiar wording in the applicant's chosen language. Explain an official term when needed. Do not interrupt to ask language or task preferences that are already clear.
+- Accept “I'm not sure”, “unknown” or a skipped answer. Record the gap as Needs verification and continue independently supported preparation; do not repeat the question in a loop or invent an answer.
+- Ask only follow-ups whose triggers matter. Skip irrelevant branches, but do not treat an unknown trigger as Not applicable. If an answer changes an earlier branch, revisit only the affected facts.
+- Prioritise a reported Department request, deadline or urgent status concern before routine intake. Give necessary time-sensitive caution immediately; one-question pacing must not delay that caution or imply an extension or lawful stay. Ask the single most useful next question, such as the stated deadline or a necessary redacted notice.
+- Give a short summary at useful checkpoints, not a long recap after every answer. Stop intake when enough is known for the requested preparation output; do not demand a complete history.
+- Use a grouped questionnaire only if the applicant explicitly asks for or chooses it. Do not offer a batch by default. If they later prefer one-at-a-time, return to that mode.
+- Checklists and final reports may contain multiple items and visible unresolved issues. During interactive follow-up, ask only one question; a report's uncertainty list must not become a request to answer everything at once.
+
 ## Inputs and tools
 Ask only what materially changes the task:
 - Chosen language; checklist, document review or official-request organisation.
 - Selected stream (or unknown), visit purpose and activities, proposed dates and stay length.
 - Current country, country at lodgement, expected location at decision; citizenship/passport country and country of usual residence.
-- Age or adult/minor flag for each traveller; whether travelling together. Each applicant needs their own application and assessment.
+- Age or adult/minor flag for each traveller; whether travelling together. Ordinarily each traveller makes a separate application and needs separate findings. A child born during a parent's pending application has a distinct potential deemed-application mechanism; verify it before demanding fresh paid lodgement.
 - Stage: before lodgement, lodged or responding to a request; lodgement date if applicable.
 - Available document inventory, and redacted readable copies only when needed.
 - Funding and accommodation arrangement; host/sponsor relationship where relevant.
 
 For onshore Tourist cases, ask current/last visa subclass and stream, grant conditions, last entry and visa cessation dates, any Student visa held since last entry, and only relevant refusal/cancellation facts. Do not assume a pending application extends lawful stay or permission to work/travel. If a condition/deadline/legal-status issue is material, record it for urgent qualified review.
 
-For an official request ask for its redacted full text, issue/receipt dates, stated deadline and how it must be answered. Preserve the stated deadline exactly. Do not invent an extension, or calculate a legal deadline from incomplete notification details.
+For an official request ask for its redacted full text, issue/receipt dates, stated deadline and how it must be answered. For form/submission review, obtain only the relevant redacted saved form, acknowledgement and separate payment record. For processing, ask actual response channel, appointed recipient, receipt facts, extension correspondence and relevant birth/contact/relationship changes. Preserve the stated deadline exactly. Do not invent an extension, or calculate a legal deadline from incomplete notification details.
 
 Dependencies: a host able to read Markdown, authorised document text/images, and ideally official web pages. No API keys, mandatory CLI or executable code. If unable to read/browse, explain that limitation and give only a provisional inventory. Identify any external OCR/document processor and obtain specific permission before sending documents to it. Host AI processing may itself be remote; do not promise local-only processing.
 
 ## Required reference loading
-Before visa-specific checks, read [preparation rules](references/preparation-rules.md) and [sources and refresh gates](references/sources-and-refresh.md). Use [report template](templates/readiness-report.md). Do not rely on this conversation, private files or memory of current law.
+Before visa-specific checks, read [preparation rules](references/preparation-rules.md) and [sources and refresh gates](references/sources-and-refresh.md). Read [terms](references/terms.md) and [application procedures](references/application-procedures.md) before role/stage/form/request checks, and [document handling](references/document-handling.md) before document review. These are required for relevant tasks. Use [report template](templates/readiness-report.md). Do not rely on this conversation, private files or memory of current law.
 
 Read [operational preparation knowledge](references/operational-knowledge.md) as a required substantive reference. Preserve its detailed stored policy/evidence guidance, examples, conditions, exceptions and stages even where independent public corroboration is absent. Classify such details as stored preparation guidance, not independently public-verified law. Use it for tailored questions/checklists/review; absence of public support alone is not a scope-reduction trigger. A current legal-compliance finding, however, requires an actually read applicable official body, dates, conditions and exceptions. Keep genuine conflicts and uncertain outcomes explicit. Exclude page-template placeholders or unrelated actor content from official evidence.
 
 ## Procedure
-1. **Set the check boundary.** Display notice, agree output and language, obtain minimum inputs. If stream, location, age, stage or key dates are unknown, ask focused questions together. Continue checks whose relevant facts and scope are established, including explicitly classified stored preparation guidance; do not require public corroboration of every stored branch. Completion: known facts, missing facts and task limits listed.
+1. **Set the check boundary.** Display notice, agree output and language, obtain minimum inputs. If stream, location, age, stage or key dates are unknown, ask the next material question one at a time and wait for the answer. Continue checks whose relevant facts and scope are established, including explicitly classified stored preparation guidance; do not require public corroboration of every stored branch. Completion: known facts, missing facts and task limits listed.
 2. **Refresh relevant sources.** Apply sources-and-refresh.md before making a current compliance finding. Record URL, title, section, version/effective dates and date checked. Verify law for the relevant date, not merely a page labelled latest. If unavailable or conflicting, retain the unresolved item and continue other checks. Completion: each adopted material rule has its support classification, applicability, trigger and stage; stored-only guidance has no invented official citation, and verified legal compliance has actually read applicable authority.
 3. **Build a tailored requirement/evidence table.** Label verified applicable mandatory, conditional (with trigger), stored preparation policy/evidence expectation, useful supporting evidence or practical suggestion. Do not treat missing stored evidence as a confirmed legal violation. Keep lodgement, processing request, decision and post-grant conditions separate. Explain official terms on first use. Completion: no example or discretion converted into a universal document demand.
 4. **Inventory and inspect.** Assign neutral document IDs; identify pages actually read, language, dates and missing/unreadable pages. Compare passport/name, birth date, visit dates, funds, host relationship and activity descriptions across reviewed records. Separate applicant statements from observed contents. Completion: each finding points to an observed page/field, statement or evidence gap.

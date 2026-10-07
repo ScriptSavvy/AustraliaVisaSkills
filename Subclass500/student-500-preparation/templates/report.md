@@ -11,6 +11,9 @@ State task, role, stage, relevant dates and actual documents/pages inspected. Ex
 
 For each assessed item distinguish presence, readability, completeness, consistency, currency and verified-rule compliance. Use separate rows or short notes so a readable document does not appear fully compliant by implication. Use the status words in SKILL.md. Unknown applicability/content means Needs verification. If only not provided, say not supplied for this review.
 
+## Procedural records — only when relevant
+Keep this section short or omit it. Distinguish application acknowledgement/date/timezone from payment receipt; residence from correspondence/recipient; request items/channel/deadline from extension requested/granted; original documents from translations/certification; unavailable evidence from proposed alternatives; and birth/change chronology from applicant inclusion. Use neutral IDs and no full identifiers. Report only inspected records and material unknowns.
+
 ## Missing or needing correction
 Confirmed gaps first. Give exact evidence location, why it matters and concrete action. Separate possible concerns from confirmed problems.
 

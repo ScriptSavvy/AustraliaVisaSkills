@@ -17,6 +17,9 @@
 
 For each item record: Presence; Readability; Completeness; Consistency; Currency; Compliance with a verified requirement. Use not checked where a dimension is outside scope. Do not hide mixed findings behind a single status.
 
+## Procedural records — only when relevant
+Omit when irrelevant. Record acknowledgement versus payment, current-application evidence linkage, residence/correspondence/recipient, request item/channel/deadline and extension status. For missing issuer records, distinguish attempts/alternatives from verified acceptance. For newborn/relationship changes, record chronology and acknowledgement without declaring an addition or demanding fresh paid lodgement. Use neutral IDs, not full identifiers.
+
 ## Missing or needs correction
 Confirmed problems only. Explain why the evidence matters and give a source section/official link.
 

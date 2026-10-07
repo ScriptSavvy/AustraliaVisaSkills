@@ -1,5 +1,17 @@
 # Changelog
 
+## Student 500 — 0.4.1 / Visitor 600 — 0.3.1
+- Applicant intake now asks one question at a time, adapting to answers and avoiding repeated questions.
+- Supports unsure/skipped answers, urgent-request priority and a grouped questionnaire only when the applicant explicitly prefers it.
+
+## Student 500 — 0.4.0
+- Added application records, document alternatives, correspondence/request handling and relevant terms.
+- Deepened newborn/change checks while preserving application-date and family-route limits.
+
+## Visitor 600 — 0.3.0
+- Added form/submission, unavailable-document, correspondence/request and terminology guidance.
+- Distinguished ordinary separate applications from the potential newborn mechanism; current applicability remains a verification check.
+
 ## Student 500 — 0.3.0
 - Expanded detailed preparation guidance and clarified current-rule verification.
 - Added application-date checks for the October 2026 onshore and family changes; unresolved exceptions remain flagged.

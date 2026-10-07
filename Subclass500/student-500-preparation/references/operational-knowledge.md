@@ -2,6 +2,10 @@
 
 Read this file in full with `checks.md` and `verification.md` before selecting branches. It preserves substantive preparation guidance, not just webpage summaries. Distinguish **stored policy guidance**, **verified instrument requirements** and **applicant-specific compliance**. Missing accessible corroboration is not a reason to discard a preparation branch. It is also not permission to invent a citation, certify current law or ignore a conflicting applicable provision. Show only relevant uncertainties to the applicant. Never use the material below to promise visa eligibility or acceptance.
 
+## Integrated procedural references
+
+Read [application procedures](application-procedures.md) for form/submission, communication, requests and newborn/change distinctions; [document handling](document-handling.md) for translations, copies and unavailable-evidence alternatives; and [terms](terms.md) for role/stage language. Apply the Student-specific overrides there and the reform gates below. Generic preparation knowledge supplements, not replaces, this subclass foundation.
+
 ## Application dates, authority and uncertainty gates
 
 For each branch identify role, stage, application/test/evidence/decision dates, exact trigger, exceptions and evidence. Guidance may inform what to gather while compliance remains Needs verification. Where an applicable legislative provision contradicts a stored policy summary, use the provision, preserve the conflict and do not revive the contradicted claim.

@@ -3,9 +3,9 @@
 **Important notice:** This is general information and document-preparation support, not legal advice. No visa approval, processing time or other immigration outcome is guaranteed. Materials are provided as-is. Creators, maintainers and distributors disclaim liability only to the extent permitted by applicable law. Rights and liabilities that cannot lawfully be excluded are preserved.
 
 ## First use
-Ask: “Use visitor-600-preparation. Help me make a Subclass 600 document checklist. Ask only what changes the checklist. I prefer [language].”
+Ask: “Use visitor-600-preparation. Help me make a Subclass 600 document checklist. Ask one question at a time and wait for my answer. Ask only what changes the checklist. I prefer [language].”
 
-Tell the agent your stream if known, purpose/activities, country at application, stage, approximate dates, stay length, adult/minor travellers and who pays/provides accommodation. You do not need to upload a full history or passport number for intake.
+Start with a short message in your preferred language. The agent asks one relevant question, waits for your answer, and chooses the next. You do not need to answer a full questionnaire or share a passport number. You may volunteer more details, say 'I'm not sure', or skip a question; unknown facts stay visible. It should use details already supplied, skip irrelevant branches and summarise at useful checkpoints. A Department request or urgent deadline takes priority. Ask for a grouped questionnaire only if you prefer that format.
 
 ## Example prompts
 - Checklist: “Tourist stream, outside Australia, adult, short holiday, self-funded. Prepare a provisional checklist and explain mandatory versus useful evidence.”
@@ -24,3 +24,11 @@ Ready means only ready for the named preparation check. Missing means known appl
 Tourist, Sponsored Family and Business Visitor have official-source-linked preparation branches. ADS/Frequent Traveller receive a bounded inventory and verification plan. Detailed [operational knowledge](references/operational-knowledge.md) preserves credit evidence, renewed-consent scope, welfare alternatives, activity exceptions and visa interactions as stored preparation guidance. Those details inform checklists without being represented as independently public-verified current law; legal compliance and uncertain outcomes still require verification. Complex legal-status, work, custody or refusal issues need qualified review. The agent must explain sources it cannot access and material conflicts; browsing failure is not permission to guess. A latest-labelled legislative compilation may end before your relevant date. Document presence/readability/consistency can still be checked while current compliance remains Needs verification.
 
 Installation: [INSTALL.md](INSTALL.md). Source limits: [sources and refresh](references/sources-and-refresh.md).
+
+## Additional preparation tasks
+- “Review my redacted saved application, acknowledgement and payment receipt. Keep submission and payment dates separate; do not certify validity.”
+- “The civil registry cannot issue this record. Organise my truthful explanation, attempts and alternative evidence; do not assume a waiver.”
+- “Organise this complete redacted information request. Check the recipient, response channel, exact deadline and whether more time was actually granted.”
+- “A child was born while my application was pending. Identify the chronology, records and current-rule questions before assuming applicant addition or a fresh paid application.”
+
+These tasks use the skill's local application-procedures, document-handling and terms references. Start with a summary or document list; share only necessary redacted material. No upload, notification, withdrawal, submission or third-party contact is performed by these preparation prompts.

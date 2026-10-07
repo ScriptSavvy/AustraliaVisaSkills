@@ -6,6 +6,10 @@ This reference preserves detailed **stored preparation guidance**, including pol
 
 Use this knowledge to ask targeted questions, choose evidence, identify potential issues and prepare precise review questions. Do not convert an example into a universal obligation or an officer's discretion into an applicant entitlement. Where currency, an exception, a source conflict or an individual outcome is unresolved, keep **compliance Needs verification** while continuing supported inventory, readability, completeness and consistency checks. Do not label a stored-only detail independently public-verified or attach a public citation that does not support it.
 
+## Integrated procedural references
+
+Read [application procedures](application-procedures.md) for form/submission, communication, requests and newborn/change distinctions; [document handling](document-handling.md) for translations, copies and unavailable-evidence alternatives; and [terms](terms.md) for role/stage language. Apply the Visitor-specific overrides; ordinary grouping is not a Student-style dependent route. Generic preparation knowledge supplements, not replaces, the subclass foundation.
+
 ## Common evidence and temporary intention (C03–C10)
 
 - **C03 temporary intention and other visas:** consider prior compliance, intention to obey visitor conditions, purpose/duration, personal/economic circumstances and credible return plans together. A partner in Australia or a pending/permanent visa application is not, under stored guidance, by itself a reason to conclude temporary intention fails. Assess intentions **during the proposed visitor period**, not an assumption that every longer-term aspiration precludes a visit. Neither this guidance nor a partner relationship proves eligibility; retain other criteria and relevant adverse history.
