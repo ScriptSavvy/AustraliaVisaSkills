@@ -7,8 +7,8 @@ Use these skills in your own AI agent to prepare a document checklist, review su
 ## Choose your skill
 | Visa | Skill | Guides |
 | --- | --- | --- |
-| Student — Subclass 500 | [student-500-preparation](Subclass500/student-500-preparation/SKILL.md), v0.2.1 | [Install](Subclass500/student-500-preparation/INSTALL.md) · [Use](Subclass500/student-500-preparation/USAGE.md) |
-| Visitor — Subclass 600 | [visitor-600-preparation](Subclass600/visitor-600-preparation/README.md), v0.1.0 | [Install](Subclass600/visitor-600-preparation/INSTALL.md) · [Use](Subclass600/visitor-600-preparation/USAGE.md) |
+| Student — Subclass 500 | [student-500-preparation](Subclass500/student-500-preparation/README.md), v0.3.0 | [Install](Subclass500/student-500-preparation/INSTALL.md) · [Use](Subclass500/student-500-preparation/USAGE.md) |
+| Visitor — Subclass 600 | [visitor-600-preparation](Subclass600/visitor-600-preparation/README.md), v0.2.0 | [Install](Subclass600/visitor-600-preparation/INSTALL.md) · [Use](Subclass600/visitor-600-preparation/USAGE.md) |
 
 ## Get started
 1. Download a skill ZIP from Releases, if available. Otherwise choose **Code → Download ZIP** on GitHub.

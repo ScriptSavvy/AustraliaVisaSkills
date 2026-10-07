@@ -8,7 +8,8 @@
 - Purpose, planned duration and travellers (neutral IDs):
 - Scope: checklist only / documents actually reviewed / official-request organisation:
 - Reviewed evidence: document ID, pages, dates and extraction limits. Applicant statements separately:
-- Source currency: official pages/provisions checked, dates and outstanding verification:
+- Source currency: official pages/provisions actually read, actor/section, check dates, version/effective coverage and outstanding verification:
+- Classification boundary: official instruction / verified applicable legal criterion / stored preparation guidance / supporting example / practical safeguard / unresolved verification question:
 
 ## Evidence checklist
 | Item / rule ID | Type and trigger | Stage | Evidence reviewed | Status and reason | Next action |

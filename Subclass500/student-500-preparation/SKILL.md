@@ -3,10 +3,9 @@ name: student-500-preparation
 description: Use when preparing Australian Student visa documents.
 license: CC-BY-NC-4.0
 metadata:
-  version: "0.2.1"
+  version: "0.3.0"
   edition: public
-  supplied_snapshot_checked: "2026-10-07"
-  legend_version: "2025-11-07"
+  official_sources_checked: "2026-10-07"
 ---
 
 # Australian Student visa preparation
@@ -19,12 +18,12 @@ Before asking for applicant details or providing substantive visa preparation gu
 Help an applicant prepare a personalised document checklist, review supplied evidence and organise next actions for the Australian Student visa (subclass 500). Check preparation, not eligibility, application validity, authenticity, likely approval or official acceptance.
 
 ## When to use
-Use for pre-application preparation, supplied-document review or organising a response to an actual document request. Cover primary students, accompanying family and subsequent entrants (family applying separately to join a student). Do not use for subclass 590 eligibility, appeals, cancellation advice, legal representation, submission or payment.
+Use for pre-application preparation, supplied-document review or organising a response to an actual document request. Cover primary students and permitted combined family preparation. For subsequent entrants, restrict assistance to evidence review/historical or saved applications and resolving the applicable-date question: current public guidance bars new subsequent-entry applications from 2 October 2026. Do not imply that preparing documents makes a route available. Do not use for subclass 590 eligibility, appeals, cancellation advice, legal representation, submission or payment.
 
 ## Capabilities and supporting files
 This is portable Markdown. Use the agent's available file-reading and official web-retrieval tools; no special plugin, API key or executable script is required by the skill. Network access/account costs depend on the host agent. Do not pretend capabilities exist.
 
-Read `references/checks.md` and `references/verification.md` before making requirements or compliance findings. Fill `templates/report.md` for the result. Supporting paths are relative to this skill's folder, wherever installed. No access to a private maintainer workspace or creator chat is required.
+Read `references/operational-knowledge.md` in full, then `references/checks.md` and `references/verification.md` before intake branching, substantive preparation guidance or requirements/compliance findings. Preserve the operational conditions, exceptions and stage distinctions even when public corroboration is unavailable; mark current acceptance/applicability Needs verification rather than reduce the knowledge scope. Do not restore claims contradicted by verified applicable law or invent official support. Fill `templates/report.md` for the result. Supporting paths are relative to this skill's folder, wherever installed. No access to a private maintainer workspace or creator chat is required.
 
 ## Ask only what changes the result
 Start with the requested task, application stage and preferred language. Obtain:
@@ -36,9 +35,9 @@ Start with the requested task, application stage and preferred language. Obtain:
 Ask current visa subclass/stream, expiry and relevant conditions if applying in Australia. Ask exact test details or funding route only when relevant. For subsequent entrants, obtain the primary visa and original family declarations. Prefer redacted evidence/age summaries; do not collect a complete history by default.
 
 ## Procedure
-1. **Define the check.** Record role, stage and relevant dates. If key facts are unknown, produce a conditional checklist and focused questions, not an applicant-ready finding. Explain lodgement means submitting the application.
+1. **Define the check.** Record role, stage and relevant dates. Screen post-2-October-2026 onshore, family and packaging gates in the supporting files before assuming a route. The retrieved Regulations interval ends on 1 October 2026. The reform commencement and application saving are now verified through F2026L01347; exact subsidiary exemption classes and full consolidated current-law coverage remain unresolved, not automatically compliance-ready. If key facts are unknown, produce a conditional checklist and focused questions, not an applicant-ready finding. Explain lodgement means submitting the application.
 2. **Verify applicable requirements.** Follow `references/verification.md`. Before compliance findings, read relevant official bodies, not search snippets. Use the version applicable to application/test dates and circumstances. Check live changing amounts, fees, tests, exemptions and the official Document Checklist Tool outcome. Do not guess undisclosed country/provider risk ratings. No browsing: continue presence/readability/consistency work, mark affected requirements Needs verification.
-3. **Select branches.** Use `references/checks.md`. Distinguish mandatory, conditional, useful supporting evidence and practical suggestions; state the trigger of every conditional row. Keep lodgement requirements separate from decision criteria. Examples are not universal document obligations. Preserve alternatives/exceptions and discretion.
+3. **Select branches.** Use `references/operational-knowledge.md` with `references/checks.md`. Stored policy preparation guidance is not an applicant-specific current-law finding; preserve unresolved conflicts and use verified applicable law over contrary policy. Distinguish mandatory, conditional, useful supporting evidence and practical suggestions; state the trigger of every conditional row. Keep lodgement requirements separate from decision criteria. Examples are not universal document obligations. Preserve alternatives/exceptions and discretion.
 4. **Inspect evidence.** Assign neutral document IDs; note actual pages reviewed and extraction gaps. Filenames and applicant statements do not prove contents. Compare identities, course/insurance/welfare dates, relationships, funding and factual Genuine Student answers across inspected documents. Confirm a contradiction before calling it an error; name variations need explanation, not a fraud accusation.
 5. **Assess dimensions separately.** Report presence, readability, completeness, consistency, currency and compliance with a verified applicable requirement. A readable document does not prove authenticity or acceptability. Unknown applicability is not an exemption. Make mechanical calculations with a calculator/date/code tool and show assumptions; do not invent exchange rates, deadlines or fees.
 6. **Give a simple report.** Follow `templates/report.md`. Lead with what was checked, missing/correction items, unresolved questions and next actions. Explain why corrections matter. Use short sentences in the applicant's chosen language; preserve official document names.
@@ -68,4 +67,4 @@ Do not dump research registers, policy issue IDs, internal logs or citations for
 Flag statutory bars, no-further-stay conditions, waivers, disputed custody, health/character interpretation, exclusion periods and refusal/cancellation questions for a suitably qualified professional. State the exact question and relevant evidence, not a blanket 'seek advice'. A registered migration agent or Australian legal practitioner may be appropriate. Personalised immigration assistance may be regulated; a disclaimer is not a substitute for professional/regulatory review. Do not impersonate departmental officers, claim internal-system access, government endorsement or guaranteed outcomes.
 
 ## Completion
-Deliver the requested checklist/report with clear next actions and visible limits. The agent may say what preparation checks are supported, but cannot turn this into visa eligibility or approval. This release contains no raw departmental instruction or internal issue log. Its limited verification notes preserve unresolved matters needed to prevent unsupported applicant conclusions.
+Deliver the requested checklist/report with clear next actions and visible limits. The agent may say what preparation checks are supported, but cannot turn this into visa eligibility or approval. Official-source branches and date-sensitive uncertainty gates are in the runtime references. No raw source snapshots or research logs are distributed. Do not claim full legal currency or independently verified permission for unresolved post-change branches.

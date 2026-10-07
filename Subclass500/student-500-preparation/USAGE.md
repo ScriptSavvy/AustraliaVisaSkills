@@ -8,13 +8,13 @@ This skill helps you prepare Student visa documents. It does not determine eligi
 Copy this prompt:
 > Use student-500-preparation to help me prepare my Australian Student visa (subclass500) documents. First ask only the information that changes my checklist. Do not submit anything. Do not upload my documents to additional services without asking me.
 
-Tell it your preferred language. It may need application stage/date, whether you are the student or a family applicant, location, citizenship, provider/course, ages and family circumstances. You can answer 'unknown'; it should flag the gap rather than guess. If you are applying in Australia, current visa details may materially change the next steps.
+Tell it your preferred language. It may need application stage/date, whether you are the student or an existing/proposed family applicant, location, citizenship, provider/course, ages and family circumstances. You can answer 'unknown'; it should flag the gap rather than guess. If you are applying in Australia, current visa details may materially change the next steps.
 
 ## Make a personalised checklist
 ```text
 Use student-500-preparation to create a conditional document checklist.
 Task: pre-application checklist.
-Role: [primary student / family applying with student / subsequent entrant].
+Role: [primary student / proposed combined family / existing family or historical subsequent-entry review].
 Application location and intended date: [details].
 Citizenship and provider/course: [details].
 Age / family applying: [details].
@@ -59,10 +59,10 @@ Preparation does not authorise lodgement, payment, contact or communication.
 | Needs verification | Applicability, contents, a source or a professional question is unresolved. |
 | Not applicable | Known facts or checked exception support this conclusion. |
 
-A document can be readable but still need verification of currency or compliance. A family member may have different requirements from the student. No single overall readiness score is used.
+A document can be readable but still need verification of currency or compliance. A family member may have different requirements from the student. From 2 October 2026, current Home Affairs guidance restricts onshore applications, family inclusion and further-onshore course packages, and bars new subsequent-entry applications. The skill must check date and permission before assuming a route; its retrieved Regulations compilation ends on 1 October 2026, but the amending Regulations now verify reform commencement and the application saving. Exact subsidiary exemptions and full consolidated coverage remain unresolved. No single overall readiness score is used.
 
 ## If the agent cannot browse
-Ask it to continue supported presence/readability/consistency checks. Current rule compliance should remain Needs verification. You may provide dated official checklist/form/request screenshots, but they do not automatically resolve every requirement. Never ask it to guess current fees, test scores, funds thresholds or exceptions.
+Ask it to load the detailed operational knowledge and continue substantive conditional preparation as well as supported presence/readability/consistency checks. Missing accessible public corroboration alone should not erase relevant exceptions or preparation guidance. Current rule compliance should remain Needs verification. You may provide dated official checklist/form/request screenshots, but they do not automatically resolve every requirement. Never ask it to guess current fees, test scores, funds thresholds or exceptions.
 
 ## Helpful follow-ups
 - “Show only the corrections and next actions in plain [language].”

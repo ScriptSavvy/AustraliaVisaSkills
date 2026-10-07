@@ -1,35 +1,51 @@
-# Verification notes for the executing agent
+# Verification instructions
+
+## Scope and important current limits
+Public edition **0.3.0** supplies substantive operational preparation guidance supplemented by official-source findings, not a certificate of full legal currency or legal review. Official source bodies were retrieved on **2026-10-07**. Recheck the requirement for each applicant's application/test/evidence/decision dates and circumstances.
+
+**Critical date gate:** the retrieved latest Migration Regulations compilation is **F2026C00667 C288, 1 July–1 October 2026**. That displayed interval ends before the check date. The reform amendment F2026L01347 s2 and Schedule13 Part166 clause16601 now establish **2 October 2026 commencement and application saving**. Read its Schedule1 items7–20 and LIN26/102 F2026L01348 ss2/6 with the earlier compilation. Exact additional exemption classes under item1222(5)(c)/(d) and full consolidated coverage remain unresolved; the ended compilation is not the only legal evidence. Current Home Affairs Student visa guidance describes material onshore, family and packaging changes from2 October2026; older family/subsequent-entry document paragraphs still occur on that same page. Do not use those older paragraphs or the ended compilation to establish permission for a new application. Continue document-quality checks, explain the applicable date/source gap and obtain current authoritative clarification before a compliance-ready result.[5][1]
+
+Read `operational-knowledge.md` before selecting branches. Missing accessible corroboration is not grounds to discard its substantive policy preparation guidance; unknown current acceptance/applicability remains Needs verification. Never cite a related official page as proof of a branch it does not support.
 
 ## Official entry points
-- Student visa and current public guidance: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500
-- Applicant-specific Document Checklist Tool: https://immi.homeaffairs.gov.au/visas/web-evidentiary-tool
-- Genuine Student guidance: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement
-- Legislation, including applicable historical versions: https://www.legislation.gov.au/
-- English instrument: https://www.legislation.gov.au/F2025L00906/latest/text
-- Financial-capacity instrument: https://www.legislation.gov.au/F2019L01366/latest/text
+- Student visa (Eligibility/About/Step by step sections): https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500
+- Onshore-change guidance: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/changes-to-student-visa-application-rules-500-590/applying-in-australia
+- Under18 welfare/consent: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/welfare-arrangements-students-under-18
+- Genuine Student: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement
+- Applicant-specific Checklist Tool: https://immi.homeaffairs.gov.au/visas/web-evidentiary-tool
+- Regulations (check displayed interval, not the word latest): https://www.legislation.gov.au/F1996B03551/latest/text
+- Intended-course evidence LIN24/109: https://www.legislation.gov.au/F2024L01728/latest/text
+- English LIN25/090: https://www.legislation.gov.au/F2025L00906/latest/text
+- Financial capacity LIN19/198: https://www.legislation.gov.au/F2019L01366/latest/text
+- Reform amendment and application saving: https://www.legislation.gov.au/F2026L01347/latest/text
+- Outside-Australia classes LIN26/102: https://www.legislation.gov.au/F2026L01348/latest/text
+- Fees: follow Student visa page's official pricing estimator; no blank placeholder may be filled from memory.
 
-## What this release does and does not establish
-Version0.2.1 is derived from the supplied departmental `[Sch2Visa500] Visa500 - Student` Procedural Instruction, VM-3680, displaying latest LEGEND version7November2025; publication/effective dates of that PI were not separately established. It is policy for departmental officers, not legislation. It covers subclass500, not subclass590 or all referenced subsidiary instructions. Raw PI, private extracts and internal research logs are deliberately not distributed.
-
-Targeted official English/financial instrument checks were performed on2026-10-07. This is not proof that every rule is current or that live PI revisions, fees, custody/health/character rules, Directions, insurance details, all subsidiary instruments or applicant-specific checklist outcomes were verified. Before compliance conclusions, verify applicable authoritative sources for this applicant's dates/role/circumstances. Never label the whole skill 'legally reviewed' or 'fully current'.
-
-## Supplied source scope
-The supplied snapshot checked on 2026-10-07 still displays LEGEND version 7 November 2025. Its export/check date is not a policy commencement date or proof that all current requirements were verified.
+`checks.md` contains provision-specific official-body links. LIN24/109 commences1 January2025 and applies to applications on/after that date (ss2,5). LIN25/090 commences7 August2025 and applies to applications on/after that date (ss2,9); s8 separately governs earlier tests. Financial compilation2 dated10 May2024 includes LIN24/042 with its application provision in s13. These instruments do not themselves establish that an applicant may lodge under post-2-October2026 family/onshore rules.[12][9][10]
 
 ## Source-refresh procedure
-1. Identify actual/intended application date, test date, evidence timing, role, location, course and family facts.
-2. Read official bodies; check title, version, effective/commencement date, transitions and relevant section. Legislation outranks conflicting policy; a later document does not automatically replace all earlier guidance.
-3. Record material requirements in short working notes: requirement/trigger/stage, source title/link/section, checked date, applicable version/effective date and evidence inspected. Mark missing metadata unknown. Do not save unnecessary personal information or create a permanent dossier.
-4. Run the official Checklist Tool with relevant citizenship/provider/principal-course facts. A present result does not establish a historical result. No result or unavailable historical guidance: Needs verification, not invented risk rating/exemption.
-5. Refresh changing fees, thresholds, tests/exemptions and local schooling/insurance details. A saved number, a search snippet, applicant statement or successful extraction is not proof of legal compliance.
-6. Access failure: try another official retrieval method; ask for dated official screenshots/request text where useful. Archived/secondary sources are dated leads, not silently substituted authoritative live rules. Continue supported evidence checks and explain the specific blocked check.
-7. Resolve a discrepancy only where authority, dates and scope support it. Otherwise record affected question, each relevant source/position, missing evidence, effect and needed clarification. Keep this record in authorised task context. Include an understandable uncertainty in the applicant output when material; no need for a complete research dump.
+1. Establish dates, role, location, visa/conditions, course/package and family facts. Screen the recent onshore/family/package changes before assuming an available route.
+2. Read actual official bodies, not snippets or loading/navigation shells. When a page is a shell, try a different official method or decoded official embedded content; label retrieval method accurately. HTTP success is not evidence that the rule was read.
+3. Check title, provision, compilation/effective interval, commencement, transitions and relevant stage. Today's latest is not necessarily the applicable version. An ended interval leaves later dates unresolved; seek the successor/amending law. A newer web summary cannot erase statutory exceptions. Do not combine unlike stages into a single test.
+4. Record each material requirement in short authorised working notes: trigger/stage, source title/link/section, check date, applicable version/effective interval, evidence and extraction limits. Unknown metadata stays unknown; no permanent applicant database.
+5. Run the Checklist Tool with actual passport country/provider and principal-course facts; retain a dated outcome and refresh just before lodgement. No actual outcome was tested for an applicant in this release. A current result cannot prove a historical result. If absent, mark documentary applicability Needs verification; do not guess country/provider risk ratings. Check actual requests separately.
+6. Refresh fees, financial thresholds, test delivery/registration/score/exemptions, state school arrangements/fees and insurance. Saved figures and generic web summaries are not proof of applicant compliance.
+7. On conflict, identify both positions, authority, version/interval and stage. Apply a controlling provision only if its applicability is established. Otherwise preserve the affected question and prohibit whole-application Ready. For legal/status consequences use a precise professional-referral question; do not recommend a workaround.
+8. On access failure, try official browser/download/embedded data. If still blocked, continue inspected presence/readability/consistency checks and explain the specific blocked compliance check. Applicant-supplied screenshots/requests are dated evidence, not blanket currency proof.
 
-## Material safeguards to retain
-- Ordinary offer-letter-only lodgement, especially expired-CoE cases, must not be recommended without verifying applicable course-evidence law. The foundational PI has inconsistent wording here; it is not resolved by this release. Obtain provider/status confirmation and current authoritative clarification.
-- English tests: use actual applicable table/conditions; don't reuse an older blanket OET-reduction statement for newer tests or assume reduced C1 Advanced scores are accepted.
-- Subsequent-entrant travel scope and school-fee nil branches: use applicable legislation and actual waiver evidence, not broad summaries.
-- Turning18 before arrival: welfare-arrangements branch does not automatically erase decision-age or consent criteria.
-- Unknown applicability, unreadable pages, unavailable source bodies and special-category recognition always remain visible. Do not guess.
+## Essential unresolved branches
+- Exact additional onshore/family exemption classes and package conditions under item1222(5)(c)/(d), applicant-specific newborn/status/location gates and full consolidated coverage. Reform commencement/application saving are verified; remaining older public-page paragraphs must not override amended law.
+- Package principal-course and course-only English exemption differences between public summaries and the exact instrument; test-currency timing also uses the instrument's evidence-submission trigger, not merely a remembered evidence-level label.
+- Postgraduate thesis alternative: instrument wording versus research-only web summary. Doubtful CoE status needs provider evidence; an ordinary offer letter is not a substitute under the retrieved instrument.
+- Welfare minimum-period/turning18 wording and decision-age criteria; guardian/custody disputes are not settled by checking a form.
+- Applicable ministerial Directions, exact approved forms/charges/exemptions, special insurance arrangements, state school exceptions and detailed health/character/bars/waivers are not comprehensively verified here.
 
-These safeguards are supporting instructions, not an applicant-facing internal issue log. Reports should show only relevant unresolved questions and useful next actions, with a brief source note where it helps the applicant check a material requirement.
+Explain only applicant-relevant uncertainty in reports, with checkable sources and actions. The workflow does not require access to any private authority, source snapshot or development history.
+
+## Sources
+
+[1] https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500 — Home Affairs — Student visa (subclass 500)
+[5] https://www.legislation.gov.au/F1996B03551/latest/text — Migration Regulations 1994 — latest landing and displayed interval
+[9] https://www.legislation.gov.au/F2025L00906/asmade/2025-08-06/text/original/epub/OEBPS/document_1/document_1.html — LIN 25/090 — English tests and exemptions, ss6–9/Schedules1–3
+[10] https://www.legislation.gov.au/F2019L01366/2024-05-10/2024-05-10/text/original/epub/OEBPS/document_1/document_1.html — LIN 19/198 compilation2 — Financial capacity, ss6–8/10–13
+[12] https://www.legislation.gov.au/F2024L01728/asmade/2024-12-23/text/original/epub/OEBPS/document_1/document_1.html — LIN 24/109 — Intended-course evidence, ss2/4/5

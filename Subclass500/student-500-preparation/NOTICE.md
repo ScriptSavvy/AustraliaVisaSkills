@@ -1,6 +1,6 @@
 # Attribution and licence notice
 
-Original public instructions and guides: **Visa Skills project**, public edition0.2.1.
+Original public instructions and guides: **Visa Skills project**, public edition0.3.0.
 
 Licensed under Creative Commons Attribution-NonCommercial4.0 International (CC BY-NC4.0): https://creativecommons.org/licenses/by-nc/4.0/ . Full legal text accompanies this folder in LICENSE.txt.
 

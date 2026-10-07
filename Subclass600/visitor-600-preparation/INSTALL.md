@@ -20,12 +20,12 @@ Official docs checked 2026-10-07: Claude Code https://code.claude.com/docs/en/sk
 `~` means your home folder, not this project's folder. Dot-folders are hidden: enable hidden-file display in your file manager. Project paths are relative to the selected project. Avoid double nesting and duplicate personal/project installations. A cloud session may not see local files. Copying files does not itself prove discovery or enabled state.
 
 ## Manual fallback
-Open SKILL.md in your agent or attach its text together with both referenced Markdown files and the report template. Say: “Follow these preparation instructions for this task; read the linked references first.” If the host cannot read the supporting files, do not claim the skill is installed or fully active. This fallback is task-local, not native persistent installation.
+Open SKILL.md in your agent or attach its text together with all three referenced Markdown files and the report template. Say: “Follow these preparation instructions for this task; read the linked references first.” If the host cannot read the supporting files, do not claim the skill is installed or fully active. This fallback is task-local, not native persistent installation.
 
 ## Smoke test (synthetic; no personal documents)
 “Use visitor-600-preparation. Before any assessment, show its notice, state the scope and supporting files, then ask minimum inputs for an adult outside Australia planning a short holiday. Do not claim eligibility or approval.”
 
-Expected: notice first; scope and reference loading; focused intake; no unsupported readiness finding.
+Expected: notice first; scope and reference loading; focused intake; no unsupported readiness finding. A manually reviewed synthetic walkthrough is not native skill discovery, a live host-agent execution or legal-currency verification.
 
 ## Update, disable or remove
 Back up any customisations; replace the complete folder with a reviewed new release. Installed copies do not auto-update when a repository changes. Start a new session and repeat the smoke test. To disable/remove, use the host's supported mechanism or remove only this skill folder; do not delete applicant case files or other skills. Review host permissions/retention separately.
