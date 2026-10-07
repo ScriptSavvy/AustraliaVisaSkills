@@ -1,17 +1,25 @@
-# Visa Skills — Australian Student visa preparation
+# Visa Skills — Australian visa preparation
 
 > **Important disclaimer:** This skill provides general information and document-preparation support only. It is not legal advice or a substitute for advice from a registered migration agent or Australian legal practitioner. No visa approval, processing time or other immigration outcome is guaranteed. You are responsible for checking official requirements and deciding what to submit. The skill is provided as-is. To the extent permitted by applicable law, its creators, maintainers and distributors disclaim liability for loss or damage arising from its use or reliance on its outputs. Nothing in this notice excludes rights or liabilities that cannot lawfully be excluded.
 
-A downloadable skill for applicants to use in their own AI agent. Start with one focused task: preparing documents for the Australian Student visa (subclass500).
+A collection of downloadable preparation skills for applicants to use in their own AI agent. Public skills are grouped by visa subclass in this shared repository.
 
-**Public edition · v0.2.0 · CC BY-NC4.0**
+**Public editions · Student 500 v0.2.1 · Visitor 600 v0.1.0 · CC BY-NC4.0**
+
+## Choose your skill
+| Visa | Installable skill | Guides |
+| --- | --- | --- |
+| Student — Subclass 500 | [student-500-preparation](Subclass500/student-500-preparation/SKILL.md) | [Install](Subclass500/student-500-preparation/INSTALL.md) · [Use](Subclass500/student-500-preparation/USAGE.md) |
+| Visitor — Subclass 600 | [visitor-600-preparation](Subclass600/visitor-600-preparation/README.md) | [Install](Subclass600/visitor-600-preparation/INSTALL.md) · [Use](Subclass600/visitor-600-preparation/USAGE.md) · [Validation limits](Subclass600/visitor-600-preparation/VALIDATION.md) |
+
+The Student-specific overview below remains scoped to Subclass 500. For Visitor stream coverage and limits, read its linked guides. Install the inner skill folder, not a subclass wrapper. Rights-holder identity and commercial-contact details still require confirmation before publication.
 
 ## Start here
 1. Download the **public skill ZIP** from the repository's Releases when published. Alternatively, use GitHub **Code → Download ZIP** and extract the repository.
 2. Follow the [installation guide](Subclass500/student-500-preparation/INSTALL.md) for your agent. Copy the whole `student-500-preparation` folder, not just SKILL.md.
 3. Open a new agent session and follow the [usage guide](Subclass500/student-500-preparation/USAGE.md).
 
-If Releases is empty, use Code → Download ZIP. This source tree has not yet been published to a GitHub remote; there is no release URL until the owner creates/publishes the repository.
+If Releases is empty, use Code → Download ZIP. The local repository is connected to GitHub; this update has not been pushed or published as a release.
 
 ## What it helps with
 - Personalised document checklist rather than a blanket attachment list.
@@ -64,5 +72,7 @@ Subclass500/student-500-preparation/
   references/verification.md
   templates/report.md
 ```
+
+The Visitor skill is at `Subclass600/visitor-600-preparation/`, with its own guides, notices, validation record, references and report template.
 
 Maintainers: this is the public tree only. Keep private sources and change investigations in a separate private workspace/repository, not a hidden folder in this public repository's history. Publish only reviewed public files.

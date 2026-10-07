@@ -9,9 +9,12 @@
 - Financial-capacity instrument: https://www.legislation.gov.au/F2019L01366/latest/text
 
 ## What this release does and does not establish
-Version0.2.0 is derived from the supplied departmental `[Sch2Visa500] Visa500 - Student` Procedural Instruction, VM-3680, displaying latest LEGEND version7November2025; publication/effective dates of that PI were not separately established. It is policy for departmental officers, not legislation. It covers subclass500, not subclass590 or all referenced subsidiary instructions. Raw PI, private extracts and internal research logs are deliberately not distributed.
+Version0.2.1 is derived from the supplied departmental `[Sch2Visa500] Visa500 - Student` Procedural Instruction, VM-3680, displaying latest LEGEND version7November2025; publication/effective dates of that PI were not separately established. It is policy for departmental officers, not legislation. It covers subclass500, not subclass590 or all referenced subsidiary instructions. Raw PI, private extracts and internal research logs are deliberately not distributed.
 
 Targeted official English/financial instrument checks were performed on2026-10-07. This is not proof that every rule is current or that live PI revisions, fees, custody/health/character rules, Directions, insurance details, all subsidiary instruments or applicant-specific checklist outcomes were verified. Before compliance conclusions, verify applicable authoritative sources for this applicant's dates/role/circumstances. Never label the whole skill 'legally reviewed' or 'fully current'.
+
+## Current supplied snapshot check
+On 2026-10-07, the maintainer compared a newly supplied current migration-stack export (printed 7 October 2026, LEGEND stack path dated 2 October 2026) with the original instruction. It still displays LEGEND version 7 November 2025. All 62 extracted policy page bodies match after print-footer and whitespace normalisation. The new export is recorded as the current user-supplied snapshot; publication/effective dates and live LEGEND authenticity remain unverified. No substantive rule changes were detected. Official Register version/status pages for English and financial instruments were rechecked and matched the previously read versions. This does not verify the whole current migration stack. The export/check date must not be presented as a new policy commencement date.
 
 ## Source-refresh procedure
 1. Identify actual/intended application date, test date, evidence timing, role, location, course and family facts.

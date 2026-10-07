@@ -1,4 +1,7 @@
-# Validation scope — public edition 0.2.0
+# Validation scope — public edition 0.2.1
+
+## Snapshot update checks (0.2.1)
+The new 62-page supplied export was compared with the original using page-labelled text and footer/whitespace normalisation: identical extracted bodies. Original/new hashes are retained privately. Official English/financial version/status pages matched prior sources. This update does not claim a new behavioural walkthrough, full visual comparison, authentication or comprehensive legal currency. Final structural, installed-copy and archive checks are recorded by actual tool output.
 
 ## Checks performed for this release
 - Public entry point, references, report template and installation/usage guides authored as standalone Markdown.

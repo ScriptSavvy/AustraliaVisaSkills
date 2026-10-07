@@ -3,8 +3,10 @@ name: student-500-preparation
 description: Use when preparing Australian Student visa documents.
 license: CC-BY-NC-4.0
 metadata:
-  version: "0.2.0"
+  version: "0.2.1"
   edition: public
+  supplied_snapshot_checked: "2026-10-07"
+  legend_version: "2025-11-07"
 ---
 
 # Australian Student visa preparation
