@@ -23,4 +23,4 @@ Ready means only ready for the named preparation check. Missing means known appl
 
 Tourist, Sponsored Family and Business Visitor have preparation branches. ADS/Frequent Traveller receive a bounded inventory and verification plan. Complex legal-status, work, custody or refusal issues need qualified review. The agent must explain sources it cannot access; browsing failure is not permission to guess.
 
-Installation: [INSTALL.md](INSTALL.md). Source limits: [sources and refresh](references/sources-and-refresh.md). Validation: [VALIDATION.md](VALIDATION.md).
+Installation: [INSTALL.md](INSTALL.md). Source limits: [sources and refresh](references/sources-and-refresh.md).

@@ -3,7 +3,7 @@
 ## Foundation and selective checks
 Foundation: user-supplied **[Sch2Visa600] Subclass 600 (Visitor) visa — Procedural Instruction**, Document ID **VM-3190**, **Latest LEGEND Version 06 December 2024**, 43 pages. Publication/effective dates and numeric policy version: unknown. PDF creation date 2026-10-07 is an export date, not a new policy version. Scope: Subclass 600 only; its officer procedures are not applicant obligations. Policy is not legislation and must not be applied inflexibly (PI §1). The private PDF is not included here.
 
-Official checks made 2026-10-07 supplement that foundation. Home Affairs bodies were retrieved from the official pages' embedded PageSchemaHiddenField data because the rendered text was a Loading shell. Browser access returned Access Denied. This is page-embedded official content, not a full interactive ImmiAccount check. Do not rely on search snippets for adopted rules.
+Selective official checks on 2026-10-07 supplement that foundation; they do not establish comprehensive current-law coverage or applicant-specific ImmiAccount requirements. Read official source bodies, not search snippets.
 
 | Ref | Authority/version/scope | Relevant portions / verification limit |
 |---|---|---|

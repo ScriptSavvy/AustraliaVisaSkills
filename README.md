@@ -1,78 +1,31 @@
-# Visa Skills — Australian visa preparation
+# Australian visa preparation skills
 
 > **Important disclaimer:** This skill provides general information and document-preparation support only. It is not legal advice or a substitute for advice from a registered migration agent or Australian legal practitioner. No visa approval, processing time or other immigration outcome is guaranteed. You are responsible for checking official requirements and deciding what to submit. The skill is provided as-is. To the extent permitted by applicable law, its creators, maintainers and distributors disclaim liability for loss or damage arising from its use or reliance on its outputs. Nothing in this notice excludes rights or liabilities that cannot lawfully be excluded.
 
-A collection of downloadable preparation skills for applicants to use in their own AI agent. Public skills are grouped by visa subclass in this shared repository.
-
-**Public editions · Student 500 v0.2.1 · Visitor 600 v0.1.0 · CC BY-NC4.0**
+Use these skills in your own AI agent to prepare a document checklist, review supplied evidence and organise next actions.
 
 ## Choose your skill
-| Visa | Installable skill | Guides |
+| Visa | Skill | Guides |
 | --- | --- | --- |
-| Student — Subclass 500 | [student-500-preparation](Subclass500/student-500-preparation/SKILL.md) | [Install](Subclass500/student-500-preparation/INSTALL.md) · [Use](Subclass500/student-500-preparation/USAGE.md) |
-| Visitor — Subclass 600 | [visitor-600-preparation](Subclass600/visitor-600-preparation/README.md) | [Install](Subclass600/visitor-600-preparation/INSTALL.md) · [Use](Subclass600/visitor-600-preparation/USAGE.md) · [Validation limits](Subclass600/visitor-600-preparation/VALIDATION.md) |
+| Student — Subclass 500 | [student-500-preparation](Subclass500/student-500-preparation/SKILL.md), v0.2.1 | [Install](Subclass500/student-500-preparation/INSTALL.md) · [Use](Subclass500/student-500-preparation/USAGE.md) |
+| Visitor — Subclass 600 | [visitor-600-preparation](Subclass600/visitor-600-preparation/README.md), v0.1.0 | [Install](Subclass600/visitor-600-preparation/INSTALL.md) · [Use](Subclass600/visitor-600-preparation/USAGE.md) |
 
-The Student-specific overview below remains scoped to Subclass 500. For Visitor stream coverage and limits, read its linked guides. Install the inner skill folder, not a subclass wrapper. Rights-holder identity and commercial-contact details still require confirmation before publication.
+## Get started
+1. Download a skill ZIP from Releases, if available. Otherwise choose **Code → Download ZIP** on GitHub.
+2. Follow the installation guide for your chosen skill. Keep the whole inner skill folder, including its references and templates. Do not install the subclass wrapper.
+3. Open a new agent session and follow the usage guide.
 
-## Start here
-1. Download the **public skill ZIP** from the repository's Releases when published. Alternatively, use GitHub **Code → Download ZIP** and extract the repository.
-2. Follow the [installation guide](Subclass500/student-500-preparation/INSTALL.md) for your agent. Copy the whole `student-500-preparation` folder, not just SKILL.md.
-3. Open a new agent session and follow the [usage guide](Subclass500/student-500-preparation/USAGE.md).
+## What to expect
+A tailored checklist or review showing what was checked, gaps, relevant uncertainties and next actions. Student preparation includes students and family applicants. Visitor preparation covers Tourist, Sponsored Family and Business Visitor; ADS and Frequent Traveller receive a limited inventory and verification plan.
 
-If Releases is empty, use Code → Download ZIP. The local repository is connected to GitHub; this update has not been pushed or published as a release.
+These skills do not determine eligibility, application validity, authenticity or approval. They do not submit applications, pay fees or contact others. Current requirements must be checked for your circumstances. Unavailable checks stay **Needs verification**.
 
-## What it helps with
-- Personalised document checklist rather than a blanket attachment list.
-- Supplied-document presence, readability, completeness, consistency and currency review.
-- Conditional English, funding, insurance, minor-welfare and family checks.
-- Clear gaps, relevant uncertainties and next actions.
-
-It does not decide eligibility, validity, authenticity or likely approval. It never submits, pays or communicates with third parties as part of preparation. Current official requirements must be checked before compliance conclusions.
-
-## Supported installation formats
-Documented native SKILL.md installation instructions are provided for Claude Code, Codex, Cursor, GeminiCLI and Hermes. Claude web/Desktop custom-skill upload is also documented where available. The same portable folder is used; no executable plugin or mandatory script is bundled.
-
-These are **documentation-checked compatibility paths**, not an assertion that end-to-end installation was tested on every product. Product versions, account features and network/document tools can differ. Other agents can use the manual-file fallback; ordinary chat upload is not automatically native skill installation.
-
-## A first prompt
-> Use student-500-preparation to create my Australian Student visa document checklist. Ask only the missing facts that change the result. Separate required documents, conditional evidence and useful suggestions. Flag any requirement you cannot verify. Do not submit anything.
-
-See [USAGE.md](Subclass500/student-500-preparation/USAGE.md) for review and document-request prompts.
-
-## A simple report, not a research dump
-The public edition keeps applicant output focused on checks, gaps, uncertainties and actions. It does not bundle the internal source register, raw procedural instruction, source extracts, citation ledger or internal issue log. Small verification safeguards and official links remain so the agent can avoid guessing and explain relevant uncertainties.
+Installation guidance is documentation-checked, not tested end-to-end on every agent. These skills have not received comprehensive current-law or legal review. Do not assume every document-reading or online capability is available in your agent.
 
 ## Privacy
-Do not upload unredacted personal documents to GitHub issues. Review your AI provider's data/retention settings before sharing documents. The skill cannot change how the host agent processes data. Additional external document processing needs your permission. Report a skill defect using a synthetic example only.
+Start with a document list. Share redacted copies only when needed. Check your AI provider's processing and retention settings first. Additional document-processing services need your permission. Never upload applicant records to public GitHub issues.
 
-## Licence and future commercial use
-Original skill instructions and guides are [CC BY-NC4.0](https://creativecommons.org/licenses/by-nc/4.0/): non-commercial use, sharing and adaptation with attribution. Give credit to **Visa Skills project**, retain licence/disclaimer notices and indicate changes when sharing.
+## Licence
+Original skill content is **CC BY-NC 4.0**. See [licence summary](LICENSING.md) and [full licence](LICENSE.txt) for attribution, non-commercial use and exclusions.
 
-Commercial reuse requires separate permission from the copyright holder where copyright permission is needed. The holder may offer paid products or separate commercial terms; existing valid CC permissions remain in place. See [LICENSING.md](LICENSING.md). No government material or third-party trademark is relicensed here. CC BY-NC is source-available, not an unrestricted open-source licence.
-
-## Validation and limits
-See [VALIDATION.md](VALIDATION.md) for actual checks. Targeted policy verification is not comprehensive legal review. No government endorsement. Paid/personalised immigration assistance may require professional/regulatory review; a disclaimer does not settle that issue.
-
-## Repository organisation
-Every visa skill must show the opening disclaimer before applicant intake or substantive guidance, and include it at the start of standalone outputs. Keep its applicable-law qualification; do not claim a disclaimer guarantees immunity from liability.
-
-Each visa subclass has a root folder named exactly `Subclass<number>`, for example `Subclass500`. Put each installable skill in its own lowercase, hyphenated folder inside that subclass folder. This allows multiple focused skills per subclass without changing their agent-compatible names. Add new subclass folders only when their skills exist; do not publish empty or unverified placeholder skills.
-
-Applicants install the inner skill folder, not the entire subclass folder. Subclass folders organise GitHub content; they are not themselves native agent skills.
-
-## Repository layout
-```text
-Subclass500/student-500-preparation/
-  SKILL.md
-  INSTALL.md
-  USAGE.md
-  LICENSE.txt
-  NOTICE.md
-  references/checks.md
-  references/verification.md
-  templates/report.md
-```
-
-The Visitor skill is at `Subclass600/visitor-600-preparation/`, with its own guides, notices, validation record, references and report template.
-
-Maintainers: this is the public tree only. Keep private sources and change investigations in a separate private workspace/repository, not a hidden folder in this public repository's history. Publish only reviewed public files.
+See the [changelog](CHANGELOG.md) for essential updates.
