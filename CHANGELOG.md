@@ -1,5 +1,10 @@
 # Changelog
 
+## Partner 801 — 0.1.0
+- Added permanent-stage document checklists, evidence reviews and preparation plans.
+- Added conditional relationship-change and child pathways with visible source-verification limits.
+- Added one-question-at-a-time intake and installation/usage guides.
+
 ## Student 500 — 0.4.1 / Visitor 600 — 0.3.1
 - Applicant intake now asks one question at a time, adapting to answers and avoiding repeated questions.
 - Supports unsure/skipped answers, urgent-request priority and a grouped questionnaire only when the applicant explicitly prefers it.

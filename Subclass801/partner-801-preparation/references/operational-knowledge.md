@@ -1,0 +1,50 @@
+# Permanent-stage operational knowledge
+
+Read before every substantive preparation check. This is stored preparation knowledge plus targeted official comparisons, not comprehensive current-law certification. The [verification file](verification.md) identifies dated coverage and material amendments. Stage distinctions control applicability.
+
+## 1. Pathway and chronology
+The ordinary 820/801 process begins with a combined application, usually with one application charge. The permanent stage is usually further assessment of that existing application, not a new paid initial partner application. A Stage 2 assessment form or the portal button “New application” does not itself establish a fresh legal visa application. Preserve submission acknowledgement, combined lodgement date, 820 grant notice, relevant exceptional grant basis, 801 status and any current requests. Payment, a draft and an acknowledgement are not interchangeable proof of a valid application.
+
+Ordinary primary grant criteria require an 820 holder and the same sponsoring relationship; a 309 holder uses a different permanent pathway. Do not read public “820 or 445” wording as permission for a 445 child to satisfy ordinary primary partner criteria. Secondary routes are distinct. Visa-status or remittal complications require exception review, not an automatic ineligible finding.
+
+For the routine pathway, the two-year interval runs from the **combined application date**, not the 820 grant date. Ministerial cases have a different clock. An exception may remove waiting but does not remove other criteria or promise immediate grant. Dates need official records; calculate calendar dates with reliable date tools, never a fixed 730-day approximation. Record leap-day/ambiguous date issues rather than guessing a legally operative date.
+
+Prepare evidence before it is due, but verify timing before giving upload directions. Stored reminder policy at about 22 months differs from the public instruction to send routine stage-two documents only after two years. A reminder is not verified permission to submit early. A specific request or possible exception needs a separate applicable check; do not ignore a request because two years have not passed.
+
+## 2. Ongoing relationship
+Relationship requirements are assessed afresh using evidence available at decision; 820 grant does not settle the current relationship. Establish whether the applicant remains married or in a de facto relationship with the original sponsoring partner, with mutual commitment to a shared life to the exclusion of others, genuine and continuing relationship and living together or not permanently apart. These are concepts requiring applicable definitions, not a checklist that establishes legal satisfaction.
+
+Create a factual timeline from the original application through the evidence-review date. Include material address, work, travel, separation/reconciliation, marriage and child changes only as relevant. Physical time apart is not automatically a permanently ended relationship. Request a truthful explanation and actual contact/shared-life evidence where needed. Do not infer a relationship from a marriage certificate alone or coach an idealised story.
+
+Review these **evidence areas**, not four compulsory document types:
+- **Finances:** actual shared expenses, transactions, joint liabilities or separate-account arrangements with evidence. Joint mortgage/lease/loan, bank statements and bills are examples, not universal mandates.
+- **Household:** living arrangements, domestic responsibilities, correspondence, bills and relevant care of children. Do not require a child where none exists.
+- **Social recognition:** people who know the relationship, social events, travel, joint invitations or declared relationship status. Photos/social media are examples, not authenticity or minimum-quota tests.
+- **Commitment:** knowledge of each other's circumstances, continued contact when apart, combined personal affairs and genuine future plans; wills may help but are not universally required.
+Check coverage since the earlier application/820 stage and recent continuation, not merely duplicate old files. No universal monthly document count or fixed recency period is set here.
+
+## 3. Sponsor and witnesses
+The current official 801 page directs a **Commonwealth statutory declaration** completed by the sponsor about the relationship. Cover actual commitment, whether genuine/continuing, living arrangements, start/cohabitation dates, finances, household, social life and future plans. Verify current execution, witness and form instructions; do not pretend a drafted or unsigned text is a valid declaration. A truthful applicant statement is a useful preparation aid, not silently another universal statutory-declaration requirement. For married applicants, include marriage certificate or other evidence of a marriage valid in Australia; for de facto applicants, actual relationship proof is needed.
+
+The public page requires **two witness statements**, each by someone at least 18 who knows both partners and the relationship. It says statements **can** use Form 888; do not turn this into the only permitted method without a verified instruction. Where a witness is an Australian citizen/permanent resident, the page asks for status evidence. Do not impose the initial section-48 witness nationality, six-week declaration timing or statutory-declaration rules on every routine stage-two witness. Confirm the current Form 888 requirements separately from the sponsor's Commonwealth statutory declaration. Do not ask witnesses to assert knowledge they do not have.
+
+For a changed-relationship exception, do not automatically ask an unsafe, deceased or former sponsor for an ongoing-relationship declaration. Load [exceptions](exception-pathways.md) and retain the previous relationship evidence needed for that branch.
+
+## 4. Police and character
+Map cumulative residence/travel by country **since 820 grant** (or relevant 445 basis) using actual dates and available records. Do not count only one uninterrupted stay. The public page directs overseas police certificates for countries, including home country, with a cumulative 12 months or more since 820 grant. Read country-specific instructions, age applicability, names/aliases, issue date and any actual request. For family holders of 820/445, the page lists police certificates where applicable for dependants aged 16 or older. Do not apply the values-statement age threshold of 18 to police checks.
+
+For Australia, current page guidance says a current Australian certificate may be needed, usually if none was attached at 820 stage; a new one may be requested if expired. It specifies complete-disclosure **Australian Federal Police National Police Certificates**, not state/territory or standard-disclosure certificates. Stored officer policy is broader about current clearances for qualifying countries. Do not claim an old AFP certificate is acceptable solely because it was previously uploaded; do not insist all applicants must buy a repeat certificate regardless of circumstances. Verify exact request and current instructions; unresolved reuse stays Needs verification. Page guidance says police certificates valid for immigration purposes for 12 months from issue; this is not a guarantee of acceptance or an instruction to obtain them too early.
+
+Review disclosed convictions, charges or relevant changes only to organise evidence and flag qualified review. A police certificate is not a complete character determination. If a certificate is unavailable, record obtaining attempts and official country instructions; an explanation is not an automatic exemption.
+
+## 5. Health, integrity and public-interest criteria
+Prior permanent-stage health clearance/waiver at 820/445 normally avoids automatically repeating medicals under stored policy. Exceptions include suspected nondisclosure/fraud, changed health information, or temporary/provisional visa cessation more than 12 months before permanent assessment begins. Current public guidance says the Department will advise if repeat/additional checks are needed. A newly added child who never completed required examinations may need them. Record prior HAP/request/clearance evidence and new instructions; do not diagnose, promise a waiver or mark legal health compliance from attendance alone.
+
+Primary decision criteria include character/security, Commonwealth debts, health and settlement-related criteria; an Australian values statement applies where age at application triggers it. Integrity and passport requirements also need their own applicable provision (including clause 801.226); do not omit them because a stored overview lists only other PICs. Secondary applicants and family-unit-linked checks have separate provisions. Non-applying family members may affect the primary criteria; do not assume “not migrating” means no assessment.
+
+Certain historical 820 grant bases have narrow PIC concessions. Preserve the grant-basis trigger, child entry conditions and surviving values/integrity/passport requirements in [exceptions](exception-pathways.md). Do not treat a previous check, a 445 grant or missing record as a blanket waiver.
+
+## 6. Changes and document review
+Check most recent passport photo/personal/signature/issue/expiry pages, changes in names/identity, updated safe contact details, application correspondence and changes in family/relationship. Collect only necessary copies. Biometrics, photographs, forms and additional identity requirements depend on actual current instructions, not a universal packet copied from another visa.
+
+Build one row per relevant claim/item, identifying what contents were inspected and which check is limited. Review names, dates, addresses, declarations, residence periods and family changes across available records. Separate a confirmed contradiction from different document dates or a possible explanation. Redact irrelevant transactions/identifiers but retain needed dates/names/relationships in the authorised review. Offer a concise correction plan, not rewritten history.
