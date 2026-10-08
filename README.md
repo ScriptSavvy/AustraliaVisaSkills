@@ -7,14 +7,14 @@ Use these skills in your own AI agent to prepare a document checklist, review su
 ## Choose your skill
 | Visa | Skill | Guides | Release page |
 | --- | --- | --- | --- |
-| Student — Subclass 500 | [student-500-preparation](Subclass500/student-500-preparation/README.md), v0.4.1 | [Install](Subclass500/student-500-preparation/INSTALL.md) · [Use](Subclass500/student-500-preparation/USAGE.md) | [v0.4.1 — pending publication](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass500-v0.4.1) |
-| Visitor — Subclass 600 | [visitor-600-preparation](Subclass600/visitor-600-preparation/README.md), v0.3.1 | [Install](Subclass600/visitor-600-preparation/INSTALL.md) · [Use](Subclass600/visitor-600-preparation/USAGE.md) | [v0.3.1 — pending publication](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass600-v0.3.1) |
-| Partner — Subclass 801 | [partner-801-preparation](Subclass801/partner-801-preparation/README.md), v0.1.0 | [Install](Subclass801/partner-801-preparation/INSTALL.md) · [Use](Subclass801/partner-801-preparation/USAGE.md) | [v0.1.0 — pending publication](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass801-v0.1.0) |
+| Student — Subclass 500 | [student-500-preparation](Subclass500/student-500-preparation/README.md), v0.4.1 | [Install](Subclass500/student-500-preparation/INSTALL.md) · [Use](Subclass500/student-500-preparation/USAGE.md) | [v0.4.1](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500) |
+| Visitor — Subclass 600 | [visitor-600-preparation](Subclass600/visitor-600-preparation/README.md), v0.3.1 | [Install](Subclass600/visitor-600-preparation/INSTALL.md) · [Use](Subclass600/visitor-600-preparation/USAGE.md) | [v0.3.1](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass600) |
+| Partner — Subclass 801 | [partner-801-preparation](Subclass801/partner-801-preparation/README.md), v0.1.0 | [Install](Subclass801/partner-801-preparation/INSTALL.md) · [Use](Subclass801/partner-801-preparation/USAGE.md) | [v0.1.0](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass801) |
 
-Each subclass is released independently, with one ZIP per release. The release links above become available after publication; pending links may return “not found”. Use the link for your subclass, not the repository's globally latest release, which may concern a different visa.
+Each subclass has its own release page with a skill ZIP attached. Use the link for your subclass, not the repository's globally latest release, which may concern a different visa.
 
 ## Get started
-1. Download a skill ZIP from Releases, if available. Otherwise choose **Code → Download ZIP** on GitHub.
+1. Open the release page for your chosen subclass above and download its attached skill ZIP.
 2. Follow the installation guide for your chosen skill. Keep the whole inner skill folder, including its references and templates. Do not install the subclass wrapper.
 3. Open a new agent session and follow the usage guide.
 
