@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.1
+- Added question numbering and exact or estimated totals, with explanations when the total changes.
+- Added a brief first-use CC BY-NC 4.0 non-commercial licence notice before applicant intake.
+
 ## 0.3.0
 - Added conditional lower–upper points ranges for unresolved answers, with endpoint assumptions and a separate evidence-supported subtotal.
 - Added dependency, exclusive-category and cap checks, partial-range handling, and prioritised clarification actions.

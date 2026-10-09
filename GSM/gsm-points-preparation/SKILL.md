@@ -1,7 +1,7 @@
 ---
 name: gsm-points-preparation
 description: Prepare Australian GSM points claims and evidence.
-version: 0.3.0
+version: 0.3.1
 license: CC-BY-NC-4.0
 platforms: [linux, macos, windows]
 ---
@@ -11,6 +11,11 @@ platforms: [linux, macos, windows]
 **Display before intake in every new task, and at the start of every standalone report:**
 > This is general information and preparation support, not legal advice. No visa approval, processing time or other immigration outcome is guaranteed. Materials are provided as-is. Creators, maintainers and distributors disclaim liability only to the extent permitted by applicable law. Rights and liabilities that cannot lawfully be excluded are preserved.
 Translate the notice faithfully into the applicant's chosen language. Do not repeat the full notice on every short follow-up.
+
+## First-use licence notice
+Display the following short notice beside the opening disclaimer when this skill is first activated in each new task/session, before intake or substantive guidance. Translate faithfully into the applicant's chosen language. Do not repeat it on every follow-up or require an acceptance question. This is a summary of the existing licence, not an additional restriction; preserve legal exceptions and any separate permissions. Government/third-party materials, applicant records and separately licensed software are not covered by this content licence.
+
+> **Licence — non-commercial use:** This skill's original instructions and guides are licensed under **CC BY-NC 4.0**. You may use, share and adapt them for non-commercial purposes under the licence terms. When sharing, give credit and identify changes. Commercial use requires separate permission from the rights holder. See [LICENSE.txt](LICENSE.txt) and [NOTICE.md](NOTICE.md).
 
 ## Purpose and scope
 Prepare an evidence-backed, provisional Schedule 6D points estimate, claim checklist and gap report. Cover subclass 189 Points-tested stream, 190 and 491; handle 489 First Provisional Visa stream only as a historical, dated-law task. Other streams/subclasses require scope verification. This is a standalone cross-subclass module, not a complete visa assessment. Future subclass skills may consume its report without importing their own inconsistent points rules.
@@ -23,6 +28,13 @@ Use the host's local file reader, document inspection and official-source retrie
 Gather only facts that materially affect the requested check: subclass/stream; EOI planning, invited, lodged or processing stage; actual invitation date or an explicit hypothetical planning date; invitation total and EOI factor breakdown if available; relevant lodgement/assessment dates; nominated occupation and assessment; factor-specific evidence. Ask family/location/history questions only for triggered factors. Prefer redacted copies or sufficient summaries. A summary supports a declared estimate, not a document-content check.
 
 **Default intake is one material fact per message.** Use volunteered information; wait for the answer and adapt. Start with the unknown fact that most changes scope or timing. Allow unsure/skipped answers. Do not give a questionnaire or combine separate facts into one question. Group only at the applicant's explicit request. For an urgent official request, establish its deadline first and prioritise it without promising an extension.
+
+## Question progress
+- Before each intake question, show **Question X of Y** in the applicant's chosen language. X is the next question in this intake; Y is the number already asked plus the remaining planned questions, excluding facts already supplied and branches known to be irrelevant. Keep an internal question ledger so counts match actual questions, not points factors or document items.
+- Use an exact total only for a known question set. For adaptive intake, show **Question X of about Y** and briefly say that answers may change the total. If no defensible estimate is available yet, show **Question X — total not yet known** rather than invent a number; show a total once scope is clear.
+- Recalculate the remaining plan when answers add follow-ups or remove branches. Explain a changed total briefly, for example: “Your answer added one follow-up question.” Keep X increasing; do not silently reset it. Count a clarification as a new question; an unsure/skipped answer advances progress but remains unresolved, not verified or complete.
+- Preserve one material question per message and wait for its answer. If the applicant requests grouped questions, number each question using the same ledger. On resuming the same intake, continue its numbering; label a genuinely separate question set before starting at 1.
+- Progress shows interview position, not document readiness, visa eligibility or a points score. Stop when sufficient for the requested output, even if fewer questions are needed than estimated. Do not ask unnecessary questions to reach the total or delay urgent cautions for numbering.
 
 ## Required reading
 Before assessing points, read [factor rules](references/factor-rules.md), [source refresh](references/source-refresh.md) and [coverage/conflict notes](references/verification-notes.md). The latter supplies checked supplementary detail and qualifies affected stored rules; unresolved specialist-location and saved-English-test branches must not be turned into unconditional requirements or awards. For evidence review and reporting, also read [evidence checks](references/evidence-checks.md) and [report template](templates/points-report.md). For any Australian-study claim, also read [Australian study assessment](references/australian-study.md) before assigning its 5 points; it provides the requirement matrix and credit, timing, location and exception branches. When a fact, evidence item or rule remains unresolved, read [conditional points ranges](references/scenario-ranges.md) and apply it before reporting endpoints. These files are part of this skill, not optional background. Do not require private maintenance files or creator conversation history.

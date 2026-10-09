@@ -2,6 +2,8 @@
 
 > **Important disclaimer:** This skill provides general information and document-preparation support only. It is not legal advice or a substitute for advice from a registered migration agent or Australian legal practitioner. No visa approval, processing time or other immigration outcome is guaranteed. You are responsible for checking official requirements and deciding what to submit. The skill is provided as-is. To the extent permitted by applicable law, its creators, maintainers and distributors disclaim liability for loss or damage arising from its use or reliance on its outputs. Nothing in this notice excludes rights or liabilities that cannot lawfully be excluded.
 
+At first activation in a new task/session, the agent shows the disclaimer and a brief CC BY-NC 4.0 non-commercial licence notice. Each intake question shows progress, such as **Question 1 of 10** for a known set or **Question 1 of about 10** for an adaptive estimate. If the total is not yet known, it says so; if answers change the total, it briefly explains why. It still asks one question at a time and does not ask extra questions just to reach the total.
+
 ## Start
 > Use partner-801-preparation to help me prepare my permanent-stage documents. Ask me one question at a time.
 

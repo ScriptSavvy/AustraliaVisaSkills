@@ -2,6 +2,8 @@
 
 **Important notice:** This is general information and document-preparation support, not legal advice. No visa approval, processing time or other immigration outcome is guaranteed. Materials are provided as-is. Creators, maintainers and distributors disclaim liability only to the extent permitted by applicable law. Rights and liabilities that cannot lawfully be excluded are preserved.
 
+At first activation in a new task/session, the agent shows the disclaimer and a brief CC BY-NC 4.0 non-commercial licence notice. Each intake question shows progress, such as **Question 1 of 10** for a known set or **Question 1 of about 10** for an adaptive estimate. If the total is not yet known, it says so; if answers change the total, it briefly explains why. It still asks one question at a time and does not ask extra questions just to reach the total.
+
 ## First use
 Ask: “Use visitor-600-preparation. Help me make a Subclass 600 document checklist. Ask one question at a time and wait for my answer. Ask only what changes the checklist. I prefer [language].”
 

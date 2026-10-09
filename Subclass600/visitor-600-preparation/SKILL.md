@@ -1,7 +1,7 @@
 ---
 name: visitor-600-preparation
 description: Prepare Australian Visitor visa 600 documents.
-version: 0.3.1
+version: 0.3.2
 license: CC-BY-NC-4.0
 platforms: [linux, macos, windows]
 ---
@@ -10,6 +10,11 @@ platforms: [linux, macos, windows]
 **Important notice:** This is general information and document-preparation support, not legal advice. No visa approval, processing time or other immigration outcome is guaranteed. Materials are provided as-is. Creators, maintainers and distributors disclaim liability only to the extent permitted by applicable law. Rights and liabilities that cannot lawfully be excluded are preserved.
 
 Display this notice before intake or substantive guidance in every new task/session, translated faithfully into the applicant's chosen language. Repeat it at the start of each standalone checklist, report or plan, not every short follow-up. Do not require a waiver of rights.
+
+## First-use licence notice
+Display the following short notice beside the opening disclaimer when this skill is first activated in each new task/session, before intake or substantive guidance. Translate faithfully into the applicant's chosen language. Do not repeat it on every follow-up or require an acceptance question. This is a summary of the existing licence, not an additional restriction; preserve legal exceptions and any separate permissions. Government/third-party materials, applicant records and separately licensed software are not covered by this content licence.
+
+> **Licence — non-commercial use:** This skill's original instructions and guides are licensed under **CC BY-NC 4.0**. You may use, share and adapt them for non-commercial purposes under the licence terms. When sharing, give credit and identify changes. Commercial use requires separate permission from the rights holder. See [LICENSE](LICENSE) and [NOTICE.md](NOTICE.md).
 
 ## Purpose and scope
 Produce a tailored document checklist, evidence-gap report and next-action plan for Australian Visitor visa (subclass 600). Review documents for preparation only. Cover Tourist (outside/inside Australia), Sponsored Family and Business Visitor preparation. For Approved Destination Status (ADS) and Frequent Traveller, provide a bounded evidence inventory and source-verification plan; do not claim a complete stream assessment.
@@ -27,6 +32,13 @@ Ask one clear question per message, then wait for the applicant's answer before 
 - Give a short summary at useful checkpoints, not a long recap after every answer. Stop intake when enough is known for the requested preparation output; do not demand a complete history.
 - Use a grouped questionnaire only if the applicant explicitly asks for or chooses it. Do not offer a batch by default. If they later prefer one-at-a-time, return to that mode.
 - Checklists and final reports may contain multiple items and visible unresolved issues. During interactive follow-up, ask only one question; a report's uncertainty list must not become a request to answer everything at once.
+
+## Question progress
+- Before each intake question, show **Question X of Y** in the applicant's chosen language. X is the next question in this intake; Y is the number already asked plus the remaining planned questions, excluding facts already supplied and branches known to be irrelevant. Keep an internal question ledger so counts match actual questions, not points factors or document items.
+- Use an exact total only for a known question set. For adaptive intake, show **Question X of about Y** and briefly say that answers may change the total. If no defensible estimate is available yet, show **Question X — total not yet known** rather than invent a number; show a total once scope is clear.
+- Recalculate the remaining plan when answers add follow-ups or remove branches. Explain a changed total briefly, for example: “Your answer added one follow-up question.” Keep X increasing; do not silently reset it. Count a clarification as a new question; an unsure/skipped answer advances progress but remains unresolved, not verified or complete.
+- Preserve one material question per message and wait for its answer. If the applicant requests grouped questions, number each question using the same ledger. On resuming the same intake, continue its numbering; label a genuinely separate question set before starting at 1.
+- Progress shows interview position, not document readiness, visa eligibility or a points score. Stop when sufficient for the requested output, even if fewer questions are needed than estimated. Do not ask unnecessary questions to reach the total or delay urgent cautions for numbering.
 
 ## Inputs and tools
 Ask only what materially changes the task:

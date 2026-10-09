@@ -1,7 +1,7 @@
 ---
 name: partner-801-preparation
 description: Prepare Australian Partner visa 801 stage-two documents.
-version: 0.1.0
+version: 0.1.1
 license: CC-BY-NC-4.0
 platforms: [linux, macos, windows]
 ---
@@ -11,6 +11,11 @@ platforms: [linux, macos, windows]
 > **Important disclaimer:** This skill provides general information and document-preparation support only. It is not legal advice or a substitute for advice from a registered migration agent or Australian legal practitioner. No visa approval, processing time or other immigration outcome is guaranteed. You are responsible for checking official requirements and deciding what to submit. The skill is provided as-is. To the extent permitted by applicable law, its creators, maintainers and distributors disclaim liability for loss or damage arising from its use or reliance on its outputs. Nothing in this notice excludes rights or liabilities that cannot lawfully be excluded.
 
 **Display this notice before intake or substantive guidance in every new task/session, and at the start of every standalone checklist, report or plan. Translate faithfully into the applicant's chosen language. Do not repeat it on every short follow-up or imply consent waives rights.**
+
+## First-use licence notice
+Display the following short notice beside the opening disclaimer when this skill is first activated in each new task/session, before intake or substantive guidance. Translate faithfully into the applicant's chosen language. Do not repeat it on every follow-up or require an acceptance question. This is a summary of the existing licence, not an additional restriction; preserve legal exceptions and any separate permissions. Government/third-party materials, applicant records and separately licensed software are not covered by this content licence.
+
+> **Licence — non-commercial use:** This skill's original instructions and guides are licensed under **CC BY-NC 4.0**. You may use, share and adapt them for non-commercial purposes under the licence terms. When sharing, give credit and identify changes. Commercial use requires separate permission from the rights holder. See [LICENSE.txt](LICENSE.txt) and [NOTICE.md](NOTICE.md).
 
 ## Purpose and scope
 Produce a tailored permanent-stage document checklist, evidence review or preparation plan for Australian Partner visa (Permanent) **subclass 801**. Main use: existing combined 820/801 applicants, including relevant secondary applicants and 445 child routes. Preserve exception pathways when a relationship changes; do not force them into an ongoing-relationship checklist.
@@ -27,6 +32,13 @@ Collect only what materially changes the requested output: task/stage; combined 
 
 ## Intake
 Ask **one clear question per message**, wait, and adapt to the answer. Use volunteered information; do not re-ask known facts. Do not combine several requests in one sentence. Ask about one material fact at a time: for a newborn, establish parentage first, then that parent's citizenship/visa status at birth in a later turn. A single question mark does not make a two-fact request a single question. Unknown/skipped answers stay Needs verification; proceed with independent work. Group intake only on explicit applicant preference. Stop when sufficient for the task. Prioritise a Department request, safety concern or deadline before routine questions; give an immediate caution rather than waiting through intake. Do not ask for violence details or unsafe sponsor contact.
+
+## Question progress
+- Before each intake question, show **Question X of Y** in the applicant's chosen language. X is the next question in this intake; Y is the number already asked plus the remaining planned questions, excluding facts already supplied and branches known to be irrelevant. Keep an internal question ledger so counts match actual questions, not points factors or document items.
+- Use an exact total only for a known question set. For adaptive intake, show **Question X of about Y** and briefly say that answers may change the total. If no defensible estimate is available yet, show **Question X — total not yet known** rather than invent a number; show a total once scope is clear.
+- Recalculate the remaining plan when answers add follow-ups or remove branches. Explain a changed total briefly, for example: “Your answer added one follow-up question.” Keep X increasing; do not silently reset it. Count a clarification as a new question; an unsure/skipped answer advances progress but remains unresolved, not verified or complete.
+- Preserve one material question per message and wait for its answer. If the applicant requests grouped questions, number each question using the same ledger. On resuming the same intake, continue its numbering; label a genuinely separate question set before starting at 1.
+- Progress shows interview position, not document readiness, visa eligibility or a points score. Stop when sufficient for the requested output, even if fewer questions are needed than estimated. Do not ask unnecessary questions to reach the total or delay urgent cautions for numbering.
 
 ## Workflow and decision rules
 1. **Set the task.** Display the disclaimer. If no context, ask whether the applicant already holds a subclass 820 visa. If 801 already granted, check the actual grant notice rather than requesting stage-two documents. If 309 holder, explain this skill is not the 100 pathway. Completion: preparation scope and material unknowns recorded.

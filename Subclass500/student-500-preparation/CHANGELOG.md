@@ -1,5 +1,9 @@
 # Changelog
 
+## Student 500 — 0.4.2
+- Added question numbering and exact or estimated totals, with explanations when the total changes.
+- Added a brief first-use CC BY-NC 4.0 non-commercial licence notice before applicant intake.
+
 ## Student 500 — 0.4.1
 - Applicant intake now asks one question at a time, adapting to answers and avoiding repeated questions.
 - Supports unsure/skipped answers, urgent-request priority and a grouped questionnaire only when the applicant explicitly prefers it.

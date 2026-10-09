@@ -1,4 +1,4 @@
-# GSM points preparation — v0.1.0
+# GSM points preparation — v0.3.1
 
 > This is general information and preparation support, not legal advice. No visa approval, processing time or other immigration outcome is guaranteed. Materials are provided as-is. Creators, maintainers and distributors disclaim liability only to the extent permitted by applicable law. Rights and liabilities that cannot lawfully be excluded are preserved.
 

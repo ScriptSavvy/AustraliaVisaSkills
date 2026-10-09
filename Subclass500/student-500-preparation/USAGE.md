@@ -4,6 +4,8 @@
 
 This skill helps you prepare Student visa documents. It does not determine eligibility or guarantee approval. Use your agent's normal chat, file upload and privacy controls.
 
+At first activation in a new task/session, the agent shows the disclaimer and a brief CC BY-NC 4.0 non-commercial licence notice. Each intake question shows progress, such as **Question 1 of 10** for a known set or **Question 1 of about 10** for an adaptive estimate. If the total is not yet known, it says so; if answers change the total, it briefly explains why. It still asks one question at a time and does not ask extra questions just to reach the total.
+
 ## Start without sharing documents
 Copy this prompt:
 > Use student-500-preparation to help me prepare my Australian Student visa (subclass500) documents. Ask one question at a time and wait for my answer. Ask only what changes my checklist. Do not submit anything. Do not upload my documents to additional services without asking me.
