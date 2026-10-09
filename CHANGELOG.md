@@ -6,7 +6,11 @@ Applicant-facing history grouped by independently versioned skill. Current versi
 
 ## Student 500
 
-Published version: **0.4.1** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500)
+Published version: **0.4.2** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500)
+
+### 0.4.2
+- Added question numbering and exact or estimated totals, with explanations when the total changes.
+- Added a brief first-use CC BY-NC 4.0 non-commercial licence notice before applicant intake.
 
 ### 0.4.1
 - Applicant intake now asks one question at a time, adapting to answers and avoiding repeated questions.
@@ -30,7 +34,11 @@ Published version: **0.4.1** · [Release](https://github.com/ScriptSavvy/Austral
 
 ## Visitor 600
 
-Published version: **0.3.1** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass600)
+Published version: **0.3.2** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass600)
+
+### 0.3.2
+- Added question numbering and exact or estimated totals, with explanations when the total changes.
+- Added a brief first-use CC BY-NC 4.0 non-commercial licence notice before applicant intake.
 
 ### 0.3.1
 - Applicant intake now asks one question at a time, adapting to answers and avoiding repeated questions.
@@ -49,7 +57,11 @@ Published version: **0.3.1** · [Release](https://github.com/ScriptSavvy/Austral
 
 ## Partner 801
 
-Published version: **0.1.0** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass801)
+Published version: **0.1.1** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass801)
+
+### 0.1.1
+- Added question numbering and exact or estimated totals, with explanations when the total changes.
+- Added a brief first-use CC BY-NC 4.0 non-commercial licence notice before applicant intake.
 
 ### 0.1.0
 - Added permanent-stage checklists, evidence reviews and preparation plans.
@@ -58,7 +70,11 @@ Published version: **0.1.0** · [Release](https://github.com/ScriptSavvy/Austral
 
 ## GSM Points
 
-Published version: **0.3.0** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/gsm-points)
+Published version: **0.3.1** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/gsm-points)
+
+### 0.3.1
+- Added question numbering and exact or estimated totals, with explanations when the total changes.
+- Added a brief first-use CC BY-NC 4.0 non-commercial licence notice before applicant intake.
 
 ### 0.3.0
 - Added conditional lower–upper points ranges for unresolved answers, with endpoint assumptions and a separate evidence-supported subtotal.
