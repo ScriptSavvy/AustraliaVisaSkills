@@ -1,0 +1,12 @@
+{
+  "Subclass500": {
+    "version": "0.4.1",
+    "asset_digest": "sha256:62de122be8649dd4b5d871e08b001b5d600ded4c87d861581bb5bd6e21aeffed",
+    "changelog_sha256": "534b6accd0a7a084b8fb2abb9498da0c33327c670b86da1e135804a9fe4cffa8"
+  },
+  "subclass600": {
+    "version": "0.3.1",
+    "asset_digest": "sha256:fd8d495f9e6a4141d89dae8bfc8d98a3baa49fe73a86b577ae1f4298b6cbfe85",
+    "changelog_sha256": "c4691fff9bb46f631c058eace5a5fd4486681dc4dfe1d9d356d1b96a592318f6"
+  }
+}
