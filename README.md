@@ -10,12 +10,13 @@ Use these skills in your own AI agent to prepare a document checklist, review su
 | Student — Subclass 500 | [student-500-preparation](Subclass500/student-500-preparation/README.md), v0.4.1 | [Install](Subclass500/student-500-preparation/INSTALL.md) · [Use](Subclass500/student-500-preparation/USAGE.md) | [v0.4.1](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500) |
 | Visitor — Subclass 600 | [visitor-600-preparation](Subclass600/visitor-600-preparation/README.md), v0.3.1 | [Install](Subclass600/visitor-600-preparation/INSTALL.md) · [Use](Subclass600/visitor-600-preparation/USAGE.md) | [v0.3.1](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass600) |
 | Partner — Subclass 801 | [partner-801-preparation](Subclass801/partner-801-preparation/README.md), v0.1.0 | [Install](Subclass801/partner-801-preparation/INSTALL.md) · [Use](Subclass801/partner-801-preparation/USAGE.md) | [v0.1.0](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass801) |
+| GSM points — Subclasses 189, 190 and 491 | [gsm-points-preparation](GSM/gsm-points-preparation/README.md), v0.3.0 | [Install](GSM/gsm-points-preparation/INSTALL.md) · [Use](GSM/gsm-points-preparation/USAGE.md) | [v0.3.0](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/gsm-points) |
 
-Each subclass has its own release page with a skill ZIP attached. Use the link for your subclass, not the repository's globally latest release, which may concern a different visa.
+Each skill has its own release page with a skill ZIP attached. Use the link for your chosen skill, not the repository's globally latest release, which may concern a different skill. GSM points preparation is a standalone cross-subclass module, not a full visa-preparation skill.
 
 ## Get started
-1. Open the release page for your chosen subclass above and download its attached skill ZIP.
-2. Follow the installation guide for your chosen skill. Keep the whole inner skill folder, including its references and templates. Do not install the subclass wrapper.
+1. Open the release page for your chosen skill above and download its attached skill ZIP.
+2. Follow the installation guide for your chosen skill. Keep the whole inner skill folder, including its references, templates and any scripts. Do not install the subclass or GSM wrapper.
 3. Open a new agent session and follow the usage guide.
 
 ## What to expect
