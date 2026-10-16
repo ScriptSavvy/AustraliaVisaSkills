@@ -6,7 +6,12 @@ Applicant-facing history grouped by independently versioned skill. Current versi
 
 ## Student 500
 
-Published version: **0.4.2** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500)
+Published version: **0.4.3** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500)
+
+### 0.4.3
+- Focused questions now receive a direct answer, the specific supported problem and concrete next actions without a full questionnaire or report by default.
+- Broad reviews now start with main findings and priority actions; important uncertainty remains visible.
+- Clarified that arrival deadlines, visa expiry and permitted stay must be read separately from the actual visa record.
 
 ### 0.4.2
 - Added question numbering and exact or estimated totals, with explanations when the total changes.

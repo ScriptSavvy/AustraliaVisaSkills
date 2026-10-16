@@ -7,7 +7,7 @@ Use these skills in your own AI agent to prepare a document checklist, review su
 ## Choose your skill
 | Visa | Skill | Guides | Release page |
 | --- | --- | --- | --- |
-| Student — Subclass 500 | [student-500-preparation](Subclass500/student-500-preparation/README.md), v0.4.2 | [Install](Subclass500/student-500-preparation/INSTALL.md) · [Use](Subclass500/student-500-preparation/USAGE.md) | [v0.4.2](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500) |
+| Student — Subclass 500 | [student-500-preparation](Subclass500/student-500-preparation/README.md), v0.4.3 | [Install](Subclass500/student-500-preparation/INSTALL.md) · [Use](Subclass500/student-500-preparation/USAGE.md) | [v0.4.3](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500) |
 | Visitor — Subclass 600 | [visitor-600-preparation](Subclass600/visitor-600-preparation/README.md), v0.3.2 | [Install](Subclass600/visitor-600-preparation/INSTALL.md) · [Use](Subclass600/visitor-600-preparation/USAGE.md) | [v0.3.2](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass600) |
 | Partner — Subclass 801 | [partner-801-preparation](Subclass801/partner-801-preparation/README.md), v0.1.1 | [Install](Subclass801/partner-801-preparation/INSTALL.md) · [Use](Subclass801/partner-801-preparation/USAGE.md) | [v0.1.1](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass801) |
 | GSM points — Subclasses 189, 190 and 491 | [gsm-points-preparation](GSM/gsm-points-preparation/README.md), v0.3.1 | [Install](GSM/gsm-points-preparation/INSTALL.md) · [Use](GSM/gsm-points-preparation/USAGE.md) | [v0.3.1](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/gsm-points) |
