@@ -39,7 +39,12 @@ Published version: **0.4.3** · [Release](https://github.com/ScriptSavvy/Austral
 
 ## Visitor 600
 
-Published version: **0.3.2** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass600)
+Published version: **0.3.3** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass600)
+
+### 0.3.3
+- Answers focused questions directly, with the supported finding and concrete next action instead of unnecessary full intake.
+- Puts main findings and priority actions before detailed broad-review tables.
+- Clarifies first-use notices, required source checks and continued question numbering.
 
 ### 0.3.2
 - Added question numbering and exact or estimated totals, with explanations when the total changes.
@@ -62,7 +67,12 @@ Published version: **0.3.2** · [Release](https://github.com/ScriptSavvy/Austral
 
 ## Partner 801
 
-Published version: **0.1.1** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass801)
+Published version: **0.1.2** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass801)
+
+### 0.1.2
+- Answers focused document questions directly and puts broad-review findings and actions first.
+- Numbers replacement-page requests and continues the same question sequence when new evidence arrives.
+- Keeps partial-page findings separate from whole-document completeness and avoids unnecessary stage intake.
 
 ### 0.1.1
 - Added question numbering and exact or estimated totals, with explanations when the total changes.
@@ -75,7 +85,12 @@ Published version: **0.1.1** · [Release](https://github.com/ScriptSavvy/Austral
 
 ## GSM Points
 
-Published version: **0.3.1** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/gsm-points)
+Published version: **0.3.2** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/gsm-points)
+
+### 0.3.2
+- Answers focused factor questions without requiring a full points interview or automatically displaying every study-matrix row.
+- Asks invitation status and invitation or planning date in separate turns.
+- Consolidates broad points reports while retaining required study checks, separate supported and conditional totals, evidence gaps and next actions.
 
 ### 0.3.1
 - Added question numbering and exact or estimated totals, with explanations when the total changes.
