@@ -1,6 +1,6 @@
 # Changes
 
-## 0.1.0 — preparation draft
+## 0.1.0
 - Restrict deadline-status and remaining-time calculations; keep them Needs verification.
 - Add stream-specific Subclass 485 document preparation and evidence review.
 - Separate study, regional, skills-assessment and family evidence branches.

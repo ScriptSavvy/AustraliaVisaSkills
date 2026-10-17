@@ -4,7 +4,7 @@
 
 This skill combines stored preparation knowledge with targeted official checks. Stored guidance is not automatically current law; an official webpage is not legislation; an explanatory statement is not operative text. Original source provenance is maintained separately. The portable skill does not require private documents or claim exclusively public-source development. It deliberately preserves useful knowledge that has not been independently corroborated, while limiting legal conclusions.
 
-All targeted online checks reported here were made on **16 October 2026**. They do not establish comprehensive currency, future availability or legal review. The [source register](source-register.md) gives actual official URLs, dates, versions and covered topics. Read [English evidence](english-requirement.md) for tests/passports; read [study requirements](study-requirement.md) for completion, qualifications and three separate study ledgers.
+All targeted online checks reported here were made on **16 October 2026**. They do not establish comprehensive currency, future availability or legal review. The [source register](official-sources.md) gives actual official URLs, dates, versions and covered topics. Read [English evidence](english-requirement.md) for tests/passports; read [study requirements](study-requirement.md) for completion, qualifications and three separate study ledgers.
 
 ## Authority and refresh procedure
 
