@@ -4,10 +4,12 @@
 
 At first activation in a new task/session, the agent shows the disclaimer and a brief CC BY-NC 4.0 non-commercial licence notice. Each intake question shows progress, such as **Question 1 of 10** for a known set or **Question 1 of about 10** for an adaptive estimate. If the total is not yet known, it says so; if answers change the total, it briefly explains why. It still asks one question at a time and does not ask extra questions just to reach the total.
 
+For a focused question, expect a direct answer, the specific supported problem and a concrete next action—not a full intake or report by default. If the answer is blocked, the agent explains the precise missing fact or unresolved requirement and asks only the next material question. For a requested or necessary broad review, main findings and priority actions come before scope notes and detailed tables. Required notices and material uncertainty remain visible.
+
 ## Start
 > Use partner-801-preparation to help me prepare my permanent-stage documents. Ask me one question at a time.
 
-The agent should give the opening notice, use facts already supplied and ask only one next useful question. “I do not know” is allowed. You do not need to provide a complete immigration history. Choose your language naturally in your prompt.
+The agent should give the opening notice, answer what the supplied facts support and ask one next useful question only when needed. “I do not know” is allowed. You do not need to provide a complete immigration history. Choose your language naturally in your prompt.
 
 ## Checklist, review and requests
 - **Checklist:** “I hold an 820 visa and have not received 801. Make a preparation checklist using what I have told you. Leave unknown requirements visible.”
@@ -18,7 +20,7 @@ The agent should give the opening notice, use facts already supplied and ask onl
 The agent may ask about an urgent request before routine intake. It should not give blanket permission to upload at 22 months, promise approval, require every example document or order repeat medicals automatically.
 
 ## Reading the result
-**Ready for the stated preparation check** only describes named checks. **Missing** is an applicable evidence gap. **Needs correction** is a confirmed defect. **Needs verification** covers uncertain applicability/source currency or uninspected/unreadable content. **Not applicable** needs a supported reason. The report lists checked evidence, gaps, uncertainties and concrete next steps without a score or approval probability.
+**Ready for the stated preparation check** only describes named checks. **Missing** is an applicable evidence gap. **Needs correction** is a confirmed defect. **Needs verification** covers uncertain applicability/source currency or uninspected/unreadable content. **Not applicable** needs a supported reason. For broad reviews, the report puts main findings and priority actions before checked evidence and detailed gaps. Focused questions receive a short direct answer. Neither format gives a score or approval probability.
 
 ## Privacy and limits
 Start with a list; use redacted copies only where needed. Check your provider's processing and retention. The skill does not require a separate document-processing service; if OCR or another external service becomes needed, the agent must explain it and obtain permission. Never supply credentials or publish case files in public issues. Agent-generated explanatory translations are not accepted formal translations by default.

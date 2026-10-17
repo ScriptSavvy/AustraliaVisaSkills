@@ -3,7 +3,7 @@ name: student-500-preparation
 description: Use when preparing Australian Student visa documents.
 license: CC-BY-NC-4.0
 metadata:
-  version: "0.4.2"
+  version: "0.4.3"
   edition: public
   official_sources_checked: "2026-10-07"
 ---
@@ -28,7 +28,19 @@ Use for pre-application preparation, supplied-document review or organising a re
 ## Capabilities and supporting files
 This is portable Markdown. Use the agent's available file-reading and official web-retrieval tools; no special plugin, API key or executable script is required by the skill. Network access/account costs depend on the host agent. Do not pretend capabilities exist.
 
-Read `references/operational-knowledge.md` in full, then `references/checks.md` and `references/verification.md` before intake branching, substantive preparation guidance or requirements/compliance findings. Read `references/terms.md` and `references/application-procedures.md` before role/stage/form/request checks, and `references/document-handling.md` before document review. These procedural references are required for relevant tasks, not optional summaries. Preserve the operational conditions, exceptions and stage distinctions even when public corroboration is unavailable; mark current acceptance/applicability Needs verification rather than reduce the knowledge scope. Do not restore claims contradicted by verified applicable law or invent official support. Fill `templates/report.md` for the result. Supporting paths are relative to this skill's folder, wherever installed. No access to a private maintainer workspace or creator chat is required.
+Read `references/operational-knowledge.md` in full, then `references/checks.md` and `references/verification.md` before intake branching, substantive preparation guidance or requirements/compliance findings. Read `references/terms.md` and `references/application-procedures.md` before role/stage/form/request checks, and `references/document-handling.md` before document review. These procedural references are required for relevant tasks, not optional summaries. Preserve the operational conditions, exceptions and stage distinctions even when public corroboration is unavailable; mark current acceptance/applicability Needs verification rather than reduce the knowledge scope. Do not restore claims contradicted by verified applicable law or invent official support. Use `templates/report.md` for requested or necessary broad reviews; answer narrow questions directly using the answer-first rules below. Supporting paths are relative to this skill's folder, wherever installed. No access to a private maintainer workspace or creator chat is required.
+
+<!-- shared-answer-first:begin -->
+## Answer the question first
+For a focused question, give a focused answer rather than a full readiness report. After any required first-use notices, lead with the direct answer supported by the available evidence. If it cannot be determined, name the exact missing fact or unresolved requirement; do not guess.
+
+- Identify the main confirmed preparation problem, or label a possible concern clearly. Explain the evidence and why it matters. Do not invent a problem when none is supported.
+- Give a concrete next action that addresses that problem. If professional judgment is needed, state the precise question and evidence to take to a qualified professional, not just 'seek advice'.
+- Include only uncertainty that materially affects the answer and a brief source note for consequential requirements. Omit empty headings and unrelated checklists.
+- Ask only the next fact that materially changes the immediate answer. Continue independently supported guidance without requiring full intake. Preserve one-question pacing and question progress when a question is needed.
+- Use a full report for a requested or necessary broad review. Put main findings and priority actions before scope notes and detailed tables; preserve mandatory notices at the beginning of standalone outputs.
+- Be clear about supported document gaps or inconsistencies without making eligibility, authenticity, official acceptance or approval claims. Preserve source verification, conditional triggers, exceptions, privacy and professional boundaries. A concise answer must not hide material uncertainty.
+<!-- shared-answer-first:end -->
 
 ## One question at a time
 Ask one clear question per message, then wait for the applicant's answer before asking the next. Choose the next question from the facts already known and what materially changes this task; do not follow a rigid questionnaire.
@@ -50,13 +62,13 @@ Ask one clear question per message, then wait for the applicant's answer before 
 - Progress shows interview position, not document readiness, visa eligibility or a points score. Stop when sufficient for the requested output, even if fewer questions are needed than estimated. Do not ask unnecessary questions to reach the total or delay urgent cautions for numbering.
 
 ## Ask only what changes the result
-Start with the requested task, application stage and preferred language. Obtain:
+Use the facts already supplied to answer the requested question. The following is an internal inventory: obtain only facts that materially change this task, one question at a time, without delaying independently supported guidance:
 - Primary student, combined family application or subsequent entrant role.
 - Intended/actual application date, location at application and any official request/deadline/timezone.
 - Citizenship/passport country, provider, course/sector, course code, dates and all packaged courses.
 - Whether under18 at application, intended arrival or decision; family relationships, ages and who is applying.
 - Documents available, planned arrival/stay, insurance and any claimed special category or exemption.
-Ask current visa subclass/stream, expiry and relevant conditions if applying in Australia. For a form/submission review, request only the relevant redacted saved form, submission acknowledgement and separate payment record. For a lodged/request task, ask the actual response channel, appointed recipient, receipt facts and any extension correspondence. Ask about birth, relationship, contact or welfare/study changes only when relevant. Ask exact test details or funding route only when relevant. For subsequent entrants, obtain the primary visa and original family declarations. Prefer redacted evidence/age summaries; do not collect a complete history by default.
+Ask current visa subclass/stream, expiry and relevant conditions if applying in Australia. When reading a grant notice or VEVO, record the "must not arrive after" date, visa expiry date and permitted period of stay separately. Do not infer a departure deadline from the arrival field alone or assume these dates must differ; for temporary visas the dates may coincide. Check the actual stay wording and current in-effect visa. If unclear, request that specific redacted field and seek prompt official or qualified status clarification when timing is close. See the official VEVO [field explanations](https://immi.homeaffairs.gov.au/visas/already-have-a-visa/check-visa-details-and-conditions/check-conditions-online/visa-holders). For a form/submission review, request only the relevant redacted saved form, submission acknowledgement and separate payment record. For a lodged/request task, ask the actual response channel, appointed recipient, receipt facts and any extension correspondence. Ask about birth, relationship, contact or welfare/study changes only when relevant. Ask exact test details or funding route only when relevant. For subsequent entrants, obtain the primary visa and original family declarations. Prefer redacted evidence/age summaries; do not collect a complete history by default.
 
 ## Procedure
 1. **Define the check.** Record role, stage and relevant dates. Screen post-2-October-2026 onshore, family and packaging gates in the supporting files before assuming a route. The retrieved Regulations interval ends on 1 October 2026. The reform commencement and application saving are now verified through F2026L01347; exact subsidiary exemption classes and full consolidated current-law coverage remain unresolved, not automatically compliance-ready. If key facts are unknown, continue with a conditional checklist when useful and ask the next material question one at a time, not an applicant-ready finding. Explain lodgement means submitting the application.
@@ -64,7 +76,7 @@ Ask current visa subclass/stream, expiry and relevant conditions if applying in 
 3. **Select branches.** Use `references/operational-knowledge.md` with `references/checks.md`. Stored policy preparation guidance is not an applicant-specific current-law finding; preserve unresolved conflicts and use verified applicable law over contrary policy. Distinguish mandatory, conditional, useful supporting evidence and practical suggestions; state the trigger of every conditional row. Keep lodgement requirements separate from decision criteria. Examples are not universal document obligations. Preserve alternatives/exceptions and discretion.
 4. **Inspect evidence.** Assign neutral document IDs; note actual pages reviewed and extraction gaps. Filenames and applicant statements do not prove contents. Compare identities, course/insurance/welfare dates, relationships, funding and factual Genuine Student answers across inspected documents. Confirm a contradiction before calling it an error; name variations need explanation, not a fraud accusation.
 5. **Assess dimensions separately.** Report presence, readability, completeness, consistency, currency and compliance with a verified applicable requirement. A readable document does not prove authenticity or acceptability. Unknown applicability is not an exemption. Make mechanical calculations with a calculator/date/code tool and show assumptions; do not invent exchange rates, deadlines or fees.
-6. **Give a simple report.** Follow `templates/report.md`. Lead with what was checked, missing/correction items, unresolved questions and next actions. Explain why corrections matter. Use short sentences in the applicant's chosen language; preserve official document names.
+6. **Answer first.** For focused questions, state the direct answer, specific problem, next action and material uncertainty. For requested or necessary broad reviews, follow `templates/report.md` and start with main findings and priority actions before the detailed review. Explain why corrections matter. Use short sentences in the applicant's chosen language; preserve official document names.
 7. **Final check.** Every material finding must have inspected evidence or a declared gap and a traceable requirement in working notes. No hidden uncertainty, approval probability, numerical readiness score or eligibility conclusion. If any applicable mandatory check remains uncertain, do not label the whole application Ready.
 
 ## Status definitions

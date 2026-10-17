@@ -1,5 +1,10 @@
 # Changelog
 
+## Visitor 600 — 0.3.3
+- Answers focused questions directly, with the supported finding and concrete next action instead of unnecessary full intake.
+- Puts main findings and priority actions before detailed broad-review tables.
+- Clarifies first-use notices, required source checks and continued question numbering.
+
 ## Visitor 600 — 0.3.2
 - Added question numbering and exact or estimated totals, with explanations when the total changes.
 - Added a brief first-use CC BY-NC 4.0 non-commercial licence notice before applicant intake.

@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.2
+- Answers focused factor questions without requiring a full points interview or automatically displaying every study-matrix row.
+- Asks invitation status and invitation or planning date in separate turns.
+- Consolidates broad points reports while retaining required study checks, separate supported and conditional totals, evidence gaps and next actions.
+
 ## 0.3.1
 - Added question numbering and exact or estimated totals, with explanations when the total changes.
 - Added a brief first-use CC BY-NC 4.0 non-commercial licence notice before applicant intake.

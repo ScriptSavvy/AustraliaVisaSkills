@@ -77,7 +77,7 @@ Ask it to load the detailed operational knowledge and continue substantive condi
 ## Limits and safe use
 Do not ask for invented financial evidence, hidden contradictions or fabricated Genuine Student answers. Keep truthful facts. Statutory bars/waivers, disputed custody, health/character interpretation or refusal/cancellation issues may need a registered migration agent or Australian legal practitioner. Ask for a specific referral question, not a guessed conclusion.
 
-The report stays simple: what was checked, corrections, relevant uncertainties and actions. It need not reproduce the maintainer's research. You can request official links or more explanation at any time.
+For a focused question, expect a direct answer, the specific supported problem and what to do next—not a full report by default. For a broad review, the report starts with main findings and priority actions, followed by the detailed checks. It need not reproduce the maintainer's research. You can request official links or more explanation at any time.
 
 Use your own private case location if saving a report. Never put applicant documents in this skill repository or GitHub issues. The public skill is licensed for non-commercial use; paid client work or commercial redistribution may need separate permission. Licence: see NOTICE.md and LICENSE.txt.
 

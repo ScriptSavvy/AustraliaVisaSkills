@@ -2,6 +2,9 @@
 
 **Important notice:** This is general information and document-preparation support, not legal advice. No visa approval, processing time or other immigration outcome is guaranteed. Materials are provided as-is. Creators, maintainers and distributors disclaim liability only to the extent permitted by applicable law. Rights and liabilities that cannot lawfully be excluded are preserved.
 
+## Main findings and priority actions
+Answer the applicant's main question first. Name the most important confirmed preparation gaps or clearly labelled possible concerns, with the evidence and concrete next actions in priority order. If no problem is supported, say so within the stated scope. State material uncertainty and how to resolve it; do not imply eligibility or approval. Keep detailed checks below. This template is for broad reviews, not every short question.
+
 ## What has been checked
 - Check date and chosen language:
 - Stream; stage; lodgement/relevant dates; location at lodgement/decision:

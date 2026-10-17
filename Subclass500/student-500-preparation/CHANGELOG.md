@@ -1,5 +1,10 @@
 # Changelog
 
+## Student 500 — 0.4.3
+- Focused questions now receive a direct answer, the specific supported problem and concrete next actions without a full questionnaire or report by default.
+- Broad reviews now start with main findings and priority actions; important uncertainty remains visible.
+- Clarified that arrival deadlines, visa expiry and permitted stay must be read separately from the actual visa record.
+
 ## Student 500 — 0.4.2
 - Added question numbering and exact or estimated totals, with explanations when the total changes.
 - Added a brief first-use CC BY-NC 4.0 non-commercial licence notice before applicant intake.

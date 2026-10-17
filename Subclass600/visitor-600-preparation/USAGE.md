@@ -4,10 +4,12 @@
 
 At first activation in a new task/session, the agent shows the disclaimer and a brief CC BY-NC 4.0 non-commercial licence notice. Each intake question shows progress, such as **Question 1 of 10** for a known set or **Question 1 of about 10** for an adaptive estimate. If the total is not yet known, it says so; if answers change the total, it briefly explains why. It still asks one question at a time and does not ask extra questions just to reach the total.
 
+For a focused question, expect a direct answer, the specific supported problem and a concrete next action—not a full intake or report by default. If the answer is blocked, the agent explains the precise missing fact or unresolved requirement and asks only the next material question. For a requested or necessary broad review, main findings and priority actions come before scope notes and detailed tables. Required notices and material uncertainty remain visible.
+
 ## First use
 Ask: “Use visitor-600-preparation. Help me make a Subclass 600 document checklist. Ask one question at a time and wait for my answer. Ask only what changes the checklist. I prefer [language].”
 
-Start with a short message in your preferred language. The agent asks one relevant question, waits for your answer, and chooses the next. You do not need to answer a full questionnaire or share a passport number. You may volunteer more details, say 'I'm not sure', or skip a question; unknown facts stay visible. It should use details already supplied, skip irrelevant branches and summarise at useful checkpoints. A Department request or urgent deadline takes priority. Ask for a grouped questionnaire only if you prefer that format.
+Start with a short message in your preferred language. If a missing fact changes the answer, the agent asks one relevant question, waits for your answer, and chooses the next; otherwise it answers directly. You do not need to answer a full questionnaire or share a passport number. You may volunteer more details, say 'I'm not sure', or skip a question; unknown facts stay visible. It should use details already supplied, skip irrelevant branches and summarise at useful checkpoints. A Department request or urgent deadline takes priority. Ask for a grouped questionnaire only if you prefer that format.
 
 ## Example prompts
 - Checklist: “Tourist stream, outside Australia, adult, short holiday, self-funded. Prepare a provisional checklist and explain mandatory versus useful evidence.”

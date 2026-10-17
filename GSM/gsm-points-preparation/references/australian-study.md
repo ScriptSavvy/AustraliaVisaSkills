@@ -127,7 +127,7 @@ Start each standalone report with the notice above. Report **Australian-study 5-
 - **Not supported — provisional 0 for this factor:** reliable facts and applicable rules establish a failure, such as academic completion after invitation or an established shortfall in either threshold. State the decisive element. Do not convert this into overall visa ineligibility.
 - **Unresolved — possible 5, not included as unqualified supported points:** missing evidence, credit ambiguity, material discretion, disputed dates/location or incomplete legal coverage can change the outcome. Do not label unknown study as zero or discard it because old.
 
-Include this requirements matrix even in a focused factor report; compact rows may share the same cited document, but no element may silently disappear:
+For a requested Australian-study factor assessment report or a broad study-claim review, include this requirements matrix; compact rows may share the same cited document, but no element may silently disappear. Distinguish these reports from a short question about one evidence gap or disputed claim. For that short question, keep the full matrix as an internal completeness check, answer the decisive issue and next action directly, and mention any other gate that materially changes that answer; do not automatically display every row. A short answer does not assess omitted gates, establish the factor as supported or waive any requirement. The substantive gates, unresolved-claim treatment, source checks and qualifying-point rules below are unchanged:
 
 | Requirement / gate | Facts and evidence location | Calculation or applied branch | Evidence status | Applicable-rule/currency status | Result / next action |
 |---|---|---|---|---|---|

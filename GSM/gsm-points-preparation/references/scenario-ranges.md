@@ -30,7 +30,7 @@ If no relevant uncertainty remains, endpoints may be equal; describe a provision
 Start standalone reports with the skill's full notice. Use the report template and include:
 - Evidence-supported subtotal, conditional lower–upper range and scope/currency limits.
 - Concise assumptions for each endpoint and any excluded factors.
-- An unresolved-issue table: issue, alternatives, effect on points, dependencies, and smallest next action.
+- An unresolved-issue table: issue, alternatives, effect on points, dependencies, and smallest next action. This may be the same table as the points/evidence ledger when all these fields are visible; do not duplicate the same issue, scenario effect and action in a second table solely to follow headings. Keep endpoint assignments, scope and unresolved-authority details explicit.
 - Priorities based on the actual change to compatible totals, urgency and invitation-score impact. A factor's nominal points are not necessarily its effect after caps/dependencies. Do not add issue impacts as though independent; state the held-fixed scenario used for any quoted difference.
 - For known and verified invitation/qualifying scores, distinguish all covered scenarios below, scenarios on both sides, and all covered scenarios meeting the comparison. Unknown targets stay unresolved. Passing either comparison is not visa eligibility or an invitation guarantee.
 

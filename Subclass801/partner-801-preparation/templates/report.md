@@ -2,6 +2,9 @@
 
 > **Important disclaimer:** This skill provides general information and document-preparation support only. It is not legal advice or a substitute for advice from a registered migration agent or Australian legal practitioner. No visa approval, processing time or other immigration outcome is guaranteed. You are responsible for checking official requirements and deciding what to submit. The skill is provided as-is. To the extent permitted by applicable law, its creators, maintainers and distributors disclaim liability for loss or damage arising from its use or reliance on its outputs. Nothing in this notice excludes rights or liabilities that cannot lawfully be excluded.
 
+## Main findings and priority actions
+Answer the applicant's main question first. Name the most important confirmed preparation gaps or clearly labelled possible concerns, with the evidence and concrete next actions in priority order. If no problem is supported, say so within the stated scope. State material uncertainty and how to resolve it; do not imply eligibility or approval. Keep detailed checks below. This template is for broad reviews, not every short question.
+
 **Task and review date:** [checklist/content review/plan; date]
 **Scope:** [role, known pathway, stage; no eligibility/validity/approval determination]
 **Records actually checked:** [redacted document/page IDs, dates; distinguish list-only from inspected]
