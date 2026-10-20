@@ -9,7 +9,8 @@ import tempfile
 import zipfile
 from pathlib import Path, PurePosixPath
 from contextlib import contextmanager
-from changelog_catalog import SKILLS, build
+from changelog_catalog import build
+from skill_catalog import discover_skills, read_identity
 from readme_catalog import build_readme
 
 
@@ -76,9 +77,10 @@ def checked_archive(data, skill):
 
 def render(root, releases, fetch, baselines):
     root = Path(root)
+    skills = discover_skills(root, releases)
     with tempfile.TemporaryDirectory() as temporary:
         source_root = Path(temporary)
-        for skill in SKILLS:
+        for skill in skills:
             matching = [r for r in releases if r['tag_name'] == skill['tag'] and not r['draft'] and not r.get('prerelease', False)]
             if not matching:
                 continue
@@ -102,55 +104,7 @@ def render(root, releases, fetch, baselines):
             with checked_archive(data, skill) as archive:
                 name = skill['name']+'/SKILL.md'
                 instructions = archive.read(name).decode('utf-8')
-                lines = instructions.split('\n')
-                if lines[0] != '---' or '---' not in lines[1:]:
-                    raise ValueError('Missing skill frontmatter')
-                header = '\n'.join(lines[1:lines.index('---', 1)])
-                def exact_scalar(value, pattern):
-                    value = value.strip()
-                    if value[:1] in ('"', "'") and value[-1:] == value[:1]:
-                        value = value[1:-1]
-                    return value if re.fullmatch(pattern, value) else None
-
-                versions, names = [], []
-                parents = []
-                metadata_count = 0
-                # Deliberately validate only a restricted block-mapping subset:
-                # never infer identity from unrelated or deeper nested fields.
-                for line in header.split('\n'):
-                    if not line.strip() or line.lstrip().startswith('#'):
-                        continue
-                    indent = len(line) - len(line.lstrip(' '))
-                    if line[indent:][:1] == '\t':
-                        raise ValueError('Ambiguous skill frontmatter indentation')
-                    while parents and parents[-1][0] >= indent:
-                        parents.pop()
-                    field = re.fullmatch(r'([^:]+):[ \t]*(.*)', line[indent:])
-                    if field:
-                        key, value = field.groups()
-                        key = key.strip()
-                        normalized_key = key.strip('\"\'')
-                        if normalized_key in ('name', 'version', 'metadata', '<<') and key != normalized_key:
-                            raise ValueError('Unsupported quoted identity key')
-                        if key == '<<':
-                            raise ValueError('Ambiguous merged skill frontmatter')
-                        if key == 'metadata' and indent == 0:
-                            metadata_count += 1
-                            if metadata_count > 1 or (value.strip() and not value.lstrip().startswith('#')):
-                                raise ValueError('Ambiguous skill metadata mapping')
-                        if key == 'version':
-                            if not (indent == 0 or parents == [(0, 'metadata')]):
-                                raise ValueError('Unsupported skill version scope')
-                            versions.append(exact_scalar(value, r'[0-9]+\.[0-9]+\.[0-9]+'))
-                        if key == 'name':
-                            if indent != 0:
-                                raise ValueError('Unsupported skill name scope')
-                            names.append(exact_scalar(value, r'[a-z0-9-]+'))
-                        parents.append((indent, key))
-                    else:
-                        # Non-mapping lines cannot establish a metadata parent.
-                        parents.append((indent, None))
-                if versions != [version] or names != [skill['name']]:
+                if read_identity(instructions) != (skill['name'], version):
                     raise ValueError('ZIP skill name/version mismatch')
                 history_name = skill['name']+'/CHANGELOG.md'
                 if history_name in archive.namelist():
@@ -165,8 +119,8 @@ def render(root, releases, fetch, baselines):
             target = source_root / skill['path'] / 'CHANGELOG.md'
             target.parent.mkdir(parents=True)
             target.write_text(history, encoding='utf-8')
-        changelog = build(source_root, releases)
-        readme = build_readme(root, root.joinpath('README.md').read_text(encoding='utf-8'), releases)
+        changelog = build(source_root, releases, skills=skills)
+        readme = build_readme(root, root.joinpath('README.md').read_text(encoding='utf-8'), releases, skills=skills)
         return {'README.md': readme, 'CHANGELOG.md': changelog}
 
 

@@ -1,21 +1,13 @@
 """Refresh only the root README skill table; never package or publish."""
 import re
 from pathlib import Path
-from changelog_catalog import SKILLS
-
-DISPLAY = {
-    'Subclass500': 'Student — Subclass 500',
-    'subclass600': 'Visitor — Subclass 600',
-    'subclass801': 'Partner — Subclass 801',
-    'gsm-points': 'GSM points — Subclasses 189, 190 and 491',
-    'subclass485': 'Temporary Graduate — Subclass 485',
-    'subclass590': 'Student Guardian — Subclass 590',
-}
+from skill_catalog import discover_skills
 
 
-def build_readme(root, text, releases):
+def build_readme(root, text, releases, skills=None):
+    skills = discover_skills(root, releases) if skills is None else skills
     rows = ['| Visa | Skill | Guides | Release page |', '| --- | --- | --- | --- |']
-    for s in SKILLS:
+    for s in skills:
         matches = [r for r in releases if r['tag_name'] == s['tag'] and not r['draft'] and not r.get('prerelease', False)]
         if not matches:
             continue
@@ -33,7 +25,7 @@ def build_readme(root, text, releases):
         for guide in ('README.md', 'INSTALL.md', 'USAGE.md'):
             if not (Path(root) / base / guide).is_file():
                 raise ValueError('Missing linked guide: '+base+'/'+guide)
-        rows.append(f'| {DISPLAY[s["tag"]]} | [{s["name"]}]({base}/README.md), v{version} | [Install]({base}/INSTALL.md) · [Use]({base}/USAGE.md) | [v{version}](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/{s["tag"]}) |')
+        rows.append(f'| {s["display"]} | [{s["name"]}]({base}/README.md), v{version} | [Install]({base}/INSTALL.md) · [Use]({base}/USAGE.md) | [v{version}](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/{s["tag"]}) |')
     if len(rows) == 2:
         raise ValueError('No supported published releases; refusing to erase table')
     pattern = r'(?m)(^## Choose your skill\n)(?:\|[^\n]*\n)+'
