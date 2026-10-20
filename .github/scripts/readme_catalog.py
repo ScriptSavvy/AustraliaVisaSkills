@@ -8,6 +8,8 @@ DISPLAY = {
     'subclass600': 'Visitor — Subclass 600',
     'subclass801': 'Partner — Subclass 801',
     'gsm-points': 'GSM points — Subclasses 189, 190 and 491',
+    'subclass485': 'Temporary Graduate — Subclass 485',
+    'subclass590': 'Student Guardian — Subclass 590',
 }
 
 

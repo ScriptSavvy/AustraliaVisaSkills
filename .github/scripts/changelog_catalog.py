@@ -9,6 +9,8 @@ SKILLS = (
     dict(label='Visitor 600', name='visitor-600-preparation', path='Subclass600/visitor-600-preparation', tag='subclass600'),
     dict(label='Partner 801', name='partner-801-preparation', path='Subclass801/partner-801-preparation', tag='subclass801'),
     dict(label='GSM Points', name='gsm-points-preparation', path='GSM/gsm-points-preparation', tag='gsm-points'),
+    dict(label='Temporary Graduate 485', name='temporary-graduate-485-preparation', path='Subclass485/temporary-graduate-485-preparation', tag='subclass485'),
+    dict(label='Student Guardian 590', name='student-guardian-590-preparation', path='Subclass590/student-guardian-590-preparation', tag='subclass590'),
 )
 
 

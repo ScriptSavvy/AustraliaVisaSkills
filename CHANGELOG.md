@@ -107,3 +107,22 @@ Published version: **0.3.2** · [Release](https://github.com/ScriptSavvy/Austral
 ### 0.1.0
 - Initial cross-subclass GSM points preparation workflow, evidence review and provisional points report.
 - Conditional and historical pathways, source refresh and explicit unresolved-claim handling.
+
+## Temporary Graduate 485
+
+Published version: **0.1.0** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass485)
+
+### 0.1.0
+- Restrict deadline-status and remaining-time calculations; keep them Needs verification.
+- Add stream-specific Subclass 485 document preparation and evidence review.
+- Separate study, regional, skills-assessment and family evidence branches.
+- Keep source-date limits, credit uncertainty and document-quality findings visible.
+
+## Student Guardian 590
+
+Published version: **0.1.0** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass590)
+
+### 0.1.0
+- Added Student Guardian visa document checklists, evidence review and official-request organisation.
+- Added guardian/student nominations, family welfare, financial access, health insurance and conditional exceptional-case preparation.
+- Included explicit source-refresh gates, unresolved requirements, privacy safeguards and one-question-at-a-time guidance.
