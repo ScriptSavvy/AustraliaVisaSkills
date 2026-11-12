@@ -5,7 +5,7 @@ Original skill instructions, guides and templates are licensed under **Creative 
 [Full licence](LICENSE.txt) · [Official licence](https://creativecommons.org/licenses/by-nc/4.0/)
 
 - Use, sharing and adaptation are allowed for non-commercial purposes under the licence conditions.
-- When sharing, credit **Visa Skills project**, retain required notices and the original-material link where reasonably practicable, include the licence and indicate changes.
+- When sharing, credit **Immigent®**, retain required notices and the original-material link where reasonably practicable, include the licence and indicate changes.
 - Commercial use may require separate permission from the rights-holder. Non-commercial status depends on the use; paying for an AI subscription alone does not decide it.
 - Later paid releases do not cancel existing compliant CC permissions.
 
