@@ -1,7 +1,7 @@
 ---
 name: student-guardian-590-preparation
 description: Prepare Australian Student Guardian visa 590 documents.
-version: 0.1.0
+version: 0.1.1
 license: CC-BY-NC-4.0
 platforms: [linux, macos, windows]
 metadata:

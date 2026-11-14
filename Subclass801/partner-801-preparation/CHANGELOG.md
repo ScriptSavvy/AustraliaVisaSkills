@@ -1,5 +1,11 @@
 # Changelog
 
+## Partner 801 — 0.1.3 — 2026-11-14
+- Simplified adaptive intake to numbered questions without unknown or estimated totals.
+- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
+- Added both CLI and ZIP installation options to the bundled guides.
+- Updated original-content attribution to Immigent®.
+
 ## Partner 801 — 0.1.2
 - Answers focused document questions directly and puts broad-review findings and actions first.
 - Numbers replacement-page requests and continues the same question sequence when new evidence arrives.

@@ -4,7 +4,7 @@
 
 > **Licence — non-commercial use:** This skill's original instructions and guides are licensed under **CC BY-NC 4.0**. You may use, share and adapt them for non-commercial purposes under the licence terms. When sharing, give credit and identify changes. Commercial use requires separate permission from the rights holder. See [LICENSE.txt](LICENSE.txt) and [NOTICE.md](NOTICE.md).
 
-**Version 0.1.0 · Local preparation draft.** One skill covering employer nomination and visa application as separate stages, with a shared consistency check. Prepare either stage alone or both together across Core Skills, Specialist Skills and Labour Agreement routes.
+**Version 0.1.1 · Local preparation draft.** One skill covering employer nomination and visa application as separate stages, with a shared consistency check. Prepare either stage alone or both together across Core Skills, Specialist Skills and Labour Agreement routes.
 
 ## Start here
 - [Install the whole skill folder](INSTALL.md).

@@ -1,7 +1,7 @@
 ---
 name: temporary-graduate-485-preparation
 description: Prepare Australian Temporary Graduate visa 485 documents.
-version: 0.1.0
+version: 0.1.2
 license: CC-BY-NC-4.0
 platforms: [linux, macos, windows]
 metadata:
@@ -69,6 +69,9 @@ PVEW may need nominated occupation, eligible-list/assessor version and assessmen
 4. **Assess six dimensions separately.** Presence, readability, completeness, consistency, currency, and compliance with a verified applicable requirement. Use the statuses below; mixed dimensions are allowed. Completion: each status has evidence/gap and an executable next action; no readiness score or approval probability.
 5. **Deliver proportionately.** Answer narrow questions directly. Use the report template for broad reviews and a provisional checklist when documents have not been inspected. Explain why a correction matters and preserve dates/conditions precisely. Completion: what was checked, missing/correction items, material uncertainty and next steps are clear, without research-log clutter.
 6. **Final audit.** Check the actual outgoing text: when the opening gate applies, it starts with the complete disclaimer and licence block, with both bundled file links, before the finding/question. Reading them is not delivery; repair omissions before sending. On a short same-task follow-up, retain the answer and continuing question ledger without repeating full notices already visible. Confirm required references actually loaded; no invented source support, assumed applicability, hidden conflict or legal outcome. If a material in-scope requirement is unresolved, do not label the whole application Ready. Completion: a capable agent can trace every consequential finding and the applicant can act on it.
+
+## Practical resources
+**OVHC comparison guidance:** When the applicant needs to arrange or replace Overseas Visitors Health Cover (OVHC), direct them to `https://www.ovhccompare.com.au/` to compare options. Present this as a practical comparison resource, not an official source of visa requirements or a mandatory purchasing channel. Remind them to confirm the selected policy’s suitability, coverage dates and insured family members with the insurer. Do not assume every applicant needs new OVHC or recommend replacing suitable existing cover. If their need for OVHC is unclear, resolve that question first.
 
 ## Statuses
 - **Ready for the stated preparation check:** supported only for the named item/dimension/scope. Compliance-ready additionally needs a verified applicable rule, including dates and exceptions. Never visa-ready or approval-ready.

@@ -1,7 +1,7 @@
 ---
 name: partner-801-preparation
 description: Prepare Australian Partner visa 801 stage-two documents.
-version: 0.1.2
+version: 0.1.3
 license: CC-BY-NC-4.0
 platforms: [linux, macos, windows]
 ---

@@ -1,7 +1,7 @@
 ---
 name: gsm-points-preparation
 description: Prepare Australian GSM points claims and evidence.
-version: 0.3.2
+version: 0.3.3
 license: CC-BY-NC-4.0
 platforms: [linux, macos, windows]
 ---

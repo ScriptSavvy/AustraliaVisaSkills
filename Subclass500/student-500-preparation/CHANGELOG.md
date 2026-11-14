@@ -1,5 +1,11 @@
 # Changelog
 
+## Student 500 — 0.4.4 — 2026-11-14
+- Simplified adaptive intake to numbered questions without unknown or estimated totals.
+- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
+- Added both CLI and ZIP installation options to the bundled guides.
+- Updated original-content attribution to Immigent®.
+
 ## Student 500 — 0.4.3
 - Focused questions now receive a direct answer, the specific supported problem and concrete next actions without a full questionnaire or report by default.
 - Broad reviews now start with main findings and priority actions; important uncertainty remains visible.

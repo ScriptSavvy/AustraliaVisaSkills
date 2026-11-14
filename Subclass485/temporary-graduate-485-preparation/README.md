@@ -18,7 +18,7 @@ Helps organise a stream-specific checklist, review supplied documents and prepar
 - [Source refresh and unresolved limits](references/verification.md).
 - [Changes](CHANGELOG.md).
 
-Version: **0.1.0**. This is a preparation draft, not a published or government-approved release. Targeted official checks do not establish comprehensive currency. Installed copies do not update automatically.
+Version: **0.1.2**. This is a preparation draft, not a published or government-approved release. Targeted official checks do not establish comprehensive currency. Installed copies do not update automatically.
 
 For a first trial use synthetic facts, not real personal records. The full folder is needed; SKILL.md alone is not enough. No applicant documents, private source extracts or maintenance tools belong in the installable folder.
 

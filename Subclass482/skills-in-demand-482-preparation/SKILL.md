@@ -1,7 +1,7 @@
 ---
 name: skills-in-demand-482-preparation
 description: Prepare SID 482 nomination and visa application evidence.
-version: 0.1.0
+version: 0.1.1
 license: CC-BY-NC-4.0
 platforms: [linux, macos, windows]
 metadata:

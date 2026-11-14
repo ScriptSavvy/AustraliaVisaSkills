@@ -1,5 +1,11 @@
 # Changelog
 
+## Visitor 600 — 0.3.4 — 2026-11-14
+- Simplified adaptive intake to numbered questions without unknown or estimated totals.
+- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
+- Added both CLI and ZIP installation options to the bundled guides.
+- Updated original-content attribution to Immigent®.
+
 ## Visitor 600 — 0.3.3
 - Answers focused questions directly, with the supported finding and concrete next action instead of unnecessary full intake.
 - Puts main findings and priority actions before detailed broad-review tables.

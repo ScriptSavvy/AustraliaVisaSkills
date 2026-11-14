@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.3 — 2026-11-14
+- Simplified adaptive intake to numbered questions without unknown or estimated totals.
+- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
+- Added both CLI and ZIP installation options to the bundled guides.
+- Updated original-content attribution to Immigent®.
+
 ## 0.3.2
 - Answers focused factor questions without requiring a full points interview or automatically displaying every study-matrix row.
 - Asks invitation status and invitation or planning date in separate turns.

@@ -4,7 +4,7 @@
 
 > **Licence — non-commercial use:** This skill's original instructions and guides are licensed under **CC BY-NC 4.0**. You may use, share and adapt them for non-commercial purposes under the licence terms. When sharing, give credit and identify changes. Commercial use requires separate permission from the rights holder. See [LICENSE.txt](LICENSE.txt) and [NOTICE.md](NOTICE.md).
 
-**Version 0.1.0 — local preparation draft.** Helps prepare a tailored evidence checklist, review document quality/consistency and organise an actual Department request. It includes ordinary guardians, exceptional adult-student and bilateral-benefit preparation branches, finance, family welfare and insurance.
+**Version 0.1.1 — local preparation draft.** Helps prepare a tailored evidence checklist, review document quality/consistency and organise an actual Department request. It includes ordinary guardians, exceptional adult-student and bilateral-benefit preparation branches, finance, family welfare and insurance.
 
 - [Install the whole folder](INSTALL.md).
 - [Use it with your agent](USAGE.md).

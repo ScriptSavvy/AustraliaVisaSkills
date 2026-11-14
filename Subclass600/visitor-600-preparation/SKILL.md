@@ -1,7 +1,7 @@
 ---
 name: visitor-600-preparation
 description: Prepare Australian Visitor visa 600 documents.
-version: 0.3.3
+version: 0.3.4
 license: CC-BY-NC-4.0
 platforms: [linux, macos, windows]
 ---

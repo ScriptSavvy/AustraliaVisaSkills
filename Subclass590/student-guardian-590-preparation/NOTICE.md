@@ -1,6 +1,6 @@
 # Attribution and licence notice
 
-Original instructions and guides: **Visa Skills project**, version 0.1.0.
+Original instructions and guides: **Immigent®**, version 0.1.1.
 
 Creative Commons Attribution–NonCommercial 4.0 International (**CC BY-NC 4.0**). See [LICENSE.txt](LICENSE.txt) for full terms. Non-commercial sharing and adaptation are permitted under those terms, including credit and change notices. Separate commercial permission may be available from the rights holder. Preserve legal exceptions and separate permissions.
 
