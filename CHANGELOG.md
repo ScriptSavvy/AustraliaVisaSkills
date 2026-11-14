@@ -6,7 +6,13 @@ Applicant-facing history grouped by independently versioned skill. Current versi
 
 ## Student 500
 
-Published version: **0.4.3** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500)
+Published version: **0.4.4** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500)
+
+### 0.4.4 — 2026-11-14
+- Simplified adaptive intake to numbered questions without unknown or estimated totals.
+- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
+- Added both CLI and ZIP installation options to the bundled guides.
+- Updated original-content attribution to Immigent®.
 
 ### 0.4.3
 - Focused questions now receive a direct answer, the specific supported problem and concrete next actions without a full questionnaire or report by default.
@@ -39,7 +45,13 @@ Published version: **0.4.3** · [Release](https://github.com/ScriptSavvy/Austral
 
 ## Visitor 600
 
-Published version: **0.3.3** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass600)
+Published version: **0.3.4** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass600)
+
+### 0.3.4 — 2026-11-14
+- Simplified adaptive intake to numbered questions without unknown or estimated totals.
+- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
+- Added both CLI and ZIP installation options to the bundled guides.
+- Updated original-content attribution to Immigent®.
 
 ### 0.3.3
 - Answers focused questions directly, with the supported finding and concrete next action instead of unnecessary full intake.
@@ -91,7 +103,13 @@ Published version: **0.1.3** · [Release](https://github.com/ScriptSavvy/Austral
 
 ## GSM Points
 
-Published version: **0.3.2** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/gsm-points)
+Published version: **0.3.3** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/gsm-points)
+
+### 0.3.3 — 2026-11-14
+- Simplified adaptive intake to numbered questions without unknown or estimated totals.
+- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
+- Added both CLI and ZIP installation options to the bundled guides.
+- Updated original-content attribution to Immigent®.
 
 ### 0.3.2
 - Answers focused factor questions without requiring a full points interview or automatically displaying every study-matrix row.
