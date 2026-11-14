@@ -4,7 +4,7 @@
 
 This skill helps you prepare Student visa documents. It does not determine eligibility or guarantee approval. Use your agent's normal chat, file upload and privacy controls.
 
-At first activation in a new task/session, the agent shows the disclaimer and a brief CC BY-NC 4.0 non-commercial licence notice. Each intake question shows progress, such as **Question 1 of 10** for a known set or **Question 1 of about 10** for an adaptive estimate. If the total is not yet known, it says so; if answers change the total, it briefly explains why. It still asks one question at a time and does not ask extra questions just to reach the total.
+At first activation in a new task/session, the agent shows the disclaimer and a brief CC BY-NC 4.0 non-commercial licence notice. Before adaptive intake it explains once: “I’ll ask one question at a time. Your answers help me decide what to ask next, so you won’t need to answer questions that don’t apply to you.” Each question shows a number, such as **Question 3**, optionally with a short topic label. A total, such as **Question 3 of 8**, appears only for a known complete question set. The agent does not display an unknown or estimated total. Follow-ups and skipped answers continue the numbering; unknown answers remain unresolved. It asks no extra questions merely to reach a total.
 
 ## Start without sharing documents
 Copy this prompt:

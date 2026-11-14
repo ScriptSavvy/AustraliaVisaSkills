@@ -5,7 +5,7 @@
 > **Licence — non-commercial use:** This skill's original instructions and guides are licensed under **CC BY-NC 4.0**. You may use, share and adapt them for non-commercial purposes under the licence terms. When sharing, give credit and identify changes. Commercial use requires separate permission from the rights holder. See [LICENSE.txt](LICENSE.txt) and [NOTICE.md](NOTICE.md).
 
 ## Start with your actual task
-Choose the language you prefer. You can ask one question without completing a full interview. The agent asks one necessary question at a time and shows question progress; answers may change the number of follow-ups. “Not sure” is allowed and remains unverified.
+Choose the language you prefer. You can ask one question without completing a full interview. The agent asks one necessary question at a time and labels it, for example **Question 3**. Before adaptive intake it explains once that your answers determine the next question and irrelevant questions are skipped. It shows a total only for a known complete question set, not an estimate. Follow-ups and skipped answers continue the numbering. “Not sure” is allowed and remains unverified.
 
 Copy one of these prompts:
 - **Narrow question:** “Use temporary-graduate-485-preparation. My inspected completion letter says academic completion on 12 June, while my degree certificate says conferral on 20 August. Which date should my preparation timeline use?”

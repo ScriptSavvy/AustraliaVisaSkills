@@ -11,7 +11,7 @@ Examples:
 - “Help organise the evidence requested in this redacted Home Affairs letter. Do not submit anything.”
 - “Does this financial evidence explain how I can access the money? Answer that question only.”
 
-The agent should answer the narrow question first where possible and ask only one material question per message. Before intake it shows progress such as **Question 1 — total not yet known**. It adapts to volunteered facts; an unknown answer remains unresolved. A report may list several next actions without asking you to answer everything at once.
+The agent should answer the narrow question first where possible and ask only one material question per message. Before intake it shows progress such as **Question 1**. It adapts to volunteered facts; an unknown answer remains unresolved. A report may list several next actions without asking you to answer everything at once. Before adaptive intake it explains once that your answers determine the next question and irrelevant questions are skipped. A total appears only for a known complete question set, not an estimate. A short topic label may describe the current question. Follow-ups and skipped answers continue the numbering.
 
 ## Share safely
 Start with synthetic facts. For real reviews remove passport/account numbers, addresses and signatures unless essential. Keep readable dates, relevant names or consistent labels, relationship information and page references. A hosted agent may process files through its provider; check its privacy settings first. No additional external OCR/upload service is required. The agent needs your separate permission before sending documents to one, contacting anyone, submitting or paying.
