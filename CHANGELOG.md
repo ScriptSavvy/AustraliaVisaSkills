@@ -67,7 +67,13 @@ Published version: **0.3.3** · [Release](https://github.com/ScriptSavvy/Austral
 
 ## Partner 801
 
-Published version: **0.1.2** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass801)
+Published version: **0.1.3** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass801)
+
+### 0.1.3 — 2026-11-14
+- Simplified adaptive intake to numbered questions without unknown or estimated totals.
+- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
+- Added both CLI and ZIP installation options to the bundled guides.
+- Updated original-content attribution to Immigent®.
 
 ### 0.1.2
 - Answers focused document questions directly and puts broad-review findings and actions first.
@@ -120,7 +126,13 @@ Published version: **0.1.0** · [Release](https://github.com/ScriptSavvy/Austral
 
 ## Student Guardian 590
 
-Published version: **0.1.0** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass590)
+Published version: **0.1.1** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass590)
+
+### 0.1.1 — 2026-11-14
+- Simplified adaptive intake to numbered questions without unknown or estimated totals.
+- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
+- Added both CLI and ZIP installation options to the bundled guides.
+- Updated original-content attribution to Immigent®.
 
 ### 0.1.0
 - Added Student Guardian visa document checklists, evidence review and official-request organisation.
