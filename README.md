@@ -18,9 +18,34 @@ Use these skills in your own AI agent to prepare a document checklist, review su
 Each skill has its own release page with a skill ZIP attached. Use the link for your chosen skill, not the repository's globally latest release, which may concern a different skill. GSM points preparation is a standalone cross-subclass module, not a full visa-preparation skill.
 
 ## Get started
-1. Open the release page for your chosen skill above and download its attached skill ZIP.
-2. Follow the installation guide for your chosen skill. Keep the whole inner skill folder, including its references, templates and any scripts. Do not install the subclass or GSM wrapper.
-3. Open a new agent session and follow the usage guide.
+
+Immigent® offers **CLI installation and downloadable ZIPs** for every published skill.
+
+### Option A — CLI for supported local agents
+
+Requires **Node.js 22.20 or later** (with npm/npx) and internet access. First list the available skills without installing:
+
+```bash
+npx skills add ScriptSavvy/AustraliaVisaSkills --list
+```
+
+Then select one skill and your intended agent. For example:
+
+```bash
+npx skills add ScriptSavvy/AustraliaVisaSkills --skill student-500-preparation --agent claude-code --copy
+```
+
+Replace the skill name with one from the table above. Replace `claude-code` with `codex`, `cursor` or `opencode` as appropriate. Installation defaults to the current project; add `-g` for user-wide use. Review prompts and existing customisations before accepting an overwrite. Open the skill's **Install** guide for prerequisites, permissions and verification.
+
+This runs the third-party [Vercel Labs skills installer](https://github.com/vercel-labs/skills), not an Immigent® executable. It uses the repository's current default branch, not a selected release ZIP. It does not install the agent or upload files to a web/cloud account. Agent selection is not a security boundary: some hosts share a skill directory. Local copies do not automatically update.
+
+### Option B — Downloadable ZIP / no terminal
+
+1. Open the release page for your chosen skill above and download its attached skill ZIP under Assets, not the automatic Source code archives.
+2. Follow the installation guide for your chosen skill. Keep the whole inner skill folder, including its references, templates, licences and any scripts. Do not install the subclass or GSM wrapper.
+3. Open a new agent session and follow the usage guide. Start with a synthetic setup check, not personal records.
+
+Both routes are available; use the ZIP for a specific packaged release or a manual installation. A local CLI installation is not a Claude/ChatGPT web skill upload.
 
 ## What to expect
 A tailored checklist or review showing what was checked, gaps, relevant uncertainties and next actions. Student preparation includes students and family applicants. Visitor preparation covers Tourist, Sponsored Family and Business Visitor; ADS and Frequent Traveller receive a limited inventory and verification plan. Partner 801 preparation covers permanent-stage evidence and relevant relationship-change and child pathways, with explicit verification limits.

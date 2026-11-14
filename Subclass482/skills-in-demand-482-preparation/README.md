@@ -23,3 +23,10 @@ Targeted official checks dated 21 October 2026 supplement stored preparation gui
 Full sponsorship applications, agreement negotiation, historical TSS applications, representation, submission, payment, withdrawal and third-party communication are outside scope. Current-holder transitions are covered only with their specific source/date gates. The skill does not determine individual interim work permission or certify family expiry in unresolved special-family, age-23, TSS or passport-class branches. Source-rights, rights-holder/contact and professional/regulatory review are not cleared by this local draft. No native-host installation or government endorsement is claimed.
 
 Use redacted or synthetic information for your first test. Your agent provider may process uploaded files. No additional external document processor is required or authorised by this skill.
+
+## Installation options
+
+- **CLI:** `npx skills add ScriptSavvy/AustraliaVisaSkills --skill skills-in-demand-482-preparation --agent claude-code --copy`. Replace `claude-code` with `codex`, `cursor` or `opencode` as appropriate. Requires Node.js 22.20+. Defaults to this project; add `-g` for user scope.
+- **ZIP:** download the attached skill ZIP from this skill's [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass482), extract it and install the whole inner folder.
+
+Read [INSTALL.md](INSTALL.md) for prerequisites, permissions, host limits and checks. CLI uses the current repository branch, not the packaged release; installed copies do not auto-update. Immigent® provides preparation support, not guaranteed immigration outcomes.

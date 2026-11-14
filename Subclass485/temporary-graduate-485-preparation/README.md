@@ -21,3 +21,10 @@ Helps organise a stream-specific checklist, review supplied documents and prepar
 Version: **0.1.0**. This is a preparation draft, not a published or government-approved release. Targeted official checks do not establish comprehensive currency. Installed copies do not update automatically.
 
 For a first trial use synthetic facts, not real personal records. The full folder is needed; SKILL.md alone is not enough. No applicant documents, private source extracts or maintenance tools belong in the installable folder.
+
+## Installation options
+
+- **CLI:** `npx skills add ScriptSavvy/AustraliaVisaSkills --skill temporary-graduate-485-preparation --agent claude-code --copy`. Replace `claude-code` with `codex`, `cursor` or `opencode` as appropriate. Requires Node.js 22.20+. Defaults to this project; add `-g` for user scope.
+- **ZIP:** download the attached skill ZIP from this skill's [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass485), extract it and install the whole inner folder.
+
+Read [INSTALL.md](INSTALL.md) for prerequisites, permissions, host limits and checks. CLI uses the current repository branch, not the packaged release; installed copies do not auto-update. Immigent® provides preparation support, not guaranteed immigration outcomes.

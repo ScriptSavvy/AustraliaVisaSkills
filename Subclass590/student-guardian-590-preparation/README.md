@@ -15,3 +15,10 @@
 Do not use this skill to decide eligibility, application validity, legal stay/travel rights or approval. Onshore/application-date rules, child grant periods, newborn handling and travel exceptions need the applicable authority and actual circumstances. Financial amounts and fees must be refreshed rather than copied from memory.
 
 No native installation, comprehensive current-law audit, legal/professional or redistribution-permission clearance is claimed. Rights-holder/contact and source permissions require appropriate review before publication. Preparing local files is not publishing them. Installed copies do not auto-update.
+
+## Installation options
+
+- **CLI:** `npx skills add ScriptSavvy/AustraliaVisaSkills --skill student-guardian-590-preparation --agent claude-code --copy`. Replace `claude-code` with `codex`, `cursor` or `opencode` as appropriate. Requires Node.js 22.20+. Defaults to this project; add `-g` for user scope.
+- **ZIP:** download the attached skill ZIP from this skill's [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass590), extract it and install the whole inner folder.
+
+Read [INSTALL.md](INSTALL.md) for prerequisites, permissions, host limits and checks. CLI uses the current repository branch, not the packaged release; installed copies do not auto-update. Immigent® provides preparation support, not guaranteed immigration outcomes.

@@ -19,3 +19,10 @@ Portable applicant document-preparation support, not an eligibility or approval 
 - Focused questions now receive a direct answer, the specific supported problem and concrete next actions without a full questionnaire or report by default.
 - Broad reviews now start with main findings and priority actions; important uncertainty remains visible.
 - Clarified that arrival deadlines, visa expiry and permitted stay must be read separately from the actual visa record.
+
+## Installation options
+
+- **CLI:** `npx skills add ScriptSavvy/AustraliaVisaSkills --skill student-500-preparation --agent claude-code --copy`. Replace `claude-code` with `codex`, `cursor` or `opencode` as appropriate. Requires Node.js 22.20+. Defaults to this project; add `-g` for user scope.
+- **ZIP:** download the attached skill ZIP from this skill's [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500), extract it and install the whole inner folder.
+
+Read [INSTALL.md](INSTALL.md) for prerequisites, permissions, host limits and checks. CLI uses the current repository branch, not the packaged release; installed copies do not auto-update. Immigent® provides preparation support, not guaranteed immigration outcomes.

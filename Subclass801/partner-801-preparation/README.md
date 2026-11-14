@@ -7,3 +7,10 @@ Version **0.1.2**. Prepare a permanent-stage document checklist, review readable
 Start with [installation](INSTALL.md) and [usage](USAGE.md). Keep the whole `partner-801-preparation` folder. Read [verification limits](references/verification.md) before relying on a requirement. Original content is [CC BY-NC 4.0](LICENSE.txt); see [attribution](NOTICE.md). No raw departmental source documents or applicant records are included.
 
 Use redacted documents and check your AI provider's processing/retention settings. Never publish applicant records in GitHub issues. No comprehensive current-law, legal review or end-to-end native installation is claimed.
+
+## Installation options
+
+- **CLI:** `npx skills add ScriptSavvy/AustraliaVisaSkills --skill partner-801-preparation --agent claude-code --copy`. Replace `claude-code` with `codex`, `cursor` or `opencode` as appropriate. Requires Node.js 22.20+. Defaults to this project; add `-g` for user scope.
+- **ZIP:** download the attached skill ZIP from this skill's [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass801), extract it and install the whole inner folder.
+
+Read [INSTALL.md](INSTALL.md) for prerequisites, permissions, host limits and checks. CLI uses the current repository branch, not the packaged release; installed copies do not auto-update. Immigent® provides preparation support, not guaranteed immigration outcomes.
