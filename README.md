@@ -21,6 +21,16 @@ Each skill has its own release page with a skill ZIP attached. Use the link for 
 
 Immigent® offers **CLI installation and downloadable ZIPs** for every published skill.
 
+### Easiest option — Drag the ZIP into agent chat
+
+For agents that support file attachments, opening ZIP files and installing skills:
+
+1. Download your chosen skill’s attached ZIP from its release page above, under Assets—not a Source code archive.
+2. Drag the ZIP into your agent’s chat, or use its attachment button.
+3. Ask: **“Read the attached ZIP and its INSTALL.md, then install the complete skill for this agent’s current profile or workspace. Preserve its files and ask before replacing an existing installation. Verify discovery and tell me the skill name, version if supplied, installation location and how to start using it. If installation is unavailable, explain the limitation.”**
+
+Attaching or reading a ZIP is not itself installation. Each skill’s **Install** guide includes the full copy-and-paste request and alternatives. Share only the reusable skill ZIP, not applicant records; check your provider’s file-processing and retention settings.
+
 ### Option A — CLI for supported local agents
 
 Requires **Node.js 22.20 or later** (with npm/npx) and internet access. First list the available skills without installing:
