@@ -47,6 +47,12 @@ This runs the third-party [Vercel Labs skills installer](https://github.com/verc
 
 Both routes are available; use the ZIP for a specific packaged release or a manual installation. A local CLI installation is not a Claude/ChatGPT web skill upload.
 
+## How to use the skills
+
+Read [How to use Immigent® preparation skills](USAGE.md) once. It explains the common workflow, privacy, question flow and result statuses. Then use the **Use** link for your selected skill above for its activation prompt, examples and specific limits. You do not need to reread the common guide for each skill.
+
+Every complete skill folder includes its own **COMMON-USAGE.md** copy and a short **USAGE.md** supplement. You can use it independently without downloading another skill. Previously published ZIPs and installed copies keep their existing guides until separately updated.
+
 ## What to expect
 A tailored checklist or review showing what was checked, gaps, relevant uncertainties and next actions. Student preparation includes students and family applicants. Visitor preparation covers Tourist, Sponsored Family and Business Visitor; ADS and Frequent Traveller receive a limited inventory and verification plan. Partner 801 preparation covers permanent-stage evidence and relevant relationship-change and child pathways, with explicit verification limits.
 

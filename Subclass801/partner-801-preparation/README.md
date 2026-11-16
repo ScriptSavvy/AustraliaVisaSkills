@@ -8,6 +8,10 @@ Start with [installation](INSTALL.md) and [usage](USAGE.md). Keep the whole `par
 
 Use redacted documents and check your AI provider's processing/retention settings. Never publish applicant records in GitHub issues. No comprehensive current-law, legal review or end-to-end native installation is claimed.
 
+## Usage guidance
+
+Read [How to use Immigent® skills](COMMON-USAGE.md) once for the shared workflow. [Skill-specific usage and prompts](USAGE.md) contains only this skill’s examples and important scope limits. Both guides are included in the complete skill folder.
+
 ## Installation options
 
 - **CLI:** `npx skills add ScriptSavvy/AustraliaVisaSkills --skill partner-801-preparation --agent claude-code --copy`. Replace `claude-code` with `codex`, `cursor` or `opencode` as appropriate. Requires Node.js 22.20+. Defaults to this project; add `-g` for user scope.

@@ -10,6 +10,10 @@ Install the entire `gsm-points-preparation` folder. Read [INSTALL.md](INSTALL.md
 
 [Official-source coverage and material conflicts](references/verification-notes.md) records the bounded checks: the published Regulations period ends 1 October 2026; later amendments and identified timing/location issues remain unresolved. The executing agent must check applicable versions and disclose gaps. No end-to-end native-agent installation or legal review is claimed. Local preparation is not GitHub publication.
 
+## Usage guidance
+
+Read [How to use Immigent® skills](COMMON-USAGE.md) once for the shared workflow. [Skill-specific usage and prompts](USAGE.md) contains only this skill’s examples and important scope limits. Both guides are included in the complete skill folder.
+
 ## Installation options
 
 - **CLI:** `npx skills add ScriptSavvy/AustraliaVisaSkills --skill gsm-points-preparation --agent claude-code --copy`. Replace `claude-code` with `codex`, `cursor` or `opencode` as appropriate. Requires Node.js 22.20+. Defaults to this project; add `-g` for user scope.

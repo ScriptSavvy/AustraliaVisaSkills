@@ -16,6 +16,10 @@ Do not use this skill to decide eligibility, application validity, legal stay/tr
 
 No native installation, comprehensive current-law audit, legal/professional or redistribution-permission clearance is claimed. Rights-holder/contact and source permissions require appropriate review before publication. Preparing local files is not publishing them. Installed copies do not auto-update.
 
+## Usage guidance
+
+Read [How to use Immigent® skills](COMMON-USAGE.md) once for the shared workflow. [Skill-specific usage and prompts](USAGE.md) contains only this skill’s examples and important scope limits. Both guides are included in the complete skill folder.
+
 ## Installation options
 
 - **CLI:** `npx skills add ScriptSavvy/AustraliaVisaSkills --skill student-guardian-590-preparation --agent claude-code --copy`. Replace `claude-code` with `codex`, `cursor` or `opencode` as appropriate. Requires Node.js 22.20+. Defaults to this project; add `-g` for user scope.

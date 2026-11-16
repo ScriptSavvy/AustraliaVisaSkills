@@ -22,6 +22,10 @@ Version: **0.1.2**. This is a preparation draft, not a published or government-a
 
 For a first trial use synthetic facts, not real personal records. The full folder is needed; SKILL.md alone is not enough. No applicant documents, private source extracts or maintenance tools belong in the installable folder.
 
+## Usage guidance
+
+Read [How to use Immigent® skills](COMMON-USAGE.md) once for the shared workflow. [Skill-specific usage and prompts](USAGE.md) contains only this skill’s examples and important scope limits. Both guides are included in the complete skill folder.
+
 ## Installation options
 
 - **CLI:** `npx skills add ScriptSavvy/AustraliaVisaSkills --skill temporary-graduate-485-preparation --agent claude-code --copy`. Replace `claude-code` with `codex`, `cursor` or `opencode` as appropriate. Requires Node.js 22.20+. Defaults to this project; add `-g` for user scope.

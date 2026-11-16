@@ -24,6 +24,10 @@ Full sponsorship applications, agreement negotiation, historical TSS application
 
 Use redacted or synthetic information for your first test. Your agent provider may process uploaded files. No additional external document processor is required or authorised by this skill.
 
+## Usage guidance
+
+Read [How to use Immigent® skills](COMMON-USAGE.md) once for the shared workflow. [Skill-specific usage and prompts](USAGE.md) contains only this skill’s examples and important scope limits. Both guides are included in the complete skill folder.
+
 ## Installation options
 
 - **CLI:** `npx skills add ScriptSavvy/AustraliaVisaSkills --skill skills-in-demand-482-preparation --agent claude-code --copy`. Replace `claude-code` with `codex`, `cursor` or `opencode` as appropriate. Requires Node.js 22.20+. Defaults to this project; add `-g` for user scope.

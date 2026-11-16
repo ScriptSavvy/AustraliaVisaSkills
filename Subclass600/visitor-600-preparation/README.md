@@ -18,6 +18,10 @@ Installation has not been tested in every host agent. Preparation guidance is no
 
 Version 0.3.4. Detailed [operational preparation knowledge](references/operational-knowledge.md) preserves stored policy/evidence examples alongside selective official-source checks on 2026-10-07. Stored guidance is not all independently public-corroborated; verified applicable legal compliance is a separate finding. Genuine currency, process and condition conflicts remain explicit. No comprehensive current-law certification or applicant records are included.
 
+## Usage guidance
+
+Read [How to use Immigent® skills](COMMON-USAGE.md) once for the shared workflow. [Skill-specific usage and prompts](USAGE.md) contains only this skill’s examples and important scope limits. Both guides are included in the complete skill folder.
+
 ## Installation options
 
 - **CLI:** `npx skills add ScriptSavvy/AustraliaVisaSkills --skill visitor-600-preparation --agent claude-code --copy`. Replace `claude-code` with `codex`, `cursor` or `opencode` as appropriate. Requires Node.js 22.20+. Defaults to this project; add `-g` for user scope.
