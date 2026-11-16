@@ -6,7 +6,13 @@ Applicant-facing history grouped by independently versioned skill. Current versi
 
 ## Student 500
 
-Published version: **0.4.3** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500)
+Published version: **0.4.4** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500)
+
+### 0.4.4 — 2026-11-14
+- Simplified adaptive intake to numbered questions without unknown or estimated totals.
+- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
+- Added both CLI and ZIP installation options to the bundled guides.
+- Updated original-content attribution to Immigent®.
 
 ### 0.4.3
 - Focused questions now receive a direct answer, the specific supported problem and concrete next actions without a full questionnaire or report by default.
@@ -39,7 +45,13 @@ Published version: **0.4.3** · [Release](https://github.com/ScriptSavvy/Austral
 
 ## Visitor 600
 
-Published version: **0.3.3** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass600)
+Published version: **0.3.4** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass600)
+
+### 0.3.4 — 2026-11-14
+- Simplified adaptive intake to numbered questions without unknown or estimated totals.
+- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
+- Added both CLI and ZIP installation options to the bundled guides.
+- Updated original-content attribution to Immigent®.
 
 ### 0.3.3
 - Answers focused questions directly, with the supported finding and concrete next action instead of unnecessary full intake.
@@ -67,7 +79,13 @@ Published version: **0.3.3** · [Release](https://github.com/ScriptSavvy/Austral
 
 ## Partner 801
 
-Published version: **0.1.2** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass801)
+Published version: **0.1.3** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass801)
+
+### 0.1.3 — 2026-11-14
+- Simplified adaptive intake to numbered questions without unknown or estimated totals.
+- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
+- Added both CLI and ZIP installation options to the bundled guides.
+- Updated original-content attribution to Immigent®.
 
 ### 0.1.2
 - Answers focused document questions directly and puts broad-review findings and actions first.
@@ -85,7 +103,13 @@ Published version: **0.1.2** · [Release](https://github.com/ScriptSavvy/Austral
 
 ## GSM Points
 
-Published version: **0.3.2** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/gsm-points)
+Published version: **0.3.3** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/gsm-points)
+
+### 0.3.3 — 2026-11-14
+- Simplified adaptive intake to numbered questions without unknown or estimated totals.
+- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
+- Added both CLI and ZIP installation options to the bundled guides.
+- Updated original-content attribution to Immigent®.
 
 ### 0.3.2
 - Answers focused factor questions without requiring a full points interview or automatically displaying every study-matrix row.
@@ -110,7 +134,16 @@ Published version: **0.3.2** · [Release](https://github.com/ScriptSavvy/Austral
 
 ## Temporary Graduate 485
 
-Published version: **0.1.0** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass485)
+Published version: **0.1.2** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass485)
+
+### 0.1.2 — 2026-11-14
+- Added conditional OVHC comparison guidance, with insurer suitability checks and protection for suitable existing cover.
+
+### 0.1.1 — 2026-11-14
+- Simplified adaptive intake to numbered questions without unknown or estimated totals.
+- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
+- Added both CLI and ZIP installation options to the bundled guides.
+- Updated original-content attribution to Immigent®.
 
 ### 0.1.0
 - Restrict deadline-status and remaining-time calculations; keep them Needs verification.
@@ -120,7 +153,13 @@ Published version: **0.1.0** · [Release](https://github.com/ScriptSavvy/Austral
 
 ## Student Guardian 590
 
-Published version: **0.1.0** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass590)
+Published version: **0.1.1** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass590)
+
+### 0.1.1 — 2026-11-14
+- Simplified adaptive intake to numbered questions without unknown or estimated totals.
+- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
+- Added both CLI and ZIP installation options to the bundled guides.
+- Updated original-content attribution to Immigent®.
 
 ### 0.1.0
 - Added Student Guardian visa document checklists, evidence review and official-request organisation.
@@ -129,7 +168,13 @@ Published version: **0.1.0** · [Release](https://github.com/ScriptSavvy/Austral
 
 ## Skills In Demand 482
 
-Published version: **0.1.0** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass482)
+Published version: **0.1.1** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass482)
+
+### 0.1.1 — 2026-11-14
+- Simplified adaptive intake to numbered questions without unknown or estimated totals.
+- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
+- Added both CLI and ZIP installation options to the bundled guides.
+- Updated original-content attribution to Immigent®.
 
 ### 0.1.0 — 2026-10-21
 - Added integrated SID subclass 482 nomination and visa preparation, with distinct stage and actor responsibilities.
