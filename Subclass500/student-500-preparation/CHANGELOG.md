@@ -1,9 +1,10 @@
 # Changelog
 
-## Student 500 — Unreleased — 2026-11-16
+## Student 500 — 0.4.5 — 2026-11-16
 - Added precise onshore and family exemption conditions, including course completion, progression, provider default and linked current-family visas.
 - Corrected the PhD package screen and kept the progression class's one-further-course restriction separate.
 - Refreshed targeted legislative coverage while preserving earlier applications and unresolved case-specific questions.
+- Bundled the common usage guide and skill-specific prompts, with an optional ZIP-in-chat installation route for agents that support it.
 
 ## Student 500 — 0.4.4 — 2026-11-14
 - Simplified adaptive intake to numbered questions without unknown or estimated totals.
