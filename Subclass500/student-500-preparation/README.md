@@ -13,7 +13,7 @@ Portable applicant document-preparation support, not an eligibility or approval 
 - [Report template](templates/report.md)
 - [Licence notice](NOTICE.md) and [CC BY-NC 4.0 legal text](LICENSE.txt)
 
-**Important date limit:** official guidance checked 2026-10-07 describes changes from 2 October 2026 for onshore applications, family inclusion and packages, and bars new subsequent entrants. The retrieved Regulations compilation covers only through 1 October 2026, but reform commencement and application saving are verified through the amending Regulations. Exact subsidiary exemptions and full consolidated legal coverage still require checking. Do not assume a route is available or claim full current-law verification. The skill can still inspect supplied evidence and organise unresolved questions.
+**Important date limit:** onshore/family/package knowledge was refreshed on16November2026 with exact LIN20/158 exemption conditions, newer Regulations and targeted later-amendment checks. It preserves the2October2026 application-date boundary and does not authorise new subsequent-entry applications. Remaining CoE-date, course-definition, package and individual status/newborn questions are visible in [verification and limits](references/verification.md). Other source dates remain unchanged. This is not full current-law certification or a finding that an applicant may apply. The skill can still inspect evidence while an affected compliance question needs verification.
 
 ## Essential release changes — 0.4.4
 - Simplified adaptive intake to numbered questions without unknown or estimated totals.
