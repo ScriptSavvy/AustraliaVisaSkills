@@ -8,10 +8,10 @@
 [Direct result for the requested review. Name the main confirmed problem or precise limit. Up to three priority actions; do not invent a problem.]
 
 ## Scope and evidence
-[Date/language, requested task, first/subsequent/secondary role and stream, relevant application/study/test dates, location where material, documents/pages actually inspected and statement-only facts. List exclusions briefly.]
+[Date/language, requested task, first/subsequent/secondary role and stream, relevant application/study/test dates, location where material, documents/pages actually inspected and statement-only facts. For a relevant family/minor-primary review, record the applicable pre-/from 13 November 2026 branch, each person’s application/deemed mechanism and material dates; do not assume the parent’s date settles a child’s branch. List exclusions briefly.]
 
 ## Tailored evidence review
-[Keep detailed findings here once, not repeated in a separate issue list. One row per applicable item; add rows for different people/stages where needed.]
+[Keep detailed findings here once, not repeated in a separate issue list. One row per applicable item; add rows for different people/stages where needed. Where triggered, separate the family inclusion branch, combined timing/location, onshore secondary status, relationship-at-decision and under-18-primary PIC checks. Unresolved reg2.08B interaction is Needs verification, not a promised route or assumed prohibition. Read references/family-reform.md; do not display irrelevant branches.]
 
 | Item, person and trigger | Rule class, stage and brief source/version/check date | Evidence ID/pages or statement/gap | Presence | Readability | Completeness | Consistency | Currency | Verified-requirement compliance | Explanation and next action |
 |---|---|---|---|---|---|---|---|---|---|

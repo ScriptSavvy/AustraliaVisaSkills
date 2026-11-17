@@ -4,7 +4,7 @@ Read this for an English-evidence question, together with [verification](verific
 
 ## 1. Decide whose requirement applies
 
-Clause 485.212 is a primary criterion. Where it applies, the application must be accompanied by evidence of the specified passport or qualifying test/score within the specified period. Do not automatically impose a fresh primary test on secondary applicants. The exception concerns an applicant who **meets** 485.232–485.235, not everyone who merely chooses the regional/subsequent label. The retained historical Replacement exception is not a new-primary stream invitation.
+Clause 485.212 is a primary criterion. Where it applies, the application must be accompanied by evidence of the specified passport or qualifying test/score within the specified period. Do not automatically impose a fresh primary test on secondary applicants. The exception concerns an applicant who **meets** 485.232–485.235, not everyone who merely chooses the regional/subsequent label. The Replacement exception in the earlier 485.212(2) is historical only: F2026L01500 item16 removes it for applications from 13 November 2026. Preserve applicable earlier cases without offering a new-primary Replacement route. See [family reform](family-reform.md); the regional exception and English instrument/test-date branches below are not replaced by this reform.
 
 ## 2. Select the legal branch before reading a score table
 
@@ -36,6 +36,8 @@ The checked PHEW public page accepts IELTS One Skill Retake and MET Single Secti
 6. Give separate presence, readability, completeness, consistency, currency and verified-requirement findings. Missing overall/component results are evidence gaps, not a zero or automatic failure. If the source is unavailable, report supported document-quality findings and mark compliance **Needs verification**. Do not invent a score table or claim current verification.
 
 ## Read sources
+
+- November supplement: F2026L01500, Schedule1 item16 and Schedule13 clause17001; checked 17 November 2026. [Reform source anchors](official-sources.md#november-2026-reform). This supplements the clause485.212 history below, not a new verification date for every English source.
 
 - Migration Regulations 1994, C289/F2026C01017, 2 October 2026, clause 485.212; checked 16 October 2026. [Regulations](https://www.legislation.gov.au/F1996B03551/2026-10-02/2026-10-02/text).
 - Migration (English Language Requirements for Subclass 485 (Temporary Graduate) Visas) Instrument 2025, LIN 25/089, F2025L00907, registered 6 August 2025, commenced 7 August 2025; ss6–11, Schedules 1–4; checked 16 October 2026. [Instrument](https://www.legislation.gov.au/F2025L00907/asmade/text).

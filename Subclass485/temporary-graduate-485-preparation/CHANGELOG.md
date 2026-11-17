@@ -1,5 +1,13 @@
 # Changes
 
+## 0.1.3 — 2026-11-17
+- Added application-date routing for the 13 November 2026 family reforms, preserving earlier applications.
+- Added the six family-inclusion alternatives, same-time combined applications, different-location handling and onshore secondary status checks.
+- Preserved distinct newborn handling and made the dependent-child addition uncertainty explicit.
+- Added under-18 primary checks and date-labelled superseded Replacement/offshore rules while preserving existing-holder regional routes.
+- Added targeted official-source references and family-review report fields without globally refreshing older requirements.
+- Included clearer shared/skill-specific usage guides and ZIP-in-chat installation instructions for agents that support them.
+
 ## 0.1.2 — 2026-11-14
 - Added conditional OVHC comparison guidance, with insurer suitability checks and protection for suitable existing cover.
 

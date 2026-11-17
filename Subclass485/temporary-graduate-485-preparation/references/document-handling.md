@@ -1,6 +1,6 @@
 # Document handling — Temporary Graduate visa (subclass 485)
 
-**Private candidate, not cleared for publication.** Preparation support only; no assurance of document acceptance, legal sufficiency or grant. Do not transmit documents or access an applicant account without authority. Use redacted working copies and minimum necessary personal information.
+**Preparation support only; no official-acceptance guarantee.** Preparation support only; no assurance of document acceptance, legal sufficiency or grant. Do not transmit documents or access an applicant account without authority. Use redacted working copies and minimum necessary personal information.
 
 ## Applicability limits
 

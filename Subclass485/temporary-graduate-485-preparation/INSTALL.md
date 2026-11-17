@@ -44,7 +44,7 @@ After either option, start a fresh agent session and run the smoke check below w
 
 Installer command/source basis: [Vercel Labs skills](https://github.com/vercel-labs/skills) and its [CLI reference](https://github.com/vercel-labs/skills/blob/main/docs/commands.md), checked 14 November 2026. No immigration-source verification dates were advanced.
 
-This is a preparation draft, version 0.1.2. It does not support deadline-status or remaining-time calculations; see the [important limits](README.md#important-limits). Installation is separate from policy verification, legal review and publication. No installation is performed merely by reading this guide. Start with synthetic facts.
+This is a preparation draft, version 0.1.3. It does not support deadline-status or remaining-time calculations; see the [important limits](README.md#important-limits). Installation is separate from policy verification, legal review and publication. No installation is performed merely by reading this guide. Start with synthetic facts.
 
 ## Before copying
 1. Use an agent that can read Markdown and its linked files. File-reading and official browsing are useful for evidence review and source verification. No special API key, plugin or executable script is required by this skill.

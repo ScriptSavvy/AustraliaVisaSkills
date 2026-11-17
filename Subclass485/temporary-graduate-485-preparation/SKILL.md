@@ -1,7 +1,7 @@
 ---
 name: temporary-graduate-485-preparation
 description: Prepare Australian Temporary Graduate visa 485 documents.
-version: 0.1.2
+version: 0.1.3
 license: CC-BY-NC-4.0
 platforms: [linux, macos, windows]
 metadata:
@@ -33,6 +33,9 @@ This edition does **not** calculate remaining time or determine whether an appli
 
 You may still organise the requested evidence and explain the independently supported distinction between requesting an extension and receiving one. The conditional late-response discussion in the supporting references does not authorise an elapsed-deadline conclusion. Keep this restriction visible in a deadline-related answer; do not imply it has been repaired or verified by installation.
 
+## Application-date gate — 13 November 2026 reform
+Before a family-inclusion, secondary-location/status, Replacement-application or under-18-primary check, read [the reform reference](references/family-reform.md). Applications from 13 November 2026 have new inclusion, same-time combined-application and onshore-secondary status gates. Preserve applicable earlier applications and child mechanisms; do not infer a grandfathered family route from an older primary grant. Unknown dates or branch facts remain Needs verification. This gate does not change the deadline limitation above.
+
 ## Tools and required reading
 Portable Markdown; no API key, plugin or executable script is required. Use the host's authorised Markdown/document-reading and official web-retrieval tools. Use a calculator/date/code tool for arithmetic and date comparisons. Do not assume those capabilities exist. With no browsing, continue evidence-quality checks but mark current legal compliance Needs verification.
 
@@ -60,7 +63,7 @@ For a broad review put main findings and priority actions before scope and detai
 ## Inputs — internal inventory
 Use only inputs material to this task: requested check and language; stage and actual/intended application date; first/subsequent/secondary role and stream; relevant current/previous visa grant details and conditions; physical location; age and passport/qualification exception if triggered; course completion and award type; documents available. Use redacted ages/date summaries rather than identity numbers where sufficient.
 
-PVEW may need nominated occupation, eligible-list/assessor version and assessment-application/result records. Study questions may need transcripts, provider completion letter, CRICOS details, credits/RPL, campus, travel and lawful-study periods. Regional reviews may need previous visa basis, study/residence/work locations, postcode/date history, holidays and continuing intentions. Family review may need only relevant relationships/ages, included versus non-applicant roles, primary grant and child chronology. Official requests need the redacted notice, instructed channel, recipient/receipt and deadline facts, one fact at a time.
+PVEW may need nominated occupation, eligible-list/assessor version and assessment-application/result records. Study questions may need transcripts, provider completion letter, CRICOS details, credits/RPL, campus, travel and lawful-study periods. Regional reviews may need previous visa basis, study/residence/work locations, postcode/date history, holidays and continuing intentions. Family review may need relevant relationships/ages, actual application dates, combined versus deemed/addition mechanism, linked primary/secondary visa history, each person’s location and onshore status, and birth/grant chronology. Request passport, completed-doctorate or foreign-government-funding evidence only for a material inclusion branch under the reform reference. Official requests need the redacted notice, instructed channel, recipient/receipt and deadline facts, one fact at a time.
 
 ## Procedure and completion gates
 1. **Set scope.** Use the request and known facts; record role, stream/pathway, stage, relevant dates and evidence boundary. Explain lodgement means submitting the application. Give independently supported guidance while asking one necessary question. Completion: unknown facts are visible, not assumed.

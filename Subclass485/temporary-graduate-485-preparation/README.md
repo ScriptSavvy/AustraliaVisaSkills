@@ -7,7 +7,7 @@
 ## Important limits
 **Do not use this draft to calculate remaining time or decide whether a response, submission or immigration-status deadline has passed.** It can organise a request and record the stated deadline, but deadline status must remain **Needs verification**. Seek timely official or appropriately qualified assistance for a consequential deadline assessment.
 
-Official source-body checks are dated **16 October 2026**. A later review did not establish fresh operative-law currency. Credit/RPL interpretation, conflicting document-certification guidance and some historical online-study questions remain subject to the [source-verification limits](references/verification.md). This is preparation support, not a current-law or legal-approval certificate.
+Initial official source-body checks are dated **16 October 2026**. A targeted **17 November 2026** supplement covers the reform applying to applications from **13 November 2026**, including family inclusion/combined applications and under-18 primary checks. It is not a complete current-law audit. Credit/RPL, document-certification and historical online-study issues remain at their stated limits; the dependent-child addition interaction is unresolved. See [source-verification limits](references/verification.md). This is preparation support, not a legal-approval certificate.
 
 ## What it does
 Helps organise a stream-specific checklist, review supplied documents and prepare a response inventory for an actual Department request. It covers PVEW, first PHEW, regional subsequent PHEW and family-document preparation. It is not an eligibility assessor or submission tool.
@@ -18,7 +18,7 @@ Helps organise a stream-specific checklist, review supplied documents and prepar
 - [Source refresh and unresolved limits](references/verification.md).
 - [Changes](CHANGELOG.md).
 
-Version: **0.1.2**. This is a preparation draft, not a published or government-approved release. Targeted official checks do not establish comprehensive currency. Installed copies do not update automatically.
+Version: **0.1.3**. This is a preparation draft, not a published or government-approved release. Targeted official checks do not establish comprehensive currency. Installed copies do not update automatically.
 
 For a first trial use synthetic facts, not real personal records. The full folder is needed; SKILL.md alone is not enough. No applicant documents, private source extracts or maintenance tools belong in the installable folder.
 

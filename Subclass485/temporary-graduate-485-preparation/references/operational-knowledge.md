@@ -19,7 +19,7 @@ Answer the applicant's actual question first; use only the relevant branches, no
 - First PVEW: application/visa/age gates, common evidence, vocational study and occupation relationship, skills assessment, then the complete [study reference](study-requirement.md).
 - First PHEW: application/visa/age gates, common evidence, first-degree/type/institution gates, then the complete [study reference](study-requirement.md).
 - Regional second/subsequent PHEW: application/visa/count gates, the matching one of four regional branches, regional evidence/physical-location/holiday/Tasmania rules, family and grant conditions. Do not reimpose first-grant English/study criteria automatically.
-- Secondary: family application/location mechanism, family relationship at decision, own insurance/public-interest/return checks, any triggered AFP evidence, and grant conditions. The existing primary's stream/history can affect the family pathway.
+- Secondary: actual application date and child mechanism; [reform gates](family-reform.md) where applicable; family relationship/combined-application evidence at decision; own insurance/public-interest/return checks, triggered AFP evidence and grant conditions. The existing primary’s stream/history can affect the pathway; an older grant does not establish permission for a new separate subsequent-entrant application.
 
 Application location and qualifying visa are independent gates (U01). Prior-visa counts and first-grant prohibitions are independent gates (U07). Application-time facts and later decision evidence are independent gates. Keep them in separate findings.
 
@@ -76,11 +76,13 @@ First PHEW concerns recent eligible Australian higher-education degrees, regardl
 
 
 
-### R007 — Stored conditional; pre-application
+### R007 — Checked conditional; pre-application and historical review
 
-The former Replacement stream accepted eligible primary applications from 1 July 2022 through 30 June 2024. From 1 July 2024 the stored pathway is limited to family members of an existing primary Replacement visa holder; eligible Replacement holders may instead investigate subsequent regional PHEW.
+The former Replacement stream accepted eligible primary applications from 1 July 2022 through 30 June 2024. The stored family route from 1 July 2024 is historical for applications before 13 November 2026, subject to the law applicable to that application. For applications from 13 November, do not offer a separate later family/Replacement application; use the new combined-application and inclusion gates.
 
-**Limits / exceptions:** Do not offer Replacement as an ordinary new-primary stream.
+**Limits / exceptions:** Do not offer a new primary Replacement application. Preserve eligible existing Replacement holders’ regional PHEW history routes under R029/R079 and 485.234/.235; the reform does not remove them.
+
+**November source:** [family reform and source anchors](family-reform.md), F2026L01500, checked 17 November 2026; apply the actual application-date gate.
 
 
 
@@ -180,60 +182,72 @@ The stored guidance excludes this subclass from the subsequent temporary applica
 
 
 
-### R017 — Stored conditional; application
+### R017 — Checked conditional; application
 
-A person claiming family-unit membership of someone who already holds a primary-granted 485 may apply inside or outside Australia, but not in immigration clearance.
+For applications from 13 November 2026, a secondary applicant may be inside or outside Australia, not in immigration clearance, under item 1229(3)(f). They must meet the inclusion gate, apply at the same time as and combined with the primary, and meet the separate onshore-status gate if in Australia.
 
-**Limits / exceptions:** This later-entrant exception does not automatically extend to family applying with an undecided primary applicant.
+**Limits / exceptions:** The older already-primary-holder location exception is historical for applications before commencement; it is not permission for a new separate subsequent-entrant application. Assess child mechanisms separately under R021/R022.
+
+**November source:** [family reform and source anchors](family-reform.md), F2026L01500, checked 17 November 2026; apply the actual application-date gate.
 
 
 
 ### R018 — Checked mandatory; application
 
-Applicants outside the specific Schedule 1 item 1229(3)(f) exceptions must be in Australia, not in immigration clearance, under (3)(g). This includes ordinary new-primary and regional second/subsequent PHEW applications.
+For applications from 13 November 2026, item 1229(3)(d) requires a primary applicant to be in Australia, not immigration clearance. This includes ordinary first and regional second/subsequent primary applications. An eligible secondary may be offshore under R017; do not impose a same-physical-place rule.
 
-**Limits / exceptions:** The already-primary-holder family exception is separate. Preserved Replacement/family wording in (3)(f)(iii) does not reopen new-primary Replacement applications after their closure. A qualifying-visa alternative does not override the location gate.
+**Historical boundary:** Before commencement, use the actual applicable version. Inspected C289 item 1229(3)(f)/(g) distinguished the already-primary-holder family exception and other applicants; retained Replacement wording did not reopen ordinary new-primary Replacement applications. A qualifying-visa limb does not override the applicable location gate.
 
-**Checked legal anchor:** Migration Regulations 1994, C289/F2026C01017, compilation 2 October 2026, checked 16 October 2026; [applicable provisions](https://www.legislation.gov.au/F1996B03551/2026-10-02/2026-10-02/text). Refresh for the actual application/decision dates.
-
-
-### R019 — Stored conditional; application
-
-Eligible family-unit members may apply at the same time and place as the primary applicant in a combined application; check each person's location separately.
-
-**Limits / exceptions:** A claim of family membership must meet the applicable definition.
+**Sources:** [C289 historical provisions](https://www.legislation.gov.au/F1996B03551/2026-10-02/2026-10-02/text), checked 16 October 2026; [November reform](family-reform.md), F2026L01500 Schedule 1 item 7, checked 17 November 2026. Refresh for the actual dates.
 
 
+### R019 — Checked conditional; application
 
-### R020 — Stored conditional; application
+For applications from 13 November 2026, secondary applications must be made at the same time as, and combined with, the primary application under 1229(3)(f)(ii). The primary must be onshore; an eligible secondary may be inside or outside Australia, not immigration clearance. The old same-time-and-place wording is historical for applicable earlier applications.
 
-Family may use a combined application or a separate family application. A separate later-entrant application after primary grant can be made inside or outside Australia, not in immigration clearance, subject to application bars.
+**Limits / exceptions:** Check each person’s inclusion branch, family-unit definition, location and onshore status independently. An inclusion exception does not waive combined timing. Child deemed/addition mechanisms are separate questions.
 
-**Limits / exceptions:** Do not treat a separate application before primary grant as enjoying the already-holder offshore exception.
+**November source:** [family reform and source anchors](family-reform.md), F2026L01500, checked 17 November 2026; apply the actual application-date gate.
 
 
 
-### R021 — Stored conditional; pending application
+### R020 — Checked conditional; application
 
-A dependent child may be added after lodgement but before decision through the dependent-child addition mechanism.
+For applications from 13 November 2026, establish at least one 1229(3)(e)(i)–(vi) branch for the secondary: specified primary passport; most recent student visa for a completed doctorate; most recent student visa for courses each fully foreign-government-funded; qualifying child birth after the relevant grant; same-primary Student-secondary history; or same-primary 485-secondary history. Read the exact alternatives and evidence triggers in [family reform](family-reform.md#secondary-inclusion--at-least-one-branch).
 
-**Limits / exceptions:** Do not conflate this mechanism with the newborn mechanism.
+**Limits / exceptions:** The Student-history branch preserves current holding, holding on 2 October 2026, or holding within the specified six months; the 485-history branch has no special 2 October limb. Onshore secondaries must separately satisfy 1229(4A): substantive visa, qualifying Bridging A/B based on a valid application, or the precisely scoped ART/non-revocation and notification branch. Unknown facts are Needs verification, not an exemption. Do not offer an ordinary new separate subsequent-entrant application. Review older separate-family applications only under their actual earlier-date rules.
+
+**November source:** [family reform and source anchors](family-reform.md), F2026L01500, checked 17 November 2026; apply the actual application-date gate.
 
 
 
-### R022 — Stored conditional; pending application
+### R021 — Stored conditional; pending application with unresolved interaction
 
-A child born after lodgement but before decision is handled under the newborn-child application mechanism; record the birth and obtain the applicable procedure.
+Regulation 2.08B provides a dependent-child addition mechanism for specified temporary classes; inspected C289/C290 text includes Class VC. Do not treat that fact alone as permission to add a child after a 485 application under the new rules.
 
-**Limits / exceptions:** Birth after grant has a different timing context not resolved by this statement.
+**Limits / exceptions:** Its interaction with the 13 November 2026 same-time requirement and transitional rule remains unresolved (U11). Record the actual parent/child application mechanism, request/payment times and location facts, then obtain the precise applicable-authority clarification. Do not promise addition, declare the regulation repealed, or conflate this mechanism with reg 2.08 newborn handling or spouse addition. Continue independently supported checks.
+
+**Sources:** [family reform — child mechanisms](family-reform.md#child-mechanisms--keep-the-chronology-and-uncertainty-visible) and U11 in [verification](verification.md).
+
+
+
+### R022 — Checked conditional; pending application
+
+A child born after a parent’s application but before its decision is a distinct reg 2.08 deemed-application question. The regulation remains in the inspected base law, and current stream guidance still describes the newborn as making the same application as the parent. Record birth/application/decision chronology and follow the actual notification/evidence directions.
+
+**Limits / exceptions:** Do not turn the ordinary no-later-family rule into a ban on every newborn during processing, demand a fresh paid application automatically, or assume grant. Establish the child’s own applicable date/criteria where commencement matters. Birth after grant, including onshore automatic same-kind visa treatment described by Home Affairs, is a different mechanism; see [child distinctions](family-reform.md#child-mechanisms--keep-the-chronology-and-uncertainty-visible).
+
+**November source:** [family reform and source anchors](family-reform.md), F2026L01500, checked 17 November 2026; apply the actual application-date gate.
 
 
 
 ### R023 — Stored mandatory; application
 
-A dependent child needs an individual application unless combined with a parent's application.
+Each dependent child who is applying has an application of their own, including where combined with a parent’s or deemed under an applicable child mechanism. That separate legal identity is not permission to lodge a separate later 485 application under the post-13-November rules.
 
-**Limits / exceptions:** Applicable dependent-child/newborn addition mechanisms must be assessed separately.
+**Limits / exceptions:** Apply R019/R020’s combined/inclusion gates where applicable; assess reg 2.08 and unresolved reg 2.08B separately. Historical individual/combined routes require the actual earlier-date law.
+
+**Sources:** [family reform](family-reform.md) and [application procedures](application-procedures.md).
 
 
 <a id="qualifying-visa-and-age"></a>
@@ -249,13 +263,13 @@ One qualifying-visa limb is holding an eligible student visa at lodgement.
 
 
 
-### R025 — Checked conditional; application
+### R025 — Checked historical conditional; application
 
-Item 1229(4)(a)(ia) retains an offshore former-eligible-student alternative within the qualifying-visa test.
+Item 1229(4)(a)(ia) contained an offshore former-eligible-student alternative in the inspected earlier law. F2026L01500 Schedule 1 item 10 repeals that limb for applications from 13 November 2026.
 
-**Limits / exceptions:** This is an immigration-status limb, not standalone permission to lodge offshore. Apply the independent 1229(3)(f)/(g) location gate as well. U01 is resolved for inspected C289 provisions, not for all applicant circumstances or historical versions.
+**Limits / exceptions:** For an applicable earlier application, the immigration-status limb did not itself override the separate 1229(3)(f)/(g) location gate. For a new primary application use current 1229(3)(d), not this repealed limb. U01 preserves that distinction without certifying all historical cases.
 
-**Checked legal anchor:** Migration Regulations 1994, C289/F2026C01017, compilation 2 October 2026, checked 16 October 2026; [applicable provisions](https://www.legislation.gov.au/F1996B03551/2026-10-02/2026-10-02/text). Refresh for the actual application/decision dates.
+**Sources:** [C289 historical provisions](https://www.legislation.gov.au/F1996B03551/2026-10-02/2026-10-02/text), checked 16 October 2026; [November reform](family-reform.md), checked 17 November 2026.
 
 
 ### R026 — Stored conditional; application
@@ -416,7 +430,7 @@ Test eligibility follows the application-date instrument and test-date branch in
 
 Where 485.213(1) applies, the visa application must be accompanied by evidence that the primary applicant and every included person aged at least 16 applied for an AFP check within the 12 months immediately before the application day. Apply no later than the day before visa submission, not earlier on the same day.
 
-**Limits / exceptions:** 485.213(2) excludes an applicant who actually meets .232–.235, not everyone merely selecting a subsequent stream. This is not a blanket character exemption and is not automatically imposed on a separately lodged secondary application. The AFP application date is distinct from receipt generation or certificate issue.
+**Limits / exceptions:** 485.213(2) excludes an applicant who actually meets .232–.235, not everyone merely selecting a subsequent stream. This is not a blanket character exemption. When reviewing a historical separately lodged secondary application, do not impose this primary timing criterion automatically; new ordinary family applications must instead follow the reform gates. The AFP application date is distinct from receipt generation or certificate issue.
 
 **Checked legal anchor:** Migration Regulations 1994, C289/F2026C01017, compilation 2 October 2026, checked 16 October 2026; [applicable provisions](https://www.legislation.gov.au/F1996B03551/2026-10-02/2026-10-02/text). Refresh for the actual application/decision dates.
 
@@ -494,6 +508,8 @@ All 485 visas carry condition 8501 requiring adequate health-insurance arrangeme
 ### R050 — Stored mandatory; decision
 
 The primary applicant must meet public-interest criteria 4001, 4002, 4003, 4003B, 4004, 4005, 4010, 4020 and 4021; values criterion 4019 also applies if aged 18 or over at application.
+
+**Checked addition — applications from 13 November 2026:** New 485.216(2A) requires PIC 4017 and 4018 if the primary applicant has not turned 18. Preserve Part 485’s decision-time default and the different application-age wording for values criterion 4019; do not substitute combined-child 4015/4016 or secondary R118. See [under-18 primary checks](family-reform.md#under-18-primary-applicants), N1 item 17, checked 17 November 2026.
 
 **Limits / exceptions:** U09: criterion content and exceptions require separate applicable-authority checks; the list is not a complete health/character/integrity procedure.
 
@@ -1054,11 +1070,13 @@ Postcode reclassification or a campus move during student study is a complex eli
 
 
 
-### R114 — Stored mandatory; decision
+### R114 — Checked mandatory; decision
 
-At decision, a secondary applicant must be a qualifying family-unit member of a person who holds a 485 granted on primary criteria, whether following a combined application or a separate family application.
+For applications from 13 November 2026, new 485.311 requires the secondary applicant to be a qualifying family-unit member, at decision, of a person holding a primary-criteria 485, and to have made a combined application with that person.
 
-**Limits / exceptions:** A combined application does not remove relationship-at-decision requirements; verify the applicable family-unit definition.
+**Limits / exceptions:** A relationship alone does not prove the combined-application requirement. Earlier separate-family applications need the actual earlier-date law; child deemed/addition mechanisms require their own analysis, including U11. The family-unit definition, insurance, public-interest and return criteria remain separate.
+
+**November source:** [family reform and source anchors](family-reform.md), F2026L01500, checked 17 November 2026; apply the actual application-date gate.
 
 
 
@@ -1106,7 +1124,7 @@ A secondary applicant previously in Australia must meet special-return criteria 
 
 Do not impose primary study, occupation, skills-assessment, English or age gates indiscriminately on family applicants; use the secondary route and separately triggered common family evidence, such as the ordinary application-time AFP rule for those aged at least 16.
 
-**Limits / exceptions:** Regional-family declarations and post-grant conditions still apply where triggered.
+**Limits / exceptions:** Regional-family declarations and post-grant conditions still apply where triggered. The new inclusion and onshore-secondary status gates in [family reform](family-reform.md) are independent; do not omit them merely because primary study/English criteria do not automatically apply to secondaries.
 
 
 <a id="grant-duration-and-conditions"></a>
@@ -1230,7 +1248,7 @@ Condition 8610 must attach to regional second/subsequent PHEW primary grants and
 
 Read these with [verification](verification.md). Resolved source defects do not establish any applicant’s outcome; unresolved matters block only dependent findings.
 
-**U01 — Resolved for inspected C289 provisions; case/date refresh required.** Application location and qualifying-visa alternatives are independent. Item 1229(3)(f)/(g) controls location; (4)(a)(ia) does not authorise ordinary-primary offshore lodgement. Grant location .411 is separate.
+**U01 — Historical distinction preserved; November anchors updated.** The inspected C289 location and qualifying-visa limbs were independent. For applications from 13 November 2026, 1229(3)(d) controls primary location, (3)(e)/(f)/(h) controls the new secondary gates, and (4)(a)(ia) is repealed. Grant location .411 remains separate. See [family reform](family-reform.md); do not infer a later family route from an older primary grant.
 
 **U02 — Unresolved material interpretation.** Stored RPL guidance preserves gross academic-duration treatment; official study guidance excludes certain credited study and describes making up registered weeks. Keep gross/net credit and calendar/location ledgers, show material alternatives and withhold only the affected compliance conclusion. Obtain provider credit decisions and applicable authoritative clarification.
 
@@ -1244,8 +1262,10 @@ Read these with [verification](verification.md). Resolved source defects do not 
 
 **U07 — Count structure checked; individual ledger needed.** Keep the prospective four-total/one-regional-grant check, the prior-primary exclusions and the separate PSW/PHEW prior-count limbs distinct. Do not disregard secondary history from numerical tests or convert it automatically into a prior-primary exclusion.
 
-**U08 — Ongoing refresh gate.** Fees, duration policy, postcodes, occupation/assessor instruments and provider/course records need applicable-date refresh. Inspected C289 law covers the stated current provisions as retrieved on 16 October 2026, not every instrument or a future date.
+**U08 — Ongoing refresh gate.** Fees, duration policy, postcodes, occupation/assessor instruments and provider/course records need applicable-date refresh. Inspected C289 law records the stated provisions as retrieved on 16 October 2026; the [November supplement](family-reform.md) adds only its identified later coverage, not every instrument or a future date.
 
-**U09 — Partial procedural support; general coverage not exhaustive.** General Act notification/request authorities remain dated unless freshly checked. Targeted C289 reg2.08B confirms Class VC coverage and latest-of request/payments timing; newborn and dependent-child mechanisms are separate. No exhaustive bars, family-definition, health, character, return or immigration-status audit is claimed.
+**U09 — Partial procedural support; general coverage not exhaustive.** General Act notification/request authorities remain dated unless freshly checked. Targeted C289/C290 reg2.08B confirms Class VC wording and latest-of request/payments timing; it does not resolve the new same-time/transitional interaction (U11). Newborn and dependent-child mechanisms remain separate. No exhaustive bars, family-definition, health, character, return or immigration-status audit is claimed.
 
-**U10 — Publication/professional review outstanding.** Local practice candidate only. Rights/confidentiality, distribution permissions, attribution identity and applicable professional/regulatory obligations need review before publication or regulated use. A content licence or disclaimer does not resolve those questions.
+**U11 — Unresolved dependent-child interaction.** The unchanged reg 2.08B wording and the new same-time/transitional requirements need mechanism- and date-specific reconciliation. Do not promise addition or assert repeal. See the source positions, effect and exact clarification action in [verification](verification.md#material-unresolved-issues-and-operational-effect); continue independent checks.
+
+**U10 — Rights/professional review outstanding.** Preparation material only. Rights/confidentiality, distribution permissions, attribution identity and applicable professional/regulatory obligations need review before publication or regulated use. A content licence or disclaimer does not resolve those questions.
