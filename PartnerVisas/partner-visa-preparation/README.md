@@ -14,19 +14,19 @@ It helps organise and check evidence. It does not decide eligibility, validity, 
 
 ## Install and use
 
-- **Start here:** [INSTALL.md](INSTALL.md), including no-terminal/manual installation, capability limits and an optional CLI route after publication.
+- **Start here:** [INSTALL.md](INSTALL.md) for ZIP, manual and CLI installation options and host limitations.
 - **Use it:** [USAGE.md](USAGE.md) and [common usage guide](COMMON-USAGE.md).
 - **Agent instructions:** [SKILL.md](SKILL.md). Keep the complete inner folder; the `PartnerVisas` wrapper is not the installable skill.
 
-**Prepared locally — not yet published online.** This edition has one family ZIP, **`partner-visa-preparation-v0.2.0.zip`**, with the complete inner skill folder. Use the supplied local ZIP or copy the complete source folder using INSTALL.md. The existing [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass801) is the intended update destination, but its previous 801-only asset is not this family edition. Do not treat that older ZIP as consolidated coverage. Remote CLI discovery and the new downloadable asset remain pending publication and verification.
+**Download the ZIP:** Open the [Partner Visas release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Partner_Visas) and choose **`partner-visa-preparation-v0.2.0.zip`** under **Assets**, not a **Source code** archive. The attached ZIP contains the complete inner skill folder.
 
-After this exact family skill is published to the repository, the documented CLI pattern will be:
+**Install from GitHub using the CLI** for a supported local agent, for example Claude Code:
 
 ```bash
 npx skills add ScriptSavvy/AustraliaVisaSkills --skill partner-visa-preparation --agent claude-code --copy
 ```
 
-That command reads repository content, not an attached release ZIP. It is **not a claim that the unpublished skill is currently discoverable remotely**. The installer is third-party software; read prerequisites, scopes, permissions and update cautions in INSTALL.md.
+The command uses the repository's default branch, not the attached release ZIP. The installer is third-party software; read prerequisites, scopes, permissions and update cautions in [INSTALL.md](INSTALL.md).
 
 ## What a result means
 

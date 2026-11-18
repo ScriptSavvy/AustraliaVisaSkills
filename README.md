@@ -9,13 +9,13 @@ Use these skills in your own AI agent to prepare a document checklist, review su
 | --- | --- | --- | --- |
 | Student — Subclass 500 | [student-500-preparation](Subclass500/student-500-preparation/README.md), v0.4.5 | [Install](Subclass500/student-500-preparation/INSTALL.md) · [Use](Subclass500/student-500-preparation/USAGE.md) | [v0.4.5](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500) |
 | Visitor — Subclass 600 | [visitor-600-preparation](Subclass600/visitor-600-preparation/README.md), v0.3.4 | [Install](Subclass600/visitor-600-preparation/INSTALL.md) · [Use](Subclass600/visitor-600-preparation/USAGE.md) | [v0.3.4](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass600) |
-| Partner Visa | [partner-visa-preparation](PartnerVisas/partner-visa-preparation/README.md), v0.2.0 | [Install](PartnerVisas/partner-visa-preparation/INSTALL.md) · [Use](PartnerVisas/partner-visa-preparation/USAGE.md) | [v0.2.0](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Partner_Visas) |
+| Partner Visa — Subclasses 300, 309/100 and 820/801 (plus Dependent Child 445) | [partner-visa-preparation](PartnerVisas/partner-visa-preparation/README.md), v0.2.0 | [Install](PartnerVisas/partner-visa-preparation/INSTALL.md) · [Use](PartnerVisas/partner-visa-preparation/USAGE.md) | [v0.2.0](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Partner_Visas) |
 | GSM points — Subclasses 189, 190 and 491 | [gsm-points-preparation](GSM/gsm-points-preparation/README.md), v0.3.3 | [Install](GSM/gsm-points-preparation/INSTALL.md) · [Use](GSM/gsm-points-preparation/USAGE.md) | [v0.3.3](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/gsm-points) |
 | Temporary Graduate — Subclass 485 | [temporary-graduate-485-preparation](Subclass485/temporary-graduate-485-preparation/README.md), v0.1.3 | [Install](Subclass485/temporary-graduate-485-preparation/INSTALL.md) · [Use](Subclass485/temporary-graduate-485-preparation/USAGE.md) | [v0.1.3](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass485) |
 | Student Guardian — Subclass 590 | [student-guardian-590-preparation](Subclass590/student-guardian-590-preparation/README.md), v0.1.1 | [Install](Subclass590/student-guardian-590-preparation/INSTALL.md) · [Use](Subclass590/student-guardian-590-preparation/USAGE.md) | [v0.1.1](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass590) |
 | Skills In Demand 482 | [skills-in-demand-482-preparation](Subclass482/skills-in-demand-482-preparation/README.md), v0.1.1 | [Install](Subclass482/skills-in-demand-482-preparation/INSTALL.md) · [Use](Subclass482/skills-in-demand-482-preparation/USAGE.md) | [v0.1.1](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass482) |
 
-Each published skill has its own release page with a skill ZIP attached. **The consolidated Partner v0.2.0 source and ZIP are prepared locally but not yet published online.** Its existing release page still carries the previous 801-only asset until the coordinated release update; do not use that asset as if it contained the family skill. Use the link for your chosen skill, not the repository's globally latest release, which may concern a different skill. GSM points preparation is a standalone cross-subclass module, not a full visa-preparation skill.
+Each published skill has its own release page with a skill ZIP attached. Use the link for your chosen skill, not the repository's globally latest release, which may concern a different skill. GSM points preparation is a standalone cross-subclass module, not a full visa-preparation skill.
 
 ## Get started
 
@@ -52,7 +52,7 @@ This runs the third-party [Vercel Labs skills installer](https://github.com/verc
 ### Option B — Downloadable ZIP / no terminal
 
 1. Open the release page for your chosen skill above and download its attached skill ZIP under Assets, not the automatic Source code archives.
-2. Follow the installation guide for your chosen skill. Keep the whole inner skill folder, including its references, templates, licences and any scripts. Do not install the subclass, family or GSM wrapper. For the unpublished Partner candidate, use the separately supplied local family ZIP rather than the older online asset.
+2. Follow the installation guide for your chosen skill. Keep the whole inner skill folder, including its references, templates, licences and any scripts. Do not install the subclass, family or GSM wrapper.
 3. Open a new agent session and follow the usage guide. Start with a synthetic setup check, not personal records.
 
 Both routes are available; use the ZIP for a specific packaged release or a manual installation. A local CLI installation is not a Claude/ChatGPT web skill upload.

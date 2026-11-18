@@ -11,7 +11,7 @@ ASSET = re.compile(r'([a-z0-9]+(?:-[a-z0-9]+)*)-v([0-9]+\.[0-9]+\.[0-9]+)\.zip')
 PRESENTATION = {
     'student-500-preparation': ('Student 500', 'Student — Subclass 500'),
     'visitor-600-preparation': ('Visitor 600', 'Visitor — Subclass 600'),
-    'partner-801-preparation': ('Partner 801', 'Partner — Subclass 801'),
+    'partner-visa-preparation': ('Partner Visa', 'Partner Visa — Subclasses 300, 309/100 and 820/801 (plus Dependent Child 445)'),
     'gsm-points-preparation': ('GSM Points', 'GSM points — Subclasses 189, 190 and 491'),
     'temporary-graduate-485-preparation': ('Temporary Graduate 485', 'Temporary Graduate — Subclass 485'),
     'student-guardian-590-preparation': ('Student Guardian 590', 'Student Guardian — Subclass 590'),
