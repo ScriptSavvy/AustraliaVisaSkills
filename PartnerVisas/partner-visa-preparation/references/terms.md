@@ -1,0 +1,21 @@
+# Terms
+
+- **300 — Prospective Marriage:** a distinct intended-marriage lead-in, not already the ordinary spouse/de facto Partner stage. Pending application marriage and marriage after grant have different mechanisms.
+- **820 / 801:** temporary and permanent Partner subclasses in the usual onshore-application pathway. “Onshore” does not itself determine where grant may occur.
+- **309 / 100:** provisional and permanent Partner subclasses in the usual offshore-application pathway. Initial application location is separate from grant location.
+- **445 — Dependent Child:** a linked child visa route, not ordinary primary Partner eligibility. A primary applicant for 445 may be secondary for permanent Partner.
+- **Primary / secondary applicant:** a person assessed against primary visa criteria versus the relevant accompanying/linked family criteria. A relative disclosed in a form is not necessarily an applicant.
+- **Sponsoring partner:** the person identified under the particular route's definition. Original 300 sponsor, ordinary Partner sponsor and specified ministerial grant-time partner have different predicates; do not substitute any current partner indiscriminately.
+- **Spouse / de facto partner / prospective spouse:** distinct legal relationship concepts. A dating label, marriage certificate, registration receipt or engagement alone does not establish every applicable criterion.
+- **Substantive visa:** a defined visa category excluding specified visas such as bridging visas. Not holding a 300 is not the same as holding no substantive visa. Verify actual status; do not advise letting a visa expire.
+- **Combined application:** related visa applications made together under the applicable rules, or qualifying family applications combined as prescribed. These are distinct combinations; one does not automatically prove the other.
+- **Deemed application:** law treats an application as made when specified conditions occur. Marriage, notice receipt and remittal can be different dates; deemed application is not grant or automatic withdrawal of another application.
+- **PIC — public interest criterion:** specified character, health, integrity, child-interest or related criteria. Applicable clauses differ by role, age, stage and grant basis.
+- **Member of the family unit / dependent child / dependent:** defined, date-sensitive concepts with different tests; not every relative or a universal under-23 rule.
+- **VAC — visa application charge:** separate from health, police, biometrics or other costs. Not every evidence upload creates a new charge; nil, no-component and deemed-payment rules have specific triggers.
+- **ImmiAccount:** official online application/record service. A “New application” Stage 2 workflow does not by itself establish a fresh legal application. Do not share passwords with the agent or sponsor.
+- **Authorised recipient:** a person appointed to receive correspondence; receipt can have legal consequences. Not necessarily the sponsor or a professional authorised to give immigration assistance.
+- **Statutory declaration / supporting statement:** different document roles. Sponsor declarations, witness Form 888 statements, conditional validity declarations and violence-evidence declarations are not interchangeable.
+- **Grant / notification / visa effect / first entry / travel facility:** separate events or features. Permanent status and a time-limited travel facility are not the same thing. A progress message, upload or prior assessment is not grant or permission to travel.
+- **ART — Administrative Review Tribunal; remittal:** the tribunal sends a matter back under its actual powers/orders. Historical AAT terminology and repealed provisions are not current process instructions; remittal is not automatic grant, visa restoration or review entitlement.
+- **Readiness:** only the expressly stated preparation checks, not eligibility, valid lodgement, legal sufficiency, authenticity, official acceptance or approval probability.
