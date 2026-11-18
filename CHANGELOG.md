@@ -6,7 +6,13 @@ Applicant-facing history grouped by independently versioned skill. Current versi
 
 ## Student 500
 
-Published version: **0.4.4** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500)
+Published version: **0.4.5** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500)
+
+### 0.4.5 — 2026-11-16
+- Added precise onshore and family exemption conditions, including course completion, progression, provider default and linked current-family visas.
+- Corrected the PhD package screen and kept the progression class's one-further-course restriction separate.
+- Refreshed targeted legislative coverage while preserving earlier applications and unresolved case-specific questions.
+- Bundled the common usage guide and skill-specific prompts, with an optional ZIP-in-chat installation route for agents that support it.
 
 ### 0.4.4 — 2026-11-14
 - Simplified adaptive intake to numbered questions without unknown or estimated totals.
@@ -134,7 +140,15 @@ Published version: **0.3.3** · [Release](https://github.com/ScriptSavvy/Austral
 
 ## Temporary Graduate 485
 
-Published version: **0.1.2** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass485)
+Published version: **0.1.3** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass485)
+
+### 0.1.3 — 2026-11-17
+- Added application-date routing for the 13 November 2026 family reforms, preserving earlier applications.
+- Added the six family-inclusion alternatives, same-time combined applications, different-location handling and onshore secondary status checks.
+- Preserved distinct newborn handling and made the dependent-child addition uncertainty explicit.
+- Added under-18 primary checks and date-labelled superseded Replacement/offshore rules while preserving existing-holder regional routes.
+- Added targeted official-source references and family-review report fields without globally refreshing older requirements.
+- Included clearer shared/skill-specific usage guides and ZIP-in-chat installation instructions for agents that support them.
 
 ### 0.1.2 — 2026-11-14
 - Added conditional OVHC comparison guidance, with insurer suitability checks and protection for suitable existing cover.
