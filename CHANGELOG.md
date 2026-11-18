@@ -83,29 +83,15 @@ Published version: **0.3.4** · [Release](https://github.com/ScriptSavvy/Austral
 ### 0.1.0
 - Added document-preparation support for the Visitor visa, with installation and usage guides.
 
-## Partner 801
+## Partner Visa
 
-Published version: **0.1.3** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass801)
+Published version: **0.2.0** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Partner_Visas)
 
-### 0.1.3 — 2026-11-14
-- Simplified adaptive intake to numbered questions without unknown or estimated totals.
-- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
-- Added both CLI and ZIP installation options to the bundled guides.
-- Updated original-content attribution to Immigent®.
-
-### 0.1.2
-- Answers focused document questions directly and puts broad-review findings and actions first.
-- Numbers replacement-page requests and continues the same question sequence when new evidence arrives.
-- Keeps partial-page findings separate from whole-document completeness and avoids unnecessary stage intake.
-
-### 0.1.1
-- Added question numbering and exact or estimated totals, with explanations when the total changes.
-- Added a brief first-use CC BY-NC 4.0 non-commercial licence notice before applicant intake.
-
-### 0.1.0
-- Added permanent-stage checklists, evidence reviews and preparation plans.
-- Added conditional relationship-change, long-term relationship and child pathways with visible verification limits.
-- Added one-question-at-a-time intake, privacy safeguards and installation/usage guides.
+### 0.2.0 — 2026-11-17
+- One preparation skill for Prospective Marriage 300, initial 820/801 and 309/100, and permanent 801/100 stages.
+- Shared evidence and consistency review with distinct relationship, sponsor, child, location, chronology and exceptional-route conditions.
+- Applicable-source gates for material legislative changes, current forms and unresolved practical timing or specialist questions.
+- Self-contained installation/usage guides, privacy controls and a preparation report template.
 
 ## GSM Points
 
