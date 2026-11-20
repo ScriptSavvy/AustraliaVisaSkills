@@ -23,6 +23,11 @@ Read [How to use Immigent® skills](COMMON-USAGE.md) once for the common workflo
 - **187 transitional TRT:** “Use employer-sponsored-visa-preparation. Help me work out which historical grant or application evidence establishes the 187 transitional cohort. Do not reuse 186 TRT rules.”
 - **494 → 191 evidence handoff:** “Use employer-sponsored-visa-preparation. List the 494 grant, location and tax-assessment records I should prepare, without assessing the full 191 application.”
 
+## Save time with a résumé
+If several work-history details are needed, you can share a redacted résumé (CV) or type a short summary instead. Leave out contact details, home address, date of birth, identity numbers and referees' details. Keep relevant job titles, dates, duties and qualifications. Your agent provider may process files you upload.
+
+Example: “Use employer-sponsored-visa-preparation. Start my work history from this redacted résumé. Ask one question at a time about anything important that’s missing or inconsistent. Tell me what still needs supporting evidence.” The résumé helps organise your history; it does not replace required evidence.
+
 ## Stage-specific results and limits
 Sponsorship, labour agreement, nomination, visa, sponsor obligations and shared consistency results remain separate, with the responsible employer/sponsor or applicant identified. An unrequested stage is **Not assessed — not requested**, not a favourable readiness finding. The same issue should not be repeated in multiple tables.
 
