@@ -31,6 +31,6 @@ Read [How to use Immigent® skills](COMMON-USAGE.md) once for the shared workflo
 ## Install by CLI or ZIP
 
 - **CLI:** `npx skills add ScriptSavvy/AustraliaVisaSkills --skill employer-sponsored-visa-preparation --agent claude-code --copy` from the workspace where you want it. This uses the repository default branch.
-- **ZIP:** On the [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass482), choose the attached `employer-sponsored-visa-preparation-v<version>.zip` under **Assets**, not an automatic Source code archive or a ZIP named `skills-in-demand-482-preparation`. If the family-named asset is absent, the page does not yet offer this edition.
+- **ZIP:** Open the [Employer-Sponsored Visas release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Employer_Sponsored_Visas) and choose the attached `employer-sponsored-visa-preparation-v<version>.zip` under **Assets**, not an automatic Source code archive.
 
 See [INSTALL.md](INSTALL.md) for requirements, other supported agent IDs, manual use and safe replacement of a previous 482 installation.

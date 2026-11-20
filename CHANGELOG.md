@@ -180,7 +180,7 @@ Published version: **0.1.1** · [Release](https://github.com/ScriptSavvy/Austral
 - Added separate subclass 870 sponsorship and visa application reviews, with checks for the handoff, permission to apply in Australia and further-stay scenarios.
 - Added family relationship, dependency, document consistency and case-specific source verification guidance.
 
-## Employer Sponsored Visa
+## Employer-sponsored visas — 482, 186, 494 and transitional 187 (191 evidence handoff)
 
 Published version: **0.2.0** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Employer_Sponsored_Visas)
 
