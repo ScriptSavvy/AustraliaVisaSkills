@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.2 — 2026-11-20
+
+- Offer an optional redacted résumé or short typed summary when several work-history details are needed. Use it to organise a preliminary timeline and ask only about the next material gap. A résumé does not replace required evidence.
+
 ## 0.2.1 — 2026-11-20
 
 - Fix download links and the optional update check to use the Employer-Sponsored Visas release. If you installed version 0.2.0, update manually from that release page.

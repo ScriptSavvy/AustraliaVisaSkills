@@ -1,6 +1,6 @@
 # Attribution and licence notice
 
-Original public instructions and guides: **Immigent®**, public edition0.4.5.
+Original public instructions and guides: **Immigent®**, public edition 0.4.6.
 
 Licensed under Creative Commons Attribution-NonCommercial4.0 International (CC BY-NC4.0): https://creativecommons.org/licenses/by-nc/4.0/ . Full legal text accompanies this folder in LICENSE.txt.
 

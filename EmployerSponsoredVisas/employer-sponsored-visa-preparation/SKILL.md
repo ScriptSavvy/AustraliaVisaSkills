@@ -1,7 +1,7 @@
 ---
 name: employer-sponsored-visa-preparation
 description: Prepare Australian employer-sponsored visas and evidence.
-version: 0.2.1
+version: 0.2.2
 author: Immigent®
 license: CC-BY-NC-4.0
 platforms: [linux, macos, windows]
