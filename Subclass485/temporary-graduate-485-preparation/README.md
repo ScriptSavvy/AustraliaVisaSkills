@@ -4,6 +4,16 @@
 
 > **Licence — non-commercial use:** This skill's original instructions and guides are licensed under **CC BY-NC 4.0**. You may use, share and adapt them for non-commercial purposes under the licence terms. When sharing, give credit and identify changes. Commercial use requires separate permission from the rights holder. See [LICENSE.txt](LICENSE.txt) and [NOTICE.md](NOTICE.md).
 
+## Quick start: Download → Drag → Ask
+
+1. **Download the Immigent® skill ZIP.** Open the [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass485) and choose the skill ZIP under **Assets**, not **Source code**.
+2. **Drag the ZIP into your AI chat.**
+3. **Send this message:**
+
+   > Please install this skill. Ask before replacing an existing copy. If you can’t install it, tell me whether you can use it in this chat.
+
+If your app can’t open the ZIP, see [Other ways to install (including terminal commands)](INSTALL.md#other-ways-to-install). You don’t need to share any visa documents to get started.
+
 ## Important limits
 **Do not use this draft to calculate remaining time or decide whether a response, submission or immigration-status deadline has passed.** It can organise a request and record the stated deadline, but deadline status must remain **Needs verification**. Seek timely official or appropriately qualified assistance for a consequential deadline assessment.
 
@@ -18,17 +28,10 @@ Helps organise a stream-specific checklist, review supplied documents and prepar
 - [Source refresh and unresolved limits](references/verification.md).
 - [Changes](CHANGELOG.md).
 
-Version: **0.1.3**. This is a preparation draft, not a published or government-approved release. Targeted official checks do not establish comprehensive currency. Installed copies do not update automatically.
+Version: **0.1.3**. This is a preparation draft, not government-approved. Targeted official checks do not establish comprehensive currency. Installed copies do not update automatically.
 
 For a first trial use synthetic facts, not real personal records. The full folder is needed; SKILL.md alone is not enough. No applicant documents, private source extracts or maintenance tools belong in the installable folder.
 
 ## Usage guidance
 
 Read [How to use Immigent® skills](COMMON-USAGE.md) once for the shared workflow. [Skill-specific usage and prompts](USAGE.md) contains only this skill’s examples and important scope limits. Both guides are included in the complete skill folder.
-
-## Installation options
-
-- **CLI:** `npx skills add ScriptSavvy/AustraliaVisaSkills --skill temporary-graduate-485-preparation --agent claude-code --copy`. Replace `claude-code` with `codex`, `cursor` or `opencode` as appropriate. Requires Node.js 22.20+. Defaults to this project; add `-g` for user scope.
-- **ZIP:** download the attached skill ZIP from this skill's [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass485), extract it and install the whole inner folder.
-
-Read [INSTALL.md](INSTALL.md) for prerequisites, permissions, host limits and checks. CLI uses the current repository branch, not the packaged release; installed copies do not auto-update. Immigent® provides preparation support, not guaranteed immigration outcomes.

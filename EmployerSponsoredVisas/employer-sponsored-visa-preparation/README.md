@@ -4,10 +4,19 @@
 
 > **Licence — non-commercial use:** This skill's original instructions and guides are licensed under **CC BY-NC 4.0**. You may use, share and adapt them for non-commercial purposes under the licence terms. When sharing, give credit and identify changes. Commercial use requires separate permission from the rights holder. See [LICENSE.txt](LICENSE.txt) and [NOTICE.md](NOTICE.md).
 
+## Quick start: Download → Drag → Ask
+
+1. **Download the Immigent® skill ZIP.** Open the [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Employer_Sponsored_Visas) and choose the skill ZIP under **Assets**, not **Source code**.
+2. **Drag the ZIP into your AI chat.**
+3. **Send this message:**
+
+   > Please install this skill. Ask before replacing an existing copy. If you can’t install it, tell me whether you can use it in this chat.
+
+If your app can’t open the ZIP, see [Other ways to install (including terminal commands)](INSTALL.md#other-ways-to-install). You don’t need to share any visa documents to get started.
+
 **Version 0.2.0.** One self-contained skill for standard business sponsorship, labour agreements, ongoing sponsor obligations, worker protection, and separate nomination and visa preparation for 482 SID, 186 ENS and 494 SESR. Includes a distinct 187 RSMS transitional TRT workflow and a 494 → 191 Regional Provisional evidence handoff only. Request one stage or a joined review.
 
-## Start here
-- [Install the whole skill folder](INSTALL.md).
+## Start using the skill
 - [Use the skill](USAGE.md), including examples for employer and worker tasks.
 - [Agent entry point](SKILL.md).
 - [Changes](CHANGELOG.md) and [attribution/licensing scope](NOTICE.md).
@@ -27,10 +36,3 @@ Use redacted or synthetic information for your first test. Your agent provider m
 ## Usage guidance
 
 Read [How to use Immigent® skills](COMMON-USAGE.md) once for the shared workflow. [Skill-specific usage and prompts](USAGE.md) contains only this skill’s examples and important scope limits. Both guides are included in the complete skill folder.
-
-## Install by CLI or ZIP
-
-- **CLI:** `npx skills add ScriptSavvy/AustraliaVisaSkills --skill employer-sponsored-visa-preparation --agent claude-code --copy` from the workspace where you want it. This uses the repository default branch.
-- **ZIP:** Open the [Employer-Sponsored Visas release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Employer_Sponsored_Visas) and choose the attached `employer-sponsored-visa-preparation-v<version>.zip` under **Assets**, not an automatic Source code archive.
-
-See [INSTALL.md](INSTALL.md) for requirements, other supported agent IDs, manual use and safe replacement of a previous 482 installation.

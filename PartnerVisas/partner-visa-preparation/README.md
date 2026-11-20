@@ -4,6 +4,16 @@
 
 > **Licence — non-commercial use:** This skill's original instructions and guides are licensed under **CC BY-NC 4.0**. You may use, share and adapt them for non-commercial purposes under the licence terms. When sharing, give credit and identify changes. Commercial use requires separate permission from the rights holder. See [LICENSE.txt](LICENSE.txt) and [NOTICE.md](NOTICE.md).
 
+## Quick start: Download → Drag → Ask
+
+1. **Download the Immigent® skill ZIP.** Open the [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Partner_Visas) and choose the skill ZIP under **Assets**, not **Source code**.
+2. **Drag the ZIP into your AI chat.**
+3. **Send this message:**
+
+   > Please install this skill. Ask before replacing an existing copy. If you can’t install it, tell me whether you can use it in this chat.
+
+If your app can’t open the ZIP, see [Other ways to install (including terminal commands)](INSTALL.md#other-ways-to-install). You don’t need to share any visa documents to get started.
+
 Version **0.2.0** · activation name **`partner-visa-preparation`**
 
 ## What it does
@@ -12,21 +22,10 @@ One portable skill for **Prospective Marriage 300**, **initial 820/801 or 309/10
 
 It helps organise and check evidence. It does not decide eligibility, validity, authenticity, legal evidence sufficiency, lawful stay, review rights or approval. No government endorsement or guaranteed outcome is claimed.
 
-## Install and use
+## Use the skill
 
-- **Start here:** [INSTALL.md](INSTALL.md) for ZIP, manual and CLI installation options and host limitations.
-- **Use it:** [USAGE.md](USAGE.md) and [common usage guide](COMMON-USAGE.md).
-- **Agent instructions:** [SKILL.md](SKILL.md). Keep the complete inner folder; the `PartnerVisas` wrapper is not the installable skill.
-
-**Download the ZIP:** Open the [Partner Visas release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Partner_Visas) and choose **`partner-visa-preparation-v0.2.0.zip`** under **Assets**, not a **Source code** archive. The attached ZIP contains the complete inner skill folder.
-
-**Install from GitHub using the CLI** for a supported local agent, for example Claude Code:
-
-```bash
-npx skills add ScriptSavvy/AustraliaVisaSkills --skill partner-visa-preparation --agent claude-code --copy
-```
-
-The command uses the repository's default branch, not the attached release ZIP. The installer is third-party software; read prerequisites, scopes, permissions and update cautions in [INSTALL.md](INSTALL.md).
+- [Usage examples](USAGE.md) and [common usage guide](COMMON-USAGE.md).
+- [Agent instructions](SKILL.md). Keep the complete inner folder; the `PartnerVisas` wrapper is not the installable skill.
 
 ## What a result means
 

@@ -4,6 +4,16 @@
 
 > **Licence — non-commercial use:** This skill's original instructions and guides are licensed under **CC BY-NC 4.0**. You may use, share and adapt them for non-commercial purposes under the licence terms. When sharing, give credit and identify changes. Commercial use requires separate permission from the rights holder. See [LICENSE.txt](LICENSE.txt) and [NOTICE.md](NOTICE.md).
 
+## Quick start: Download → Drag → Ask
+
+1. **Download the Immigent® skill ZIP.** Open the [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass590) and choose the skill ZIP under **Assets**, not **Source code**.
+2. **Drag the ZIP into your AI chat.**
+3. **Send this message:**
+
+   > Please install this skill. Ask before replacing an existing copy. If you can’t install it, tell me whether you can use it in this chat.
+
+If your app can’t open the ZIP, see [Other ways to install (including terminal commands)](INSTALL.md#other-ways-to-install). You don’t need to share any visa documents to get started.
+
 **Version 0.1.1 — local preparation draft.** Helps prepare a tailored evidence checklist, review document quality/consistency and organise an actual Department request. It includes ordinary guardians, exceptional adult-student and bilateral-benefit preparation branches, finance, family welfare and insurance.
 
 - [Install the whole folder](INSTALL.md).
@@ -19,10 +29,3 @@ No native installation, comprehensive current-law audit, legal/professional or r
 ## Usage guidance
 
 Read [How to use Immigent® skills](COMMON-USAGE.md) once for the shared workflow. [Skill-specific usage and prompts](USAGE.md) contains only this skill’s examples and important scope limits. Both guides are included in the complete skill folder.
-
-## Installation options
-
-- **CLI:** `npx skills add ScriptSavvy/AustraliaVisaSkills --skill student-guardian-590-preparation --agent claude-code --copy`. Replace `claude-code` with `codex`, `cursor` or `opencode` as appropriate. Requires Node.js 22.20+. Defaults to this project; add `-g` for user scope.
-- **ZIP:** download the attached skill ZIP from this skill's [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass590), extract it and install the whole inner folder.
-
-Read [INSTALL.md](INSTALL.md) for prerequisites, permissions, host limits and checks. CLI uses the current repository branch, not the packaged release; installed copies do not auto-update. Immigent® provides preparation support, not guaranteed immigration outcomes.

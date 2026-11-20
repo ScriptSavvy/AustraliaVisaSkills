@@ -2,6 +2,16 @@
 
 > **Important disclaimer:** This skill provides general information and document-preparation support only. It is not legal advice or a substitute for advice from a registered migration agent or Australian legal practitioner. No visa approval, processing time or other immigration outcome is guaranteed. You are responsible for checking official requirements and deciding what to submit. The skill is provided as-is. To the extent permitted by applicable law, its creators, maintainers and distributors disclaim liability for loss or damage arising from its use or reliance on its outputs. Nothing in this notice excludes rights or liabilities that cannot lawfully be excluded.
 
+## Quick start: Download → Drag → Ask
+
+1. **Download the Immigent® skill ZIP.** Open the [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500) and choose the skill ZIP under **Assets**, not **Source code**.
+2. **Drag the ZIP into your AI chat.**
+3. **Send this message:**
+
+   > Please install this skill. Ask before replacing an existing copy. If you can’t install it, tell me whether you can use it in this chat.
+
+If your app can’t open the ZIP, see [Other ways to install (including terminal commands)](INSTALL.md#other-ways-to-install). You don’t need to share any visa documents to get started.
+
 Portable applicant document-preparation support, not an eligibility or approval decision. Install the whole folder and use the agent workflow in [SKILL.md](SKILL.md).
 
 - [Installation](INSTALL.md)
@@ -21,10 +31,3 @@ Portable applicant document-preparation support, not an eligibility or approval 
 ## Usage guidance
 
 Read [How to use Immigent® skills](COMMON-USAGE.md) once for the shared workflow. [Skill-specific usage and prompts](USAGE.md) contains only this skill’s examples and important scope limits. Both guides are included in the complete skill folder.
-
-## Installation options
-
-- **CLI:** `npx skills add ScriptSavvy/AustraliaVisaSkills --skill student-500-preparation --agent claude-code --copy`. Replace `claude-code` with `codex`, `cursor` or `opencode` as appropriate. Requires Node.js 22.20+. Defaults to this project; add `-g` for user scope.
-- **ZIP:** download the attached skill ZIP from this skill's [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500), extract it and install the whole inner folder.
-
-Read [INSTALL.md](INSTALL.md) for prerequisites, permissions, host limits and checks. CLI uses the current repository branch, not the packaged release; installed copies do not auto-update. Immigent® provides preparation support, not guaranteed immigration outcomes.

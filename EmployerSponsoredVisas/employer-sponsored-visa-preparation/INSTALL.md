@@ -1,8 +1,22 @@
 # Install the complete skill
 
+## Quick start: Download → Drag → Ask
+
+1. **Download the Immigent® skill ZIP.** Open the [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Employer_Sponsored_Visas) and choose the skill ZIP under **Assets**, not **Source code**.
+2. **Drag the ZIP into your AI chat.**
+3. **Send this message:**
+
+   > Please install this skill. Ask before replacing an existing copy. If you can’t install it, tell me whether you can use it in this chat.
+
+If your app can’t open the ZIP, see [Other ways to install](#other-ways-to-install). You don’t need to share any visa documents to get started.
+
+## Other ways to install
+
+Dragging a ZIP into chat does not install it by itself. Check how your AI app handles uploaded files. If you open the ZIP yourself, keep the whole skill folder together.
+
 Install only the reusable skill folder. No visa or employer records are needed for installation.
 
-## CLI — supported local agents
+### Terminal commands (CLI)
 
 Requires Node.js 22.20 or later, npm/npx and internet access. This runs the third-party [Vercel Labs skills installer](https://github.com/vercel-labs/skills). Review its prompts, permissions and [telemetry settings](https://github.com/vercel-labs/skills/blob/main/docs/troubleshooting.md#telemetry) before running. From the workspace where you want to use it:
 
@@ -12,13 +26,9 @@ npx skills add ScriptSavvy/AustraliaVisaSkills --skill employer-sponsored-visa-p
 
 Use the [documented agent ID](https://github.com/vercel-labs/skills/blob/main/docs/agents.md), such as `codex`, `cursor` or `opencode`, instead of `claude-code` where appropriate. Installation is project-scoped by default; `-g` selects user scope. Review any overwrite prompt. `--copy` copies files; several hosts can discover the same `.agents/skills/` directory, so agent choice is not a security boundary. The command uses the repository default branch and does not install an agent, grant it capabilities, or upload a skill to a web or cloud account.
 
-## ZIP — no terminal required
+### Open the ZIP without using chat
 
-Open the [Employer-Sponsored Visas release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Employer_Sponsored_Visas). Under **Assets**, select the attached `employer-sponsored-visa-preparation-v<version>.zip`. Do not use the automatic Source code archives as a substitute. Extract the ZIP and copy the complete inner folder as explained below. Where an agent supports ZIP attachments and installation, you can attach the reusable ZIP and give it this request:
-
-> Read INSTALL.md in the attached ZIP. Install the complete employer-sponsored-visa-preparation folder using this agent’s supported method. Ask first before overwriting or disabling an existing skill. Verify discoverability in the intended project or profile and explain any limitation.
-
-Uploading the ZIP is not itself installation. Check your provider’s processing and retention settings. If the host cannot install from a file, use the manual alternative below.
+Extract the skill ZIP you downloaded above and copy the complete inner folder as explained below.
 
 ## 1. Check the whole folder
 

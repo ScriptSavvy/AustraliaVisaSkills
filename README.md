@@ -4,6 +4,16 @@
 
 Use these skills in your own AI agent to prepare a document checklist, review supplied evidence and organise next actions.
 
+## Quick start: Download → Drag → Ask
+
+1. **Download the Immigent® skill ZIP.** Pick a skill below. Open its **Release page** and choose the skill ZIP under **Assets**, not **Source code**.
+2. **Drag the ZIP into your AI chat.**
+3. **Send this message:**
+
+   > Please install this skill. Ask before replacing an existing copy. If you can’t install it, tell me whether you can use it in this chat.
+
+If your app can’t open the ZIP, see [Other ways to install](#other-ways-to-install). You don’t need to share any visa documents to get started.
+
 ## Choose your skill
 | Visa | Skill | Guides | Release page |
 | --- | --- | --- | --- |
@@ -18,45 +28,9 @@ Use these skills in your own AI agent to prepare a document checklist, review su
 
 Each published skill has its own release page with a skill ZIP attached. Use the link for your chosen skill, not the repository's globally latest release, which may concern a different skill. GSM points preparation is a standalone cross-subclass module, not a full visa-preparation skill.
 
-## Get started
+## Other ways to install
 
-Immigent® offers **CLI installation and downloadable ZIPs** for every published skill.
-
-### Easiest option — Drag the ZIP into agent chat
-
-For agents that support file attachments, opening ZIP files and installing skills:
-
-1. Download your chosen skill’s attached ZIP from its release page above, under Assets—not a Source code archive.
-2. Drag the ZIP into your agent’s chat, or use its attachment button.
-3. Ask: **“Read the attached ZIP and its INSTALL.md, then install the complete skill for this agent’s current profile or workspace. Preserve its files and ask before replacing an existing installation. Verify discovery and tell me the skill name, version if supplied, installation location and how to start using it. If installation is unavailable, explain the limitation.”**
-
-Attaching or reading a ZIP is not itself installation. Each skill’s **Install** guide includes the full copy-and-paste request and alternatives. Share only the reusable skill ZIP, not applicant records; check your provider’s file-processing and retention settings.
-
-### Option A — CLI for supported local agents
-
-Requires **Node.js 22.20 or later** (with npm/npx) and internet access. First list the available skills without installing:
-
-```bash
-npx skills add ScriptSavvy/AustraliaVisaSkills --list
-```
-
-Then select one skill and your intended agent. For example:
-
-```bash
-npx skills add ScriptSavvy/AustraliaVisaSkills --skill student-500-preparation --agent claude-code --copy
-```
-
-Replace the skill name with one from the table above. Replace `claude-code` with `codex`, `cursor` or `opencode` as appropriate. Installation defaults to the current project; add `-g` for user-wide use. Review prompts and existing customisations before accepting an overwrite. Open the skill's **Install** guide for prerequisites, permissions and verification.
-
-This runs the third-party [Vercel Labs skills installer](https://github.com/vercel-labs/skills), not an Immigent® executable. It uses the repository's current default branch, not a selected release ZIP. It does not install the agent or upload files to a web/cloud account. Agent selection is not a security boundary: some hosts share a skill directory. Local copies do not automatically update.
-
-### Option B — Downloadable ZIP / no terminal
-
-1. Open the release page for your chosen skill above and download its attached skill ZIP under Assets, not the automatic Source code archives.
-2. Follow the installation guide for your chosen skill. Keep the whole inner skill folder, including its references, templates, licences and any scripts. Do not install the subclass, family or GSM wrapper.
-3. Open a new agent session and follow the usage guide. Start with a synthetic setup check, not personal records.
-
-Both routes are available; use the ZIP for a specific packaged release or a manual installation. A local CLI installation is not a Claude/ChatGPT web skill upload.
+For manual setup or terminal commands (CLI), open **Install** next to your skill in the table above.
 
 ## How to use the skills
 

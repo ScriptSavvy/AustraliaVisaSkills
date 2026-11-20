@@ -1,22 +1,20 @@
 # Installation
 
-## Choose CLI installation or a downloadable ZIP
+## Quick start: Download → Drag → Ask
 
-Immigent® provides both options. Install only reusable skill files; no applicant documents are needed.
+1. **Download the Immigent® skill ZIP.** Open the [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass600) and choose the skill ZIP under **Assets**, not **Source code**.
+2. **Drag the ZIP into your AI chat.**
+3. **Send this message:**
 
-### Easiest option — Drag the ZIP into agent chat
+   > Please install this skill. Ask before replacing an existing copy. If you can’t install it, tell me whether you can use it in this chat.
 
-For agents that support file attachments, opening ZIP files and installing skills:
+If your app can’t open the ZIP, see [Other ways to install](#other-ways-to-install). You don’t need to share any visa documents to get started.
 
-1. Download this skill’s attached ZIP from the release page linked in Option B below. Choose the skill ZIP under Assets, not a Source code archive.
-2. Drag the ZIP into your agent’s chat, or use its attachment button. You do not need to extract it first if the agent can open ZIPs.
-3. Paste this request and approve only the intended installation permissions:
+## Other ways to install
 
-> Please inspect the attached ZIP and read its INSTALL.md. Install the complete `visitor-600-preparation` skill, including its references, templates and other supporting files, using this agent’s supported installation method for the current profile or workspace. Preserve the supplied files; do not rewrite or summarise them. Ask before replacing an existing installation. Verify that the skill is discoverable, then tell me its name, version if supplied, installation location and how to start using it. If persistent installation is unavailable, explain the limitation instead of claiming success.
+Dragging a ZIP into chat does not install it by itself. Check how your AI app handles uploaded files. If you open the ZIP yourself, keep the whole skill folder together.
 
-Attaching or reading the ZIP is not the same as installing it. If your agent cannot open the ZIP or install skills, use the CLI or manual instructions below, or its supported skill-upload interface. Check your provider’s file-processing and retention settings; attach only the reusable skill ZIP, not applicant records.
-
-### Option A — CLI for supported local agents
+### Terminal commands (CLI)
 
 Requires **Node.js 22.20 or later**, including npm/npx, and internet access. `npx` downloads and runs the third-party **Vercel Labs skills** installer; review its source, prompts and permissions. It is separate from Immigent® and from your agent. Its telemetry/security-audit settings are described in the [installer documentation](https://github.com/vercel-labs/skills/blob/main/docs/troubleshooting.md#telemetry).
 
@@ -36,9 +34,9 @@ Replace `claude-code` with **`codex`**, **`cursor`** or **`opencode`** for those
 
 CLI discovery and whole-folder copying were checked on **14 November 2026**, using installer **1.8.1** in an isolated project. This is not an end-to-end test of each host's activation, applicant responses or policy accuracy. Native destinations described elsewhere in this guide are manual alternatives, not additional copies you must install.
 
-### Option B — ZIP download / no terminal
+### Open the ZIP without using chat
 
-Open this skill's [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass600) and download its attached **`visitor-600-preparation-v<version>.zip`**. Choose the skill ZIP under Assets, not GitHub's automatic Source code archives or another skill's release. For manual installation instead, extract it and follow the instructions below. Keep the entire **`visitor-600-preparation/`** folder, including references, templates, any scripts, guides and licence files; SKILL.md alone is not enough.
+Open the skill ZIP you downloaded above. Keep the entire **`visitor-600-preparation/`** folder, including references, templates, any scripts, guides and licence files; SKILL.md alone is not enough.
 
 After either option, start a fresh agent session and run the smoke check below with synthetic facts. Installed copies do not automatically update. Before updating or removing, preserve customisations and case records; use the same installation scope and avoid duplicate manual/CLI copies. `npx skills list` (or `npx skills list -g` for user scope) checks installer discovery, not correct host behaviour.
 

@@ -1,14 +1,28 @@
 # Install Australian Parent visa preparation
 
+## Quick start: Download → Drag → Ask
+
+1. **Download the Immigent® skill ZIP.** Open the [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Parent_visas) and choose the skill ZIP under **Assets**, not **Source code**.
+2. **Drag the ZIP into your AI chat.**
+3. **Send this message:**
+
+   > Please install this skill. Ask before replacing an existing copy. If you can’t install it, tell me whether you can use it in this chat.
+
+If your app can’t open the ZIP, see [Other ways to install](#other-ways-to-install). You don’t need to share any visa documents to get started.
+
+## Other ways to install
+
+Dragging a ZIP into chat does not install it by itself. Check how your AI app handles uploaded files. If you open the ZIP yourself, keep the whole skill folder together.
+
 Install the complete `parent-visa-preparation/` inner folder, not the `ParentVisas` wrapper or just `SKILL.md`. Version 0.1.1 contains runtime references, a report template, guides and notices. Keep applicant documents outside this folder.
 
-## ZIP or manual copy (no terminal required)
+### Open the ZIP without using chat
 
-1. Use the complete local skill folder or extract `parent-visa-preparation-v0.1.1.zip` into one `parent-visa-preparation/` folder. If a release is published, choose the named ZIP under Assets, not GitHub's automatic Source code archive. A prepared local ZIP is not a live download link.
+1. Open the downloaded skill ZIP to extract the `parent-visa-preparation/` folder, or use the complete local skill folder.
 2. Put that folder in your agent's documented skills folder. Claude Code accepts `.claude/skills/parent-visa-preparation/` under the project or `~/.claude/skills/parent-visa-preparation/` for the user's scope. In Hermes use the active profile's skills directory, following the [Hermes skills documentation](https://hermes-agent.nousresearch.com/docs/user-guide/features/skills/) and your configured home. Other agents may use a shared `.agents/skills` directory. `~` means your user home. Turn on hidden folders where needed; avoid double nesting.
 3. Reload or start a new session as your agent documents. A local installation does not automatically reach remote/cloud sessions. If the web agent accepts custom-skill ZIPs, follow its own instructions. Uploading a ZIP by itself does not establish activation. Check provider processing before any upload.
 
-## CLI for supported local agents
+### Terminal commands (CLI)
 
 The [Vercel Labs skills installer](https://github.com/vercel-labs/skills/blob/main/docs/commands.md) is third-party software executed by `npx`. Inspect the installer and prompts before running it. The checked [package metadata](https://registry.npmjs.org/skills/latest) for 1.9.0 requires Node.js `>=22.20.0`, npm/npx, and internet access to fetch the installer when not cached. Review its [supported agents](https://github.com/vercel-labs/skills/blob/main/docs/agents.md) and [settings](https://github.com/vercel-labs/skills/blob/main/docs/troubleshooting.md#telemetry), including opt-out environment options. `--copy` copies instead of symlinking; project is the default, `-g` requests user-wide installation. Agent selection is not a security boundary; check the real target and avoid duplicate copies or unreviewed overwrites.
 
@@ -16,7 +30,7 @@ The [Vercel Labs skills installer](https://github.com/vercel-labs/skills/blob/ma
 npx skills add <local-public-source-root> --skill parent-visa-preparation --agent claude-code --copy
 ```
 
-Replace the placeholder with the actual applicant-only source root (not a private parent project). Use `npx skills add <local-public-source-root> --list` for discovery only. For the remote route **once published on the default branch**:
+Replace the placeholder with the actual applicant-only source root (not a private parent project). Use `npx skills add <local-public-source-root> --list` for discovery only. To install from GitHub:
 
 ```sh
 npx skills add ScriptSavvy/AustraliaVisaSkills --skill parent-visa-preparation --agent claude-code --copy

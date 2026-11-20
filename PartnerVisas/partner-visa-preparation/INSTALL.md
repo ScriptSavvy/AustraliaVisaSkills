@@ -1,12 +1,26 @@
 # Installation — Partner visa preparation
 
-## What to install
+## Quick start: Download → Drag → Ask
+
+1. **Download the Immigent® skill ZIP.** Open the [release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Partner_Visas) and choose the skill ZIP under **Assets**, not **Source code**.
+2. **Drag the ZIP into your AI chat.**
+3. **Send this message:**
+
+   > Please install this skill. Ask before replacing an existing copy. If you can’t install it, tell me whether you can use it in this chat.
+
+If your app can’t open the ZIP, see [Other ways to install](#other-ways-to-install). You don’t need to share any visa documents to get started.
+
+## Other ways to install
+
+Dragging a ZIP into chat does not install it by itself. Check how your AI app handles uploaded files. If you open the ZIP yourself, keep the whole skill folder together.
+
+### What to install
 
 Install the whole **`partner-visa-preparation/`** folder, including SKILL.md, references, template, guides and licence. Do not install the `PartnerVisas` wrapper, only SKILL.md, research documents or applicant records. The activation name is **`partner-visa-preparation`**, version **0.2.0**.
 
 Use the complete inner folder from the repository or the versioned skill ZIP from the [Partner Visas release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Partner_Visas).
 
-## Option A — copy the local folder without a terminal
+### Copy the folder without a terminal
 
 1. Locate `PartnerVisas/partner-visa-preparation/` in the local public-source tree.
 2. Use your agent's current documented skills installation method and copy the entire inner folder. Enable hidden folders in your file manager where needed. Avoid double nesting such as `partner-visa-preparation/partner-visa-preparation/SKILL.md`.
@@ -22,11 +36,11 @@ Use the complete inner folder from the repository or the versioned skill ZIP fro
 
 `~` means your home folder; on Windows use the equivalent user-profile home. Project paths are inside the actual agent workspace. Local files do not automatically reach web/custom-skill accounts, remote workers or cloud sessions. Product/account policies can restrict discovery, tools, file access and uploads.
 
-## Option B — CLI for supported local agents
+### Terminal commands (CLI)
 
 This route requires **Node.js 22.20.0 or later**, npm/npx and internet access, according to the inspected installer package metadata. `npx` downloads/runs the third-party **Vercel Labs skills** installer, separate from Immigent® and your agent. Review its source, permission prompts, telemetry settings and overwrites. Its documentation says setting `DISABLE_TELEMETRY=1` or `DO_NOT_TRACK=1` disables telemetry and security-audit requests; use your operating system's supported environment-setting method if you choose this. It does not install the host agent or clear immigration/professional requirements.
 
-### Use a local source
+#### Use a local source
 
 From an isolated project or the intended agent workspace, substitute the actual local path to the **public-source repository root**:
 
@@ -41,7 +55,7 @@ The angle-bracket path is a placeholder, not a literal command argument. Do not 
 - To inspect discovery without installation, use `npx skills add <local-public-source-root> --list`. Do not assume a JSON listing flag exists.
 - Do not use `--all` or bypass overwrite review just to install this one skill.
 
-### Install from GitHub
+#### Install from GitHub
 
 For a supported local agent, the repository command is:
 
@@ -53,15 +67,9 @@ This command uses the repository's default branch, not an attached release ZIP. 
 
 Installer documentation and package metadata inspected on **17 November 2026** identify version **1.9.0**, Node `>=22.20.0`, local-directory sources, `--skill`, `--agent`, `--copy`, `--list` and `-g`. Those checks are not native-host activation or applicant-response tests. Earlier successful copying of another skill does not test this edition.
 
-## Option C — download the release ZIP
+### Open the ZIP without using chat
 
-On the [Partner Visas release page](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Partner_Visas), choose **`partner-visa-preparation-v0.2.0.zip`** under **Assets**, not a **Source code** archive. Extract it to obtain one top-level **`partner-visa-preparation/`** folder containing all instructions, references, guides, template and notices. Follow the actual bundled version; do not replace files with a summary.
-
-For agents supporting ZIP attachments and installation, attach only the reusable skill ZIP and say:
-
-> Inspect the attached ZIP and read its INSTALL.md. Install the complete partner-visa-preparation folder for this agent's supported current profile/workspace. Preserve every supplied runtime file. Ask before replacing an installation, verify discovery and report the name, version and location. If persistent installation is unavailable, explain that limit rather than claiming success.
-
-Attaching/reading a ZIP is not installation. If unsupported, extract and copy the whole folder manually. Check host/provider processing and retention before attachment; no applicant documents, credentials or case reports belong in the installer payload.
+Extract the skill ZIP you downloaded above to get one `partner-visa-preparation/` folder. Keep its instructions, references, guides, template and notices together. Do not replace files with a summary.
 
 ## Manual Markdown fallback
 
