@@ -166,22 +166,6 @@ Published version: **0.1.1** · [Release](https://github.com/ScriptSavvy/Austral
 - Added guardian/student nominations, family welfare, financial access, health insurance and conditional exceptional-case preparation.
 - Included explicit source-refresh gates, unresolved requirements, privacy safeguards and one-question-at-a-time guidance.
 
-## Skills In Demand 482
-
-Published version: **0.1.1** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass482)
-
-### 0.1.1 — 2026-11-14
-- Simplified adaptive intake to numbered questions without unknown or estimated totals.
-- Added a one-time explanation, exact totals for known question sets, and continuous follow-up numbering.
-- Added both CLI and ZIP installation options to the bundled guides.
-- Updated original-content attribution to Immigent®.
-
-### 0.1.0 — 2026-10-21
-- Added integrated SID subclass 482 nomination and visa preparation, with distinct stage and actor responsibilities.
-- Added role, employment, salary, LMT, skills, English, family and nomination-to-visa consistency checks across the three SID streams.
-- Added applicable-date official-source refresh gates, evidence-quality statuses and explicit handling of unresolved requirements.
-- Included installation/usage guides, privacy and licence notices, and a two-stage report template.
-
 ## Parent Visa
 
 Published version: **0.1.1** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Parent_visas)
@@ -195,3 +179,12 @@ Published version: **0.1.1** · [Release](https://github.com/ScriptSavvy/Austral
 - Added preparation workflows for subclasses 103, 143, 173, 804, 864 and 884, including direct, temporary-to-permanent and queue-stage reviews.
 - Added separate subclass 870 sponsorship and visa application reviews, with checks for the handoff, permission to apply in Australia and further-stay scenarios.
 - Added family relationship, dependency, document consistency and case-specific source verification guidance.
+
+## Employer Sponsored Visa
+
+Published version: **0.2.0** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Employer_Sponsored_Visas)
+
+### 0.2.0 — 2026-11-20
+- Unify subclass 482, 186 and 494 nomination and visa preparation in one employer-sponsored skill. Include a separate 187 transitional TRT workflow and a 494 → 191 evidence handoff, not a full 191 assessment.
+- Add standard business sponsorship applications, renewal and accreditation; labour agreement requests and variations; ongoing sponsor obligations; and worker-protection and sponsor-charge checks.
+- Add a 482 → 186 TRT evidence handoff that keeps visa holding and qualifying employment separate.
