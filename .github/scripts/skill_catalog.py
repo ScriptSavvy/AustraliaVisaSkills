@@ -7,12 +7,14 @@ import re
 from pathlib import Path
 
 ASSET = re.compile(r'([a-z0-9]+(?:-[a-z0-9]+)*)-v([0-9]+\.[0-9]+\.[0-9]+)\.zip')
-# Optional historical wording only. Unknown skills use generated labels.
+# Optional display wording only. Unknown skills use generated labels.
+# Each pair is (changelog heading, README Visa column).
 PRESENTATION = {
     'student-500-preparation': ('Student 500', 'Student — Subclass 500'),
     'visitor-600-preparation': ('Visitor 600', 'Visitor — Subclass 600'),
     'partner-visa-preparation': ('Partner Visa', 'Partner Visa — Subclasses 300, 309/100 and 820/801 (plus Dependent Child 445)'),
-    'employer-sponsored-visa-preparation': ('Employer-sponsored visas — 482, 186, 494 and transitional 187 (191 evidence handoff)', 'Employer-Sponsored Skilled Visas'),
+    'parent-visa-preparation': ('Parent Visa', 'Parent Visa — Subclasses 103, 143/173, 804, 864/884 and 870'),
+    'employer-sponsored-visa-preparation': ('Employer-sponsored visas — 482, 186, 494 and transitional 187 (191 evidence handoff)', 'Employer-Sponsored Skilled Visas — Subclasses 482, 186, 494, 187 and 191'),
     'gsm-points-preparation': ('GSM Points', 'GSM points — Subclasses 189, 190 and 491'),
     'temporary-graduate-485-preparation': ('Temporary Graduate 485', 'Temporary Graduate — Subclass 485'),
     'student-guardian-590-preparation': ('Student Guardian 590', 'Student Guardian — Subclass 590'),
