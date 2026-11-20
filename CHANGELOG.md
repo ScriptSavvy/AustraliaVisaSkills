@@ -6,7 +6,10 @@ Applicant-facing history grouped by independently versioned skill. Current versi
 
 ## Student 500
 
-Published version: **0.4.5** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500)
+Published version: **0.4.6** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/Subclass500)
+
+### 0.4.6 — 2026-11-20
+- Added an optional Konpare comparison link for applicants who need to arrange or extend Overseas Student Health Cover (OSHC). Applicants with suitable cover do not need to buy it again; applicants unsure about an exception should verify it before buying.
 
 ### 0.4.5 — 2026-11-16
 - Added precise onshore and family exemption conditions, including course completion, progression, provider default and linked current-family visas.
