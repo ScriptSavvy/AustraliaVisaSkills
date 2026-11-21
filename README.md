@@ -32,6 +32,8 @@ Each published skill has its own release page with a skill ZIP attached. Use the
 
 For manual setup or terminal commands (CLI), open **Install** next to your skill in the table above.
 
+For Resident Return visas (155 and 157), see the [Resident Return installation guide](ResidentReturnVisas/resident-return-visa-preparation/INSTALL.md) for the CLI and ZIP options. The skill ZIP is not yet published.
+
 ## How to use the skills
 
 Read [How to use Immigent® preparation skills](USAGE.md) once. It explains the common workflow, privacy, question flow and result statuses. Then use the **Use** link for your selected skill above for its activation prompt, examples and specific limits. You do not need to reread the common guide for each skill.
