@@ -198,3 +198,14 @@ Published version: **0.2.2** · [Release](https://github.com/ScriptSavvy/Austral
 - Unify subclass 482, 186 and 494 nomination and visa preparation in one employer-sponsored skill. Include a separate 187 transitional TRT workflow and a 494 → 191 evidence handoff, not a full 191 assessment.
 - Add standard business sponsorship applications, renewal and accreditation; labour agreement requests and variations; ongoing sponsor obligations; and worker-protection and sponsor-charge checks.
 - Add a 482 → 186 TRT evidence handoff that keeps visa holding and qualifying employment separate.
+
+## Resident Return Visa
+
+Published version: **0.1.1** · [Release](https://github.com/ScriptSavvy/AustraliaVisaSkills/releases/tag/subclass155_157_RRV)
+
+### 0.1.1 — 2026-11-21
+- Clarifies that the disclaimer and licence notice must appear before the first answer, including when calculating residence days.
+
+### 0.1.0 — 2026-11-21
+- First Resident Return visa preparation skill for subclasses 155 and 157, with travel-facility, residence, ties, absence and family evidence checks.
+- Adds document-readiness, alternative-lodgement and Department-notice preparation with explicit uncertainty handling and urgent-travel cautions.
