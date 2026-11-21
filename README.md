@@ -4,6 +4,8 @@
 
 Use these skills in your own AI agent to prepare a document checklist, review supplied evidence and organise next actions.
 
+**Installation and usage guides:** English · [中文（简体）](docs/zh-Hans/README.md) · [Español](docs/es/README.md) · [Bahasa Indonesia](docs/id/README.md) · [हिंदी](docs/hi/README.md) · [한국어](docs/ko/README.md) · [日本語](docs/ja/README.md) · [Français](docs/fr/README.md) · [العربية](docs/ar/README.md) · [Tiếng Việt](docs/vi/README.md) · [ไทย](docs/th/README.md)
+
 ## Quick start: Download → Drag → Ask
 
 1. **Download the Immigent® skill ZIP.** Pick a skill below. Open its **Release page** and choose the skill ZIP under **Assets**, not **Source code**.
